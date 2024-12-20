@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhelp_pintar_co=self.webpackChunkhelp_pintar_co||[]).push([[9743],{72014:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Admin","description":"Documentation For Admin Sides","slug":"/category/admin","permalink":"/docs/category/admin","sidebar":"degree","navigation":{"next":{"title":"User","permalink":"/docs/degree/admin/user"}}}}')}}]);
