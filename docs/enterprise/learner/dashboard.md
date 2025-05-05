@@ -12,7 +12,7 @@ Sebelum login ke LMS, pastikan bahwa Anda sudah menerima Email untuk verifikasi 
 
 Untuk Login ke LMS, lakukan cara berikut:
 
-1. Masuk ke URL (<https://enterprise.pintar.co/en/sign-in>)
+1. Masuk ke URL [https://enterprise.pintar.co/en/sign-in](https://enterprise.pintar.co/en/sign-in)
 2. Masukan email pada kolom Email.
 3. Masukan kata sandi pada kolom Password.
 4. Klik tombol Login.

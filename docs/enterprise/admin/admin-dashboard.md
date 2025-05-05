@@ -4,7 +4,7 @@ sidebar_position: 6
 ---
 Untuk Login ke Portal admin, lakukan cara berikut:
 
-1) Akses melalui URL: <https://portal.pintar.co/login> 
+1) Akses melalui URL: [https://portal.pintar.co/login](https://portal.pintar.co/login) 
 
 2) Masukan alamat email pada kolom Email. 
 
