@@ -20,7 +20,7 @@ Before logging into LMS, ensure  that you have received an Email to verify the 
 * Before logging into LMS, ensure  that you have received an Email to verify the new Password you will use. Then, you can log in using the Email and Password.
 
   ![](/img/Enterprise-LMS-Login_1.3.png)
-* Enter the URL (<https://degrees.pintar.co/en/sign-in>) 
+* Enter the URL [https://degrees.pintar.co/en/sign-in](https://degrees.pintar.co/en/sign-in) 
 
   ![](/img/homepage-degree-9.jpg)
 * Enter your email in the Email field.
