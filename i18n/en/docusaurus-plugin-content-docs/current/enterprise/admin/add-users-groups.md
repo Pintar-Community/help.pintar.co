@@ -2,25 +2,25 @@
 title: Add Users Groups
 sidebar_position: 8
 ---
-a. Pilih menu **USERS**, kemudian klik **User Groups**
+a. Select **USERS** menu, then click on **User Groups**
 
-b. Pilih perusahaan di kiri atas
+b. Choose the company from the top left.
 
 ![](/img/enterprise-admin-user-21.png)
 
-c. Klik **+New** di kanan atas, lalu akan masuk ke halaman ‘Assign Group’
+c. Click the "**+New**" button in the top right corner to access the "Assign Group" page.
 
 ![](/img/enterprise-admin-user-22.png)
 
 ![](/img/enterprise-admin-user-23.png)
 
-1. **General**: merupakan section pertama yang perlu diisi, terdiri dari nama grup, partner dan deskripsi. Setelah mengisi tiga informasi tersebut, admin dapat klik **CREATE**.
-2. **Assign User**: merupakan section kedua yang perlu diisi. Admin dapat mencari nama user pada kolom pencarian. Admin juga dapat memilih user berdasarkan **Branch & Department**.
+1. **General**: This is the first section that needs to be completed. It consists of the group name, partner, and description. Once you have filled in the information, the administrator can click on **CREATE**.
+2. **Assign User**: This is the second section that needs to be completed. The administrator can search for the user's name in the search bar. Additionally, users can be selected based on their **Branch and Department**.
 
-![](/img/enterprise-admin-user-24.png)
+   ![](/img/enterprise-admin-user-24.png)
 
-a. Admin dapat klik kolom yang tersedia pada sisi kiri user card, untuk memilih user yang akan dimasukkan dalam grup.
+   a. The administrator can add users to the group by selecting the checkbox adjacent to the user's profile card
 
-b. Pada bagian kanan atas, terdapat informasi total user yang telah dipilih, dari total keseluruhan user yang ada.
+   b. In the upper right corner, you will find the total number of selected users out of the total number of available users.
 
-c. Setelah memilih user, admin dapat klik **Save**.
+   c. After selecting the users, the administrator can click **Save**.

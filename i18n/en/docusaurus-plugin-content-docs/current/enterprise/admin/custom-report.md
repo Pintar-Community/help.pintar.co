@@ -1,23 +1,23 @@
 ---
-title: Custom Reports
+title: Custom Report
 sidebar_position: 9
 ---
-**Custom Report** digunakan untuk menarik laporan nilai dari course tertentu, tampilan custom report seperti berikut:
+**Custom Reports** can be used to generate performance reports for specific courses. The appearance of a Custom Report is as follows:
 
 ![](/img/enterprise-admin-custom-report-1.png)
 
-a. Pilih menu Custom Report lalu pilih perusahaan sesuai course yang akan dilihat nilainya.
+a. Select the Custom Report menu, then choose the company associated with the course for which you want to view the score.
 
 ![](/img/enterprise-admin-custom-report-2.png)
 
-b. Klik **+New Report** untuk membuat report baru.
+b. Click **+New Report** to create a new report.
 
 ![](/img/enterprise-admin-custom-report-3.png)
 
-c. Isi form yang tersedia sesuai dengan nilai course yang akan dilihat, lalu klik **Create**.
+c. Fill out the form with the relevant course score, then click **Create**.
 
 ![](/img/enterprise-admin-custom-report-4.png)
 
-d. Klik **Export History** untuk mendownload data nilai yang sudah ditarik.
+d. Click the **Export History** button to initiate the download of the retrieved score data
 
 ![](/img/enterprise-admin-custom-report-5.png)
