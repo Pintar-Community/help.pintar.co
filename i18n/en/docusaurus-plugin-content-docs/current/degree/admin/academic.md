@@ -4,286 +4,286 @@ sidebar_position: 9
 ---
 ![](/img/admin-portal-degrees-academic-1.jpg)
 
-### 1. Curriculum
+#### 1. Curriculum
 
-#### Cara membuat Curriculum :
+#### How to make a Curriculum :
 
-* Klik Academic
-* Pilih Curriculum
+* Click Academic
+* Select Curriculum
 
   ![](/img/admin-portal-degrees-academic-2.jpg)
-* Kemudian akan muncul tampilan Curriculum
+* Then the Curriculum display will appear
 
   ![](/img/admin-portal-degrees-academic-3.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-academic-4.jpg)
-* Lengkapi General Information seperti gambar
+* Fill the General Information
 
   ![](/img/admin-portal-degrees-academic-5.jpg)
-* Klik Save
-* Klik Semester & Course
+* Click Save
+* Click Semester & Course
 
   ![](/img/admin-portal-degrees-academic-6.jpg)
-* Klik Edit
+* Click Edit
 
   ![](/img/admin-portal-degrees-academic-7.jpg)
-* Klik Add Course
+* Click Add Course
 
   ![](/img/admin-portal-degrees-academic-10.jpg)
-* Klik Select Course, kemudian pilih course yang akan diassign ke semester tersebut
+* Click Select Course, then select the course that will be assigned to the semester
 
   ![](/img/admin-portal-degrees-academic-12.jpg)
-* Lakukan hal yang sama pada semester yang lain
+* Do the same for the other semester
 
   ![](/img/admin-portal-degrees-academic-13.jpg)
 
 ### 2. Study Plan
 
-#### Cara membuat Study Plan :
+#### How to make Study Plan :
 
-* Klik Academic
-* Pilih Study Plan
+* Click Academic
+* Choose Study Plan
 
   ![](/img/admin-portal-degrees-study-plan-1.jpg)
-* Kemudian akan muncul tampilan Study Plan
+* Then the Study Plan display will appear
 
   ![](/img/admin-portal-degrees-study-plan-2.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-study-plan-3.jpg)
-* Lengkapi General Information seperti gambar
+* Fill the General Information
 
   ![](/img/admin-portal-degrees-study-plan-4.jpg)
-* Klik Save
-* Klik Course Assignment
+* Click Save
+* Click Course Assignment
 
   ![](/img/admin-portal-degrees-study-plan-6.jpg)
-* Klik Edit
+* Click Edit
 
   ![](/img/admin-portal-degrees-study-plan-7.jpg)
-* Klik Add Course
+* Click Add Course
 
   ![](/img/admin-portal-degrees-study-plan-8.jpg)
-* Klik Select Course, kemudian pilih course yang akan diassign ke semester tersebut
+* Click Select Course, then select the course that will be assigned to the semester
 
   ![](/img/admin-portal-degrees-study-plan-9.jpg)
-* Klik Save
-* Lakukan hal yang sama pada semester yang lain
+* Click Save
+* Do the same for the other semester
 
   ![](/img/admin-portal-degrees-academic-13.jpg)
-* Klik Semester Assignment
+* Click Semester Assignment
 
   ![](/img/admin-portal-degrees-study-plan-10.jpg)
-* Klik Add
+* Click Add
 
   ![](/img/admin-portal-degrees-study-plan-11.jpg)
-* Kemudian akan muncul pop up seperti gambar
+* Then a pop up image will appear as shown below
 
   ![](/img/admin-portal-degrees-study-plan-12.jpg)
-* Pilih Enrollment Year
+* Select Enrollment Year
 
   ![](/img/admin-portal-degrees-study-plan-13.jpg)
-* Pilih Enrollment Type
+* Select Enrollment Type
 
   ![](/img/admin-portal-degrees-study-plan-14.jpg)
-* Pilih Batch
+* Select Batch
 
   ![](/img/admin-portal-degrees-study-plan-15.jpg)
-* Pilih Semester
+* Select Semester
 
   ![](/img/admin-portal-degrees-study-plan-16.jpg)
-* Jika sudah dipilih, kemudian klik Save
+* Once selected, click Save
 
   ![](/img/admin-portal-degrees-study-plan-17.jpg)
 
 ### 3. Class Management
 
-#### Cara membuat Class Management :
+#### How to make Class Management :
 
-* Klik Academic
-* Klik Class Management
+* Click Academic
+* Click Class Management
 
   ![](/img/admin-portal-degrees-class-management-1.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-class-management-2.jpg)
-* Kemudian akan muncul tampilan Class Management
+* The Class Management display will appear as follows 
 
   ![](/img/admin-portal-degrees-class-management-3.jpg)
-* Pilih Program
+* Select Program
 
   ![](/img/admin-portal-degrees-class-management-4.jpg)
-* Pilih Academic Year
+* Select Academic Year
 
   ![](/img/admin-portal-degrees-class-management-5.jpg)
-* Klik Check Enrolled Student untuk mengecek data user
+* Click “Check Enrolled Student” to check the data user
 
   ![](/img/admin-portal-degrees-class-management-7.jpg)
-* Klik Add New Class untuk menambahkan kelas baru
+* Click “Add New Class” to add a new class
 
   ![](/img/admin-portal-degrees-class-management-8.jpg)
-* Isi Class Name dan Class Code
+* Fill Class Name and Class Code
 
   ![](/img/admin-portal-degrees-class-management-9.jpg)
-* Pilih Lecturers
+* Select Lecturers
 
   ![](/img/admin-portal-degrees-class-management-10.jpg)
-* Klik Save
+* Click Save
 
   ![](/img/admin-portal-degrees-class-management-12.jpg)
-* Klik three dot button pada kelas yang sudah dibuat
+* Click the three dot button on the class that has been created
 
   ![](/img/admin-portal-degrees-class-management-13.jpg)
-* Klik Assign Students untuk menambahkan user pada kelas tersebut
+* Click Assign Students to add a user to the class
 
   ![](/img/admin-portal-degrees-class-management-14.jpg)
-* Klik Add
+* Click Add
 
   ![](/img/admin-portal-degrees-class-management-15.jpg)
-* Pilih nama student yang akan ditambahkan pada kelas tersebut
+* Select the student names to be added to the class
 
   ![](/img/admin-portal-degrees-class-management-16.jpg)
-* Kemudian klik Save
+* Click Save
 
   ![](/img/admin-portal-degrees-class-management-17.jpg)
-* Anda juga dapat mencari nama student pada kolom “Search student name”
+* You can also search for the student's name in the "Search student name" column
 
   ![](/img/admin-portal-degrees-class-management-18.jpg)
-* Klik tanda seperti gambar untuk melanjutkan ke kelas berikutnya dan lakukan langkah yang sama.
+* Click the icon as shown in the image to proceed to the next class. Then follow the same steps.
 
   ![](/img/admin-portal-degrees-class-management-19.jpg)
 
 ### 4. Attendance Management
 
-#### Cara setting Attendance Management :
+#### How to set Attendance Management :
 
-* Klik Academic
-* Klik Attendance Management
+* Click Academic
+* Click Attendance Management
 
   ![](/img/admin-portal-degrees-attendance-management-1.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-attendance-management-2.jpg)
-* Kemudian akan muncul tampilan Attendance Management
+* Then the Attendance Management display will appear
 
   ![](/img/admin-portal-degrees-attendance-management-3.jpg)
-* Isi kolom minimum kehadiran Students untuk mengikuti ujian
+* Fill in the minimum attendance column for students to take the exam
 
   ![](/img/admin-portal-degrees-attendance-management-4.jpg)
-* Pilih attendance tracking
+* Select attendance tracking
 
   ![](/img/admin-portal-degrees-attendance-management-5.jpg)
-* Aktifkan button enable pada items yang menjadi kewajiban Students
+* Enable the button on the items required for students
 
   ![](/img/admin-portal-degrees-attendance-management-6.jpg)
 
   ![](/img/admin-portal-degrees-attendance-management-7.jpg)
-* Klik Save
+* Click Save
 
   ![](/img/admin-portal-degrees-attendance-management-8.jpg)
 
 ### **5. Lecture Attendance Management**
 
-#### Cara setting Lecture Attendance Management :
+#### **How to set Lecture Attendance Management :**
 
-* Klik Academic
-* Klik Lecturer Attendance Management
+* Click Academic
+* Click Lecturer Attendance Management
 
   ![](/img/admin-portal-degrees-lecture-attendance-1.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-lecture-attendance-2.jpg)
-* Kemudian akan muncul tampilan Lecturer Attendance Management
+* Then the Lecturer Attendance Management display will appear
 
   ![](/img/admin-portal-degrees-lecture-attendance-6.jpg)
-* Pilih attendance tracking
+* Select attendance tracking
 
   ![](/img/admin-portal-degrees-lecture-attendance-3.jpg)
-* Aktifkan button enable pada items yang menjadi kewajiban Lecture
+* Enable the button on the items required for Lecturer
 
   ![](/img/admin-portal-degrees-lecture-attendance-4.jpg)
-* Klik Save
+* Click Save
 
   ![](/img/admin-portal-degrees-lecture-attendance-5.jpg)
 
 ### 6. Grading Management
 
-#### Cara membuat Grading Rules :
+#### How to create Grading Rules :
 
-* Klik Academic
-* Klik Grading Management
+* Click Academic
+* Click Grading Management
 
   ![](/img/admin-portal-degrees-grading-management-1.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-grading-management-2.jpg)
-* Kemudian akan muncul tampilan seperti berikut
+* The screen display will appear as follows
 
   ![](/img/admin-portal-degrees-grading-management-3.jpg)
-* Pilih Grading Rules
+* Select Grading Rules
 
   ![](/img/admin-portal-degrees-grading-management-4.jpg)
-* Pilih Grade
+* Select Grade
 
   ![](/img/admin-portal-degrees-grading-management-6.jpg)
-* Isi Grade Point dan Minimun Score
+* Fill the Grade Point and Minimum Score
 
   ![](/img/admin-portal-degrees-grading-management-7.jpg)
-* Pilih Status
+* Select Status
 
   ![](/img/admin-portal-degrees-grading-management-8.jpg)
-* Klik Save
+* Click Save
 
   ![](/img/admin-portal-degrees-grading-management-9.jpg)
-* Berikut contoh tampilan Grading Rules yang sudah diisi.
+* Here is an example of the Grading Rules screen that has been filled out.
 
   ![](/img/admin-portal-degrees-grading-management-10.jpg)
 
 ### 7. Faculty
 
-#### Cara menambahkan Fakultas :
+#### How to add Faculty :
 
-* Klik Academic
-* Klik Faculty
+* Click Academic
+* Click Faculty
 
   ![](/img/admin-portal-degrees-faculty-1.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-faculty-2.jpg)
-* Pilih Bahasa
+* Select language
 
   ![](/img/admin-portal-degrees-faculty-3.jpg)
-* Isi Nama Fakultas dan Deskripsi Fakultas (*Optional*)
+* Fill in the Faculty Name and Faculty Description (*Optional*)
 
   ![](/img/admin-portal-degrees-faculty-4.jpg)
-* Klik Save
+* Click Save
 
   ![](/img/admin-portal-degrees-faculty-5.jpg)
-* Berikut contoh tampilan menu Fakultas yang sudah diisi.
+* Here is an example of the Faculty Menu screen that has been filled out.
 
   ![](/img/admin-portal-degrees-faculty-6.jpg)
 
 ### 8. Program Code
 
-#### Cara menambahkan Program Code :
+#### How to add Program Code :
 
-* Klik Academic
-* Klik Program Code
+* Click Academic
+* Click Program Code
 
   ![](/img/admin-portal-degrees-program-code-1.jpg)
-* Klik New
+* Click New
 
   ![](/img/admin-portal-degrees-program-code-6.jpg)
-* Kemudian akan muncul tampilan seperti berikut
+* The screen display will appear as follows
 
   ![](/img/admin-portal-degrees-program-code-2.jpg)
-* Isi Code dan Nama
+* Fill the code and name
 
   ![](/img/admin-portal-degrees-program-code-3.jpg)
-* Klik Save
+* Click Save
 
   ![](/img/admin-portal-degrees-program-code-4.jpg)
-* Berikut contoh tampilan menu Program Code yang sudah diisi
+* Here is an example of the Program Code screen that has been filled out
 
   ![](/img/admin-portal-degrees-program-code-5.jpg)

@@ -1,109 +1,108 @@
 ---
-title: Program Code
+title: (Admin) Program Code
 sidebar_position: 1
 ---
-
-Menu Program ini digunakan untuk membuat Program dalam penerimaan Mahasiswa Baru. Untuk mengakses Menu Program, Admin dapat Klik **Program**
+Program menu is used to create a program for new student admissions. To access the Program Menu, Admin can click **Program**
 
 ![](/img/00-program-code.png)
 
-Lalu akan muncul Program yang sudah tersedia/sudah berjalan seperti ini:
+Then the program that is available/already running will appear like this:
 
 ![](/img/1.-home-producte-code.png)
 
-Untuk mempermudah Admin dalam mencari Program, Admin dapat Klik Icon Filter yang berada di sebelah kanan atas.
+To make it easier for Admin to search for programs, Admin can click the Filter Icon on the right top.
 
 ![](/img/2.-filter.png)
 
-Admin dapat isi sesuai dengan Program yang ingin Admin cari, lalu Klik **Apply**.
+Admin can fill in according to the program that Admin wants to find, then click **Apply**.
 
 ![](/img/program-code-4.png)
 
-Maka Program yang Admin cari akan muncul.
+Then the program that Admin is looking for will appear.
 
-Namun, jika Admin ingin membuat Program baru untuk Mahasiswa Baru, Admin dapat Klik **+New**
+However, if the Admin wants to create a new program for new students, the Admin can click **+New**
 
 ![](/img/4.-new.png)
 
-Admin dapat mengisi _General Information_ sesuai dengan Program yang ingin Admin buat.
+The admin can fill in G*eneral Information* according to the program that the administrator wants to create.
 
 ![](/img/5.-general-information.png)
 
-General Information berisikan hal terkait:
+General Information includes : 
 
-1. Universitas : Pilih Universitas yang ingin dibuatkan Program
-2. Fakultas : Pilih Fakultas yang ingin dibuat
-3. Program : Tuliskan Program yang ingin dibuat
-4. Kode Program : Pilih Kode Program yang sesuai dengan yang akan dibuat
-5. Deskripsi : Admin dapat memaparkan terkait Program yang Admin buat
-6. Jenjang Pendidikan : Pilih jenjang pendidikan sesuai dengan yang ingin Admin buat
-7. Akreditasi : Pilih akreditasi sesuai dengan program yang dibuat
-8. Negara : Pilih Negara sesuai Universitas berada
-9. Provinsi : Pilih Provinsi sesuai dengan alamat Universitas
-10. Kota : Pilih Kota sesuai dengan alamat Universitas
-11. Rincian Lokasi : Tuliskan alamat lengkap dari Universitas
-12. Payment : Pilih PINTAR
+1. University	: Select the university for which the program is being created.
+2. Faculty		: Select the relevant faculty.
+3. Program		: Enter the name of the program to be created.
+4. Program Code	: Choose the appropriate program code.
+5. Description	: Provide details about the program.
+6. Education Level : Select the appropriate education level.
+7. Accreditation	: Choose the accreditation level for the program.
+8. Country		: Select the country where the university is located.
+9. Province		: Choose the province according to the university’s location.
+10. City	        	: Select the city where the university is located.
+11. Location Details : Enter the full address of the university.
+12. Payment		: Select PINTAR.
 
-Setelah semuanya diisi, Admin juga wajib upload Banner, Thumbnail dan Brochure lalu Klik Save.
+After everything is filled in, Admin is also required to upload Banners, Thumbnails and Brochures. Then click Save.
 
-Jika Admin sudah Klik Save, maka Program sudah terbuat namun Admin masih harus melengkapi beberapa data lagi seperti _Learning Info._
+If the Admin has clicked Save, the Program has been created, but the Admin still has to complete some more data such as *Learning Info*.
 
 ![](/img/program-code-7.png)
 
-Learning Info berisikan hal terkait:
+Learning Info contains : 
 
-1. Metode Pembelajaran : Pilih metode pembelajaran sesuai dengan Program yang dibuat
-2. Informasi Pembelajaran : Tuliskan informasi terkait pembelajaran
-3. Key Name : Tuliskan Kata Kunci dari pembuatan Program
-4. Date Type : Pilih Tipe Tanggal sesuai dengan pembuatan Program
-5. Range : Atur Tanggal sesuai dengan dibukanya Program
+1. Learning Method		: Choose the learning method according to the program created
+2. Learning Information 	: Write down information related to learning
+3. Key Name 			: Write down the keywords of the program creation
+4. Date Type 			: Select the Date Type according to the program creation
+5. Range			: Set the date according to the opening of the program
 
-Setelah semuanya diisi lalu Klik Save, lalu Admin dapat melengkapi data pada bagian _Enrollment_
+After everything is filled in, Click Save, then the Admin can complete the data in the *Enrollment* section.
 
 ![](/img/program-code-8.png)
 
-Enrollment berisikan hal terkait:
+Enrollment contains :
 
-1. Tahun Pendaftaran : Pilih tahun pendaftaran sesuai dengan dibukanya Program
-2. Tipe Pendaftaran : Pilih tipe pendaftaran (Odd untuk Ganjil dan Even untuk Genap)
-3. Batch Pendaftaran : Pilih batch sesuai dengan
-4. Periode Pendaftaran : Tentukan periode pendaftaran
-5. Syarat Pendaftaran : Tuliskan syarat pendaftaran
+1. Enrollment Year		: Select the registration year according to the opening of the Program
+2. Enrollment Type		: Select the enrollment type (Odd for Odd and Even for Even)
+3. Enrollment Batch		: Select batch
+4. Enrollment Period		: Specify the registration period
+5. Enrollment Requirements : Write down the registration requirements
 
-Setelah semuanya diisi lalu Klik Save, lalu Admin dapat melengkapi data pada bagian _Career_.
+After everything is filled in then Click Save, then the Admin can complete the data in the *Career* section.
 
 ![](/img/8.-career.png)
 
-Career berisikan hal terkait:
+Career contains:
 
-1. Deskripsi Karir : Tuliskan tujuan karir dari Program yang dibuat
-2. Prospek Karir : Pilih beberapa prospek karir sesuai dengan Program yang dibuat
+1. Career Description: Write the career objective of the program
+2. Career Prospects: Choose several career prospects according to the program created
 
-Setelah bagian Career diisi Admin dapat Klik Save lalu Admin pindah ke bagian _Student Form Setting._
+After the Career section is filled in, Admin can click Save. Then Admin can proceed to the *Student Form Setting* section.
 
 ![](/img/9.-student-form-setting.png)
 
-Admin dapat pilih data apa saja yang diperlukan dari calon pendaftar, setelah itu Admin klik **Save** dan Admin melanjutkan ke bagian **Payment**
+The Admin can select the required data fields from prospective applicants. After making the selections, the Admin clicks **Save** and proceeds to the **Payment** section.
 
 ![](/img/10.-payment.png)
 
-Pada bagian Payment, Admin dapat isi:
+In the Payment section, Admin can fill in:
 
-1. Payment Type : Pilih tipe pembayaran
-2. Price in IDR : Tuliskan biaya untuk mendaftar Program
+1. Payment Type: Select payment type
+2. Price in IDR: Write down the cost to register for the Program
 
-Lalu Admin dapat Klik Save dan Admin dapat melanjutkan ke bagian _Discount_.
+Then Admin can click Save and proceed to the *Discount* section.
 
 ![](/img/11.-discount.png)
 
-Bagian Discount ini bersifat opsional, jika Admin ingin membuat discount untuk Program yang Admin buat, maka Admin harus mengisi:
+This discount is optional, if Admin wants to create a discount for the Program that Admin created, then Admin must fill in:
 
-1. Nama Diskon : Tuliskan nama diskon
-2. Tanggal Berlaku : Tentukan tanggal berlaku diskon
-3. Tipe : Pilih tipe diskon
-4. Diskon : Tuliskan persentase diskon
-5. Harga Akhir : Tuliskan harga akhir setelah diskon
+1. Discount Name : Write down the name of the discount
+2. Effective Date	: Specify the valid date of the discount
+3. Type		: Select the discount type
+4. Discount		: Write down the discount percentage
+5. Final Price 	: Write down the final price after discount
 
-Lalu Admin klik Save dan Program selesai dibuat, namun untuk bagian _Student_ akan terisi jika sudah ada yang mendaftar.
+Then the Admin can click Save and the Program is finished, but the *Student* section will be filled in if someone has registered.
 
-![](/img/12.-students.png)
+![1](/img/12.-students.png)

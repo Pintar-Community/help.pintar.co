@@ -1,55 +1,53 @@
 ---
-title: Homepage Degree
+title: (UI Learner) Homepage Degree
 sidebar_position: 10
 ---
-
-Bagian ini menampilkan halaman awal dari program Degree.
+This section displays the home page of the Degree program.
 
 ![](/img/homepage-degree.jpg)
 
-Sebelum login ke LMS, pastikan bahwa Anda sudah menerima Email untuk verifikasi penggantian Password baru yang akan digunakkan. Kemudian Anda dapat login menggunakan Email dan Password tersebut.
+Before logging into LMS, ensure  that you have received an Email to verify the new Password you will use. Then, you can log in using the Email and Password.
 
 ![](/img/homepage-degree-3.jpg)
 
-1. Tombol untuk mengganti bahasa (Indonesia/English)
-2. Tombol untuk Login ke LMS Degree
+1. Button to Change Language (Indonesia/English)
+2. Button to Login to LMS Degree
 
-#### Cara Login ke LMS Degree :
 
-- Sebelum login ke LMS, pastikan bahwa Anda sudah menerima Email untuk verifikasi penggantian Password baru yang akan digunakkan. Kemudian Anda dapat login menggunakan Email dan Password tersebut.
 
-![](/img/Enterprise-LMS-Login_1.3.png)
+#### How to login to LMS Degree :
 
-- Masuk ke URL ([https://degrees.pintar.co/en/sign-in](https://degrees.pintar.co/en/sign-in))
+* Before logging into LMS, ensure  that you have received an Email to verify the new Password you will use. Then, you can log in using the Email and Password.
 
-![](/img/homepage-degree-9.jpg)
+  ![](/img/Enterprise-LMS-Login_1.3.png)
+* Enter the URL (<https://degrees.pintar.co/en/sign-in>) 
 
-- Masukan email pada kolom Email
-- Masukan kata sandi pada kolom Kata Sandi
-- Klik tombol Masuk
+  ![](/img/homepage-degree-9.jpg)
+* Enter your email in the Email field.
+* Enter your password in the Password field.
+* Click the login button
 
-3. Tombol untuk mengajukan Demo
+
+
+3. Button to request a demo
 
 ![](/img/homepage-degree-10.jpg)
 
-Anda dapat mengisi semua informasi yang dibutuhkan untuk mengajukan Demo.
+You can fill in all the required information to request a demo.
 
-Terdapat beberapa menu pada home page Degree :
+There are several menus available on the homepage Degree :
 
 ![](/img/homepage-degree-2.jpg)
 
-1. Produk
+1. Products
 
    ![](/img/homepage-degree-4.jpg)
-
-2. Konten
+2. Content
 
    ![](/img/homepage-degree-5.jpg)
-
 3. Prakerja
 
    ![](/img/homepage-degree-6.jpg)
-
-4. Tentang Kami
+4. About Us
 
    ![](/img/homepage-degree-7.jpg)

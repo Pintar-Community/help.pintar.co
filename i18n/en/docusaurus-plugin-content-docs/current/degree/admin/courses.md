@@ -2,39 +2,39 @@
 title: Courses
 sidebar_position: 3
 ---
-Pada fitur **Courses** ada beberapa Menu di dalamnya, seperti yang terlampir pada gambar berikut ini:
+In the **Courses** feature there are several Menus in it, as attached to the following image:
 
 ![](/img/00-courses.png)
 
 ## **1. Course Listing**
 
-Course Listing berisikan Mata Kuliah yang sudah berjalan, untuk mempermudah Admin dalam mencari Mata Kuliah, Admin dapat Klik **Filter**.
+Course Listing contains Courses that are already running, to make it easier for Admin to find Courses, Admin can Click **Filter**.
 
 ![](/img/1.-filter.png)
 
-Dan isi Mata Kuliah yang ingin Admin cari lalu Klik **Apply**.
+Fill in the Course that the Admin wants to find then, Click **Apply**.
 
 ![](/img/2.-mata-kuliah_apply.png)
 
-Admin juga dapat membuat Course baru menggunakan Menu ini dengan cara Klik **+New**
+Admins can also create new courses using this menu by clicking **+New**
 
 ![](/img/3.-new.png)
 
-Lalu Admin dapat mengisi beberapa hal seperti pada gambar berikut ini:
+Then the Admin can fill in a several items as shown below :
 
 ![](/img/4.-general-information.png)
 
 ![](/img/5.-point-general-information.png)
 
-1. Course Name : Tuliskan nama mata kuliah yang akan dibuat.
-2. Code : Tuliskan kode mata kuliah yang akan dibuat.
-3. University : Pilih Universitas untuk mata kuliah yang akan dibuat.
-4. Credit : Tuliskan Satuan Kredit Semester (SKS) dari mata kuliah yang akan dibuat.
-5. Category : Pilihlah kategori dari mata kuliah yang akan dibuat.
-6. Classification : Pilih klasifikasi dari mata kuliah yang akan dibuat.
-7. Upload Cover : Upload cover dari mata kuliah yang akan dibuat, setelah semuanya terisi Admin dapat Klik **SAVE**.
+1. Course Name	: Write the name of the course that will be created.
+2. Code		: Write down the course code that will be created.
+3. University 	: Select the University for the course to be created.
+4. Credit 		: Write down the Semester Credit Units (SKS) of the course to be created.
+5. Category 	: Choose the category of the course to be created.
+6. Classification	: Select the classification of the course to be created.
+7. Upload Cover	: Upload the cover of the course to be created, after everything is filled in the Admin can click **SAVE**.
 
-Setelah mata kuliah sudah terbuat Admin dapat menambahkan Materi pada mata kuliah Admin dapat Klik **Material**
+After the course has been created, Admin can add Material to the course. Click **Material**
 
 ![](/img/6.-materials.png)
 
@@ -42,102 +42,102 @@ Setelah mata kuliah sudah terbuat Admin dapat menambahkan Materi pada mata kulia
 
 ![](/img/8.-material_3.png)
 
-1. Description : Klik Ikon Pensil lalu tuliskan deskripsi dari mata kuliah yang dibuat.
-2. Course Features : Klik Ikon Pensil, lalu pilih bahasa dan Klik Save
+1. Description		: Click the Pencil Icon and write the description of the course.
+2. Course Features	: Click the Pencil Icon, then select the language and. Click Save.
 
 ![](/img/9.-course-feature.png)
 
-3. Upload Document : Upload silabus mata kuliah.
+3. Upload Document	: Upload the course syllabus
 
-Setelah itu Admin dapat menambahkan Sesi untuk mata kuliah dengan cara Klik **+ADD SECTION** yang berada di kiri bawah.
+After that, Admins can add Sessions for courses by clicking **+ADD SECTION** on the bottom left.
 
 ![](/img/10.-add-section.png)
 
 ![](/img/11.-new-section.png)
 
-Tuliskan Judul Sesi Materi lalu Klik Save dan Admin dapat menambahkan Materi dengan Klik **+Add Content**
+Write the title of the material session then click Save. Admins can add materials by clicking **+Add Content**
 
 ![](/img/12.-add-content.png)
 
-Dan pilih Content materi yang akan di upload pada mata kuliah tersebut.
+Select Content material that will be uploaded to the course.
 
 ![](/img/13.-content-materi.png)
 
-Begitu pun seterusnya, Admin dapat membuat beberapa Sesi sesuai dengan silabus Mata Kuliah tersebut. Untuk memasukan Bobot Nilai, Admin dapat kembali lagi ke bagian setting lalu Klik **Gradebook**
+Admin can create several Sessions according to the Course syllabus. To enter the Value Weight, the Admin can return to the settings section then click **Gradebook**
 
 ![](/img/14.-gradebook.png)
 
-Lalu Admin dapat Klik **ADD**
+Click **ADD**
 
 ![](/img/15.-add-gradebook.png)
 
 ![](/img/16.-point-gradebook.png)
 
-1. Component Name : Nama bobot nilai
-2. Weitht(%) : Bobot nilai dalam persentase
-3. Content Type : Pilih content yang menjadi bobot nilai, lalu Klik **ADD**
+1. Component Name	: Value weight name
+2. Weitht(%)		: Value weight in percentage
+3. Content Type		: Select the content that becomes the value weight, then Click **ADD**
 
-Admin juga dapat setting konfigurasi dengan Klik **Configuration**
+Admins can also set configurations by clicking **Configuration**
 
 ![](/img/17.-configurations.png)
 
-Lalu Admin pilih settingan apa saja untuk mata kuliah tersebut lalu Klik **Save**.
+Select any settings for the course then click **Save.**
 
-Jika semuanya sudah tersetting Mata Kuliah sudah dapat diproses untuk langkah selanjutnya.
+Once everything is set, the course can be processed for the next step.
 
 ## **2. Quiz Bank**
 
-Menu Quiz Bank ini untuk mempermudah Admin dalam memasukkan Quiz ke dalam LMS.
+This Quiz Bank menu exists to simplify Admin in entering Quiz into LMS.
 
 ![](/img/18.-quiz-bank.png)
 
-Admin dapat membuat Quiz Bank baru dengan cara klik **+NEW** dan pilih **+New Quiz.**
+Admin can create a new Quiz Bank by clicking **+NEW** and selecting **+New Quiz.**
 
 ![](/img/19.-new-quiz-bank.png)
 
 ![](/img/20.-detail-quiz-bank.png)
 
-Admin dapat memilih Tipe Quiz sesuai dengan Quiz yang akan dibuat.
+Admin can select the Quiz Type according to the Quiz to be created.
 
 ![](/img/21.-quiz-type.png)
 
 ![](/img/22.-detail-quiz-bank.png)
 
-isi form sebagai berikut:
+Fill in the form as follows:
 
-1. Question : Isi pertanyaan Quiz
-2. Answer Option : Isi jawaban Quiz yang sesuai
-3. Keyword : Isi keyword agar lebih mudah saat mencari Quiz
-4. Feedback : Isi feedback (opsional bisa juga dikosongkan), lalu klik **save**
+1. Question		: Fill in the Quiz questions
+2. Answer Option : Fill in the right quiz answer
+3. Keyword		: IFill in keywords to make it easier when searching for Quiz
+4. Feedback		: Fill in the feedback (optional, can also be left blank), then click **save**
 
-Selanjutnya apabila Admin ingin membuat folder Quiz sesuai materi yang ada klik **Create Folder**
+Furthermore, if the Admin wants to create a Quiz folder according to the existing material click **Create Folder**
 
 ![](/img/23.-folder-quiz-bank.png)
 
 ![](/img/24.-create-folder.png)
 
-Isi bagian **Title** dan **Description**, lalu klik **Save**
+Fill int the **Title** and **Description**, then click **save.**
 
 ![](/img/25.-title-description.png)
 
 ## **3. Archive Course**
 
-Archive Course ini digunakan untuk mengarsipkan Mata Kuliah.
+Archive Course is used to archive the Course.
 
 ![](/img/26.-archice-course.png)
 
-Untuk memudahkan Admin dalam mencari Course yang diarsipkan, Admin dapat Klik **FILTER**.
+To make it easier for Admins to search for archived courses, Admins can click **FILTER.**
 
 ![](/img/27.-filter.png)
 
 ![](/img/28.-filter-data.png)
 
-Admin dapat cari berdasarkan nama mata kuliah lalu Admin dapat Klik **Apply**.
+Admin can search by course name, then Admin can click **Apply**.
 
-Dan untuk melihat history dari Archive Course Admin dapat Klik **Archive Course**.
+To see the history of the Archive Course, Admin can click **Archive Course**.
 
 ![](/img/29.-archive-history.png)
 
-Maka akan muncul history seperti ini
+Then a history will appear like this : 
 
 ![](/img/30.-history.png)

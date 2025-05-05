@@ -6,52 +6,52 @@ sidebar_position: 8
 
 ### 1. Payment Details
 
-* Klik Finance
-* Klik Payment Details
+* Click Finance
+* Click Payment Details
 
   ![](/img/admin-portal-degrees-finance-14.jpg)
-* Pilih Program
+* Select Program
 
   ![](/img/admin-portal-degrees-finance-16.jpg)
-* Pilih Semester
+* Select Semester
 
   ![](/img/admin-portal-degrees-finance-17.jpg)
-* Pilih Installment
+* Choose Installment
 
   ![](/img/admin-portal-degrees-finance-18.jpg)
-* Klik Apply
+* Click Apply
 
   ![](/img/admin-portal-degrees-finance-19.jpg)
-* Kemudian akan muncul tampilan seperti berikut
+* Then the display will appear as follows : 
 
   ![](/img/admin-portal-degrees-finance-3.jpg)
-* Apabila Anda ingin mendownload data, klik button Download Data
+* Click the Download Data button to download the data.
 
   ![](/img/admin-portal-degrees-finance-4.jpg)
 
 
 
-Pada menu Payment Details, terdapat 2 menu yaitu Import Add on dan Add on History.
+In the Payment Details menu, there are two sub-menus available. Import Add-on and Add-on History.
 
 ![](/img/admin-portal-degrees-finance-5.jpg)
 
 #### a. Import Add on
 
-Menu ini digunakan untuk mengupload tagihan Add on.
+This menu is used to upload Add-on Billing.
 
 ![](/img/admin-portal-degrees-finance-6.jpg)
 
-1. Pilih Program
-2. Pilih Semester
+1. Select Program
+2. Select Semester
 3. Download template
-4. Upload dokumen
-5. Klik Apply
+4. Upload document
+5. Click Apply
 
 
 
 #### b. Add on History
 
-Menu ini digunakan untuk melihat history tagihan Add on yang sudah diupload.
+This menu is used to view the history of Add-on bills that have been uploaded.
 
 ![](/img/admin-portal-degrees-finance-7.jpg)
 
@@ -59,51 +59,52 @@ Menu ini digunakan untuk melihat history tagihan Add on yang sudah diupload.
 
 ### 2. Payment Update
 
-* Klik Finance
-* Klik Payment Update
+* Click Finance
+* Click Payment Update
 
   ![](/img/admin-portal-degrees-finance-15.jpg)
-* Pilih Program
+* Choose Program
 
   ![](/img/admin-portal-degrees-finance-16.jpg)
-* Pilih Semester
+* Select Semester
 
   ![](/img/admin-portal-degrees-finance-17.jpg)
-* Pilih Installment
+* Select Installment
 
   ![](/img/admin-portal-degrees-finance-18.jpg)
-* Klik Apply
+* Click Apply
 
   ![](/img/admin-portal-degrees-finance-19.jpg)
-* Kemudian akan muncul tampilan seperti berikut
+* Then the display will appear as follows : 
 
   ![](/img/admin-portal-degrees-finance-10.jpg)
-* Apabila Anda ingin mendownload data, klik button Download Data
+* Click the Download Data button to download the data.
 
   ![](/img/admin-portal-degrees-finance-12.jpg)
 
 
-Pada menu Payment Details, terdapat 2 menu yaitu Upload Payment Status dan Update History.
+
+On the Payment Details menu, there are 2 menus available. Upload Payment Status and Update History.
 
 ![](/img/admin-portal-degrees-finance-9.jpg)
 
 #### a. Upload Payment Status
 
-Menu ini digunakan untuk mengupdate history pembayaran
+This menu is used to update the payment history.
 
 ![](/img/admin-portal-degrees-finance-13.jpg)
 
-1. Pilih Program
-2. Pilih Semester
-3. Pilih Installment
+1. Select Program
+2. Select Semester
+3. Choose Installment
 4. Download template
-5. Upload dokumen
-6. Klik Apply
+5. Upload document
+6. Click Apply
 
 
 
 #### b. Update History
 
-Menu ini digunakan untuk melihat history tagihan yang sudah diupdate.
+This menu is used to view the history of bills that have been updated.
 
 ![](/img/admin-portal-degrees-finance-20.jpg)

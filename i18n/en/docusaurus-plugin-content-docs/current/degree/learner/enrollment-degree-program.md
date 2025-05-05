@@ -4,23 +4,21 @@ sidebar_position: 13
 ---
 ![](/img/enrollment-1.png)
 
-1. Pada halaman detail program, terdapat penjelasan detail seperti gambaran umum, akademik, pendaftaran, prospek karir, dan juga harga dari program tersebut.
-2. Terdapat tombol "Daftar Sekarang" untuk Anda bisa langsung mendaftar program tersebut.
-3. Terdapat tombol "Minta Info" untuk dapat mencari tahu dan mendapatkan informasi lebih detail terkait program tersebut.
+1. On the program details page, there is a detailed explanation such as an overview, academics, registration, career prospects, and also the price of the program.
+2. There is a "Register Now" button for you to immediately register for the program.
+3. There is a "Request Info" button to find out and get more detailed information regarding the program.
 
-
-
-#### Halaman Detail Pembelian
+#### Purchase Details Page
 
 ![](/img/enrollment-2.png)
 
-1. Terdapat detail mengenai produk yang akan dibeli
-2. Anda dapat melihat promo apa saja yang tersedia
-3. Anda harus menceklis kolom yang tersedia
-4. Jika ingin melanjutkan pembelian, klik button "Pilih Pembayaran"
-5. Terdapat beberapa pilihan metode pembayaran yang dapat disesuaikan dan juga ringkasan pesanan sampai dengan total pembelian. Anda cukup memilih salah satu metode pembayaran.
+1. There are details about the product to be purchased 
+2. You can see what promos are available 
+3. You must check the column provided 
+4. If you want to continue the purchase, click the “Choose Payment” button 
+5. Several payment method options can be customized as well as a summary of the order up to the total purchase. You can simply choose one of the payment methods. 
 
    ![](/img/enrollment-3.jpg)
-6. Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian telah berhasil.
+6. If the payment is successful, information will appear that the purchase has been successful. 
 
    ![](/img/enrollment-4.png)

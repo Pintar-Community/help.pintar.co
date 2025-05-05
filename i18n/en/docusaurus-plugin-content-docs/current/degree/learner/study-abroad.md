@@ -1,27 +1,27 @@
 ---
 title: Study Abroad
-sidebar_position: 16
+sidebar_position: 15
 ---
-Pada produk Degree juga terdapat program Study Abroad. Pada tampilan seperti gambar di bawah, Anda dapat klik tombol “Find Out More” untuk melihat info lebih detail.
+Degree products also include Study Abroad programs. On the display as shown below, you can click the “Find Out More” button to see more detailed information.
 
 ![](/img/study-abroad-1.jpg)
 
-Untuk konsultasi, Anda dapat klik tombol “Consult Now”.
+For consultation, you can click the “Consult Now” button.
 
 ![](/img/study-abroad-2.jpg)
 
-Kemudian Anda dapat mengisi data diri pada form yang sudah disediakan.
+Then you can fill in your personal data on the form provided.
 
 ![](/img/study-abroad-3.jpg)
 
-Anda dapat melihat kampus-kampus yang dapat Anda pilih untuk studi ke Luar Negeri.
+You can view the universities available for your study abroad options.
 
 ![](/img/study-abroad-4.jpg)
 
-Terdapat benefit yang diberikan PINTAR untuk mendukung Anda belajar di Luar Negri.
+There are benefits provided by PINTAR to support your study abroad. 
 
 ![](/img/study-abroad-5.jpg)
 
-Terdapat mentor-mentor yang berpengalaman yang akan membantu Anda untuk Studi ke Luar Negeri.
+There are also experienced mentors who will help you to Study Abroad.
 
 ![](/img/study-abroad-6.jpg)

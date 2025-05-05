@@ -4,19 +4,21 @@ sidebar_position: 5
 ---
 ![](/img/menu-recording.png)
 
-Pada fitur recordings ini Admin dapat mengunduh rekaman Live Session dari semua kelas.
+In this recordings feature, Admins can download Live Session recordings from all classes.
 
 ![](/img/1.-menu.png)
 
-1. Program             : Pilih program sesuai dengan rekaman yang akan diunduh
-2. Academic Year   : Pilih Tahun Akademik sesuai dengan rekaman yang akan diunduh
-3. Course               :Pilih Mata Kuliah sesuai rekaman yang akan diunduh
-4. Class                  :Pilih Kelas sesuai dengan rekaman yang akan diunduh, lalu Klik **Generate**
+1. Program		: Select the program according to the recording to be downloaded
+2. Academic Year	: Select the Academic Year according to the record to be downloaded
+3. Course		: Select the Course according to the record to be downloaded
+4. Class		: Select the Class according to the record to be downloaded, then Click **Generate**
 
-Maka akan muncul seperti ini
+
+
+It will appear like this
 
 ![](/img/2.-recording-list.png)
 
-Pilih Sesi yang akan Admin unduh rekamannya, lalu Klik **Download**, maka akan langsung terunduh rekamannya.
+Select the Session you want to download, then click **Download**, the recording will be downloaded immediately.
 
 ![](/img/3.-download-recording.png)

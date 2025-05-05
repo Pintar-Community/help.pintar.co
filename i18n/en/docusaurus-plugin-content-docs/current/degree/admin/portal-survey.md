@@ -6,68 +6,68 @@ sidebar_position: 6
 
 #### 1. Survey Listing
 
-##### **Cara membuat Survey :**
+##### How to Create a Survey :
 
-* Klik menu Survey Listing
-* Klik button New
+* Click on the Survey Listing menu.
+* Click the New button to start creating a survey.
 
   ![](/img/admin-portal-degrees-survey-2.jpg)
-* Isi Nama Survey dan Deskripsi
+* Fill in the Survey Name and Description fields.
 
   ![](/img/admin-portal-degrees-survey-3.jpg)
-* Kemudian klik Next, lalu akan muncul tampilan seperti gambar berikut
+* Click Next to proceed, and a new screen will appear as shown below
 
   ![](/img/admin-portal-degrees-survey-4.jpg)
-* Isi Judul Section dan Deskripsi Section
+* Fill the Title and Description section
 
   ![](/img/admin-portal-degrees-survey-5.jpg)
-* Kemudian isi pertanyaan survey
+* Add your survey questions
 
   ![](/img/admin-portal-degrees-survey-6.jpg)
 
-  Anda dapat memilih jenis pertanyaan (Likert, Essay, Dropdown, Single Choice atau Multi Choice) 
+  Then select the type of question you want (Likert, Essay, Dropdown, Single Choice atau Multi Choice) 
 
   ![](/img/admin-portal-degrees-survey-7.jpg)
-* Untuk menambahkan section berikutnya Anda dapat klik button “Add Section” atau apabila Anda ingin menambahkan pertanyaan pada section tersebut, Anda dapat klik “Add Question”
+* To add a new section, click the Add Section button or if you want to add more questions to a section, click Add Question.
 
   ![](/img/admin-portal-degrees-survey-8.jpg)
 
-  Apabila Anda ingin duplicate atau menghapus suatu section, Anda dapat klik three dot button pada pojok kanan atas section
+  To duplicate or delete a section, click the three-dot button in the top-right corner of the section.
 
   ![](/img/admin-portal-degrees-survey-9.jpg)
-* Jika sudah, klik button Save & Preview
+* Once completed, click Save & Preview
 
   ![](/img/admin-portal-degrees-survey-10.jpg)
-* Kemudian Anda dapat melihat tampilan Preview
+* You can review the survey in Preview Mode
 
   ![](/img/admin-portal-degrees-survey-11.jpg)
 
-#### 2. Survey Report
+#### **2. Survey Report**
 
-##### **Cara export Survey Report :**
+##### **How to Export a Survey Report :**
 
-* Klik menu Survey Reporting
-* Kemudian akan muncul tampilan seperti berikut
+* Click on the Survey Reporting menu.
+* Then the following display will appear as shown
 
   ![](/img/admin-portal-degrees-survey-12.jpg)
-* Lengkapi general information, kemudian klik button Apply
+* Complete the General Information fields, then click the Apply button
 
   ![](/img/admin-portal-degrees-survey-21.jpg)
-* Kemudian akan muncul data survey (Data Results)
+* Then the survey data (Data Results) will appear
 
   ![](/img/admin-portal-degrees-survey-13.jpg)
-* Untuk mengambil data survey Anda dapat klik three dot button, kemudian pilih Export to CSV atau Export to Image PDF
+* To retrieve your survey data you can click the three dots button, then select Export to CSV or Export to Image PDF.
 
   ![](/img/admin-portal-degrees-survey-15.jpg)
-* Anda juga dapat melihat report data secara Individual
+* You can also view data reports individually.
 
   ![](/img/admin-portal-degrees-survey-14.jpg)
-* Klik button “View” untuk melihat data secara individual
+* Click the “View” button to view the data individually.
 
   ![](/img/admin-portal-degrees-survey-18.jpg)
-* Kemudian akan muncul tampilan seperti di gambar
+* A detailed report will appear as shown
 
   ![](/img/admin-portal-degrees-survey-19.jpg)
-* Untuk mengambil data survey secara Individual, Anda dapat klik icon Download seperti di gambar
+* To download individual survey data, click the Download Icon.
 
   ![](/img/admin-portal-degrees-survey-20.jpg)
