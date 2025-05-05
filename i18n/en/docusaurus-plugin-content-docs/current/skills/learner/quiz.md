@@ -2,50 +2,49 @@
 title: Quiz
 sidebar_position: 28
 ---
+In the Course Content Session, there is usually a Quiz that you need to complete. To take the Quiz, you can click on the Quiz in the Course Content Session.
 
-Dalam Sesi Konten Kursus biasanya terdapat Quiz yang harus Anda kerjakan. Untuk mengerjakan Quiz, Anda dapat Klik Quiz pada Sesi di Konten Kursus.
+![](/img/quiz-skills_eng-1.png)
 
-![](/img/quiz-skills_indo-1.png)
+![](/img/quiz-skills_eng-2.png)
 
-![](/img/quiz-skills_indo-2.png)
+Before starting a quiz, please note the following:
 
-Sebelum Anda mulai mengerjakan Quiz ada beberapa yang harus Anda perhatikan:
+1. Number of Questions on the Quizzes
+2. Deadline: Ensure you complete the quiz within the specified time frame. If the deadline is missed, you will no longer be able to attempt the quiz.
+3. Remaining Attempts: You can retake the quiz if allowed, but Pre-Quizzes and Post-Quizzes can only be attempted once.
+4. Grading Method: For quizzes with multiple attempts (e.g., Practice Quizzes, which allow up to three attempts), the highest score among all attempts will be recorded as your final grade.
+5. Quiz Duration: Each quiz has a designated duration. If you exceed the allotted time, the quiz will automatically end, and you will not be able to continue answering.
+6. Minimum Passing Score.
 
-1. Jumlah pertanyaan dalam Quiz yang akan Anda kerjakan.
-2. _Deadline_/Batas Waktu Anda dapat mengerjakan Quiz tersebut, jika sudah melewati Batas Waktu maka Anda tidak dapat mengerjakan Quiz.
-3. Sisa Pengulangan, Anda dapat mengerjakan kembali Quiz jika perlu dikerjakan kembali, namun untuk Pre Quiz dan Post Quiz hanya dapat dikerjakan 1(satu) kali saja.
-4. Metode Penilaian adalah Nilai Quiz yang Anda kerjakan secara berulang (Seperti Practice Quiz, Anda dapat mengerjakan Practice Quiz sebanyak 3(tiga) kali pengulangan) maka yang akan digunakan adalah Nilai Tertinggi dari ke-3 nilai Quiz.
-5. Durasi pengerjaan Quiz, jika Anda melewati durasi yang sudah disediakan dalam mengerjakan Quiz, maka Quiz akan langsung berakhir dan Anda tidak dapat melanjutkan menjawab Quiz.
-6. Nilai Minimum dalam **Pengerjaan Quiz.**
+To start the quiz, click on **Take Quiz**.
 
-   ![](/img/quiz-skills_indo-3.png)
+![](/img/quiz-skills_eng-3.png)
 
-Untuk memulai mengerjakan Quiz, Anda dapat Klik **Mulai Quiz.**
+Then click **Continue** to continue working on the Quiz.
 
-![](/img/quiz-skills_indo-4.png)
+![](/img/quiz-skills_eng-4.png)
 
-Lalu Klik **Lanjut** untuk lanjut mengerjakan Quiz.
+Once you have selected your answer, you can click **Next** to proceed to the next question.
 
-Setelah Anda memilih jawaban Quiz, Anda dapat Klik **Selanjutnya** untuk melanjutkan ke soal Quiz selanjutnya.
+![](/img/quiz-skills_eng-5.png)
 
-![](/img/quiz-skills_indo-5.png)
+Starting from the second question, you can review the previous questions and your answers by clicking **Previous**.
 
-Pada soal kedua dan seterusnya Anda dapat melihat kembali soal dan jawaban Anda di soal sebelumnya dengan Klik **Sebelumnya**.
+![](/img/quiz-skills_eng-6.png)
 
-![](/img/quiz-skills_indo-6.png)
+On the final quiz question, you can click **Preview & Submit**, which will display a Quiz Summary. 
 
-Pada soal Quiz terakhir Anda dapat Klik **Lihat dan Kirim**, lalu akan muncul Ringkasan Quiz dan Anda dapat Klik **Kirim.**
+![](/img/quiz-skills_eng-7.png)
 
-![](/img/quiz-skills_indo-7.png)
+Then, click **Submit** to finalize your quiz answers.
 
-Lalu Anda Klik **Kirim** untuk Submit jawaban Quiz.
+![](/img/quiz-skills_eng-8.png)
 
-![](/img/quiz-skills_indo-8.png)
+After clicking **Submit**, a summary of your quiz results, including your score, will be displayed as follows:
 
-Setelah Anda Klik Kirim, maka akan muncul Keterangan dan Nilai dari Quiz yang sudah Anda kerjakan, seperti berikut:
+![](/img/quiz-skills_eng-9.png)
 
-![](/img/quiz-skills_indo-9.png)
+If you exceed the time allotted when answering a quiz, you will not be able to continue working on the quiz. The quiz will be automatically marked as completed, and the results screen will appear below : 
 
-Jika dalam pengerjaan soal Quiz Anda melebihi dari durasi yang ditentukan, maka Anda tidak dapat melanjutkan menjawab soal Quiz, Quiz dianggap selesai dan akan muncul tampilan seperti berikut:
-
-![](/img/quiz-skills_indo-10.png)
+![](/img/quiz-skills_eng-10.png)

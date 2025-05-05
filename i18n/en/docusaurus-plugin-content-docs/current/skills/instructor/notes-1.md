@@ -2,15 +2,15 @@
 title: Notes
 sidebar_position: 51
 ---
-Notes atau catatan dapat digunakan untuk penanda saat Anda mengakses materi, Anda dapat menambahkan Catatan pada setiap Materi yang tersedia dengan cara beri catatan Anda pada kolom **Tambahkan Catatan** lalu Klik **Simpan Catatan.**
+Notes can be used as markers when you access the materials. You can add notes to any available material by entering your notes in the **Add Notes** field and then clicking **Save Notes.**
 
-![](/img/notes-instructor-skills-indo_1.png)
+![](/img/notes-instructor-skills-eng_1.png)
 
-Maka Catatan Anda akan muncul pada Materi tersebut.
+Your notes will then appear for the corresponding material.
 
-![](/img/notes-instructor-skills-indo_2.png)
+![](/img/notes-instructor-skills-eng_2.png)
 
-1. Kolom untuk menambahkan catatan pada materi pelatihan.
-2. Klik simpan catatan untuk menyimpan catatan pada materi pelatihan.
-3. Terdapat tombol pensil yang berguna untuk mengubah catatan yang telah dibuat dan tombol hapus untuk menghapus catatan yang telah dibuat.
-4. Jumlah catatan yang telah dibuat pada materi pelatihan.
+1. A column for adding notes to the training materials.
+2. Click Save Notes to save your notes on the training materials.
+3. The total number of notes created for the training materials.
+4. There is a pencil icon to edit the notes you have created and a delete button to remove the notes you have made.

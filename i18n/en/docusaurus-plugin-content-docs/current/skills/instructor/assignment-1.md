@@ -2,6 +2,6 @@
 title: Assignment
 sidebar_position: 41
 ---
-Bagian ini akan menampilkan Tugas yang harus dikerjakan oleh peserta. Pada bagian ini akan menampilkan soal Tugas beserta tanggal mulai dan batas waktu mengumpulkan tugas. 
+This section will display the assignments that participants need to complete. It will show the assignment questions along with the start date and the submission deadline. 
 
-![](/img/assignment-skills_indo.png)
+![](/img/assignment-skills_eng.png)

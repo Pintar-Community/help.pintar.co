@@ -2,10 +2,10 @@
 title: Quiz
 sidebar_position: 49
 ---
-![](/img/quiz-skills-instructor_indo-1.png)
+![](/img/quiz-skills-instructor_eng-1.png)
 
-Pada tampilan Quiz ini, Instruktur dapat melihat informasi berupa jumlah pertanyaan quiz, durasi quiz, nilai minimum quiz, dan metode penilaian yang diambil.
+On this Quiz interface, the instructor can view information such as the number of quiz questions, quiz duration, minimum quiz score, and the grading method used.
 
-![](/img/quiz-skills-instructor_indo-2.png)
+![](/img/quiz-skills-instructor_eng-2.png)
 
-Untuk melihat status pengerjaan quiz oleh peserta, Anda dapat melihat detailnya pada menu Performance pada Dashboard.
+To view the quiz completion status by participants, you can check the details under the Performance menu on the Dashboard.

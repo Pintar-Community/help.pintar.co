@@ -1,50 +1,44 @@
 ---
-title: Panduan Akses Kursus Skills Instruktur
+title: Instructor Skills Course Access Guide
 sidebar_position: 3
 ---
+## **Entering the Course**
 
-## **Memasuki Kursus**
-
-1. Setelah login di skills.pintar.co, klik profil untuk menuju program yang diikuti.
+1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
 
    ![](/img/1-1.png)
-
-2. Klik **Beralih ke instruktur** untuk mengubah menjadi tampilan instruktur.
+2. Click "Switch to instructor" to change to instructor view.
 
    ![](/img/1-2.png)
-
-3. Instruktur berhasil masuk ke dashboard. Klik **Lihat detail** untuk memeriksa peserta yang terdaftar dalam kursus.
+3. The instructor has successfully logged into the dashboard. Click "See details" to check students enrolled in the course.
 
    ![](/img/1-3.png)
-
-4. Klik ikon `<` untuk kembali ke halaman dashboard.
+4. Click the "<" icon to return to the dashboard page.
 
    ![](/img/1-4.png)
-
-5. Klik **Cara membuat sambal** atau nama kursus yang akan dikerjakan.
+5. Click "How to make chili sauce" or the name of the course you want to work on.
 
    ![](/img/1-5.png)
 
-## **Memahami Kursus (Overview)**
+## **Understanding Course (Overview)**
 
-1. Lihat **Ringkasan** untuk mengetahui detail informasi mengenai kursus yang diikuti dan **Deskripsi** untuk mengetahui deskripsi kursus yang diikuti.
+1. See "Overview" to find out detailed information about the course you are taking and "Description" for a description of the course you are taking.
 
    ![](/img/2-1.png)
-
-2. Lihat **Penyedia Pembelajaran** untuk mengetahui informasi penyedia pembelajaran kursus yang diikuti.
+2. See "Learning Provider" for details on the learning provider for your course.
 
    ![](/img/2-2.png)
-
-3. Lihat **Instruktur** untuk mengetahui informasi instruktur yang mengajar dalam kursus yang diikuti. Pastikan Anda merupakan salah satu instruktur yang terdaftar.
+3. See "Instructors" for information on the instructors teaching your course.
 
    ![](/img/2-3.png)
 
-## Memahami Kursus (Course Content)
 
-1. Klik **Kursus Konten** untuk mengetahui konten yang tersedia di kursus yang diikuti.
+
+## Understanding Course (Course Content)
+
+1. Click "Course Content" to find out the content you want to take in your course.
 
    ![](/img/3-1.png)
-
-2. Klik **Demo** untuk melihat contoh konten dalam kursus. Dalam Skills, subkonten tersedia dalam bentuk Dokumen, Video, Artikel, Diskusi, Tugas, Sesi Langsung, dan Quiz.
+2. Click "Demo" to see an example of the content in the course. In Skills, sub-content are available as Documents, Videos, Articles, Discussions, Assignments, Live Sessions, and Quizzes.
 
    ![](/img/3-2.png)

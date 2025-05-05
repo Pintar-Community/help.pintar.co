@@ -3,31 +3,31 @@ title: Offline Class
 sidebar_position: 45
 ---
 
-Offline Class merupakan fitur yang digunakan sebagai absensi untuk kursus yang dilaksanakan secara Offline atau Tatap Muka.
+The Offline Class feature is used for attendance tracking in offline or face-to-face learning sessions.
 
-**Cara mengisi Absensi pada menu Offline Class :**
+**Steps to Record Attendance in the Offline Class Menu:**
 
-1. Klik sesi yang berisi Offline Class.
+1. Select the session that includes the Offline Class.
 
-   ![](/img/offline-skills_ins-indo-2.png)
+   ![](/img/offline-skills_eng-2.png)
 
-2. Kemudian akan muncul tampilan seperti gambar.
+2. A screen will appear as shown in the example image.
 
-   ![](/img/offline-skills_ins-indo-3.png)
+   ![](/img/offline-skills_ins-eng-3.png)
 
-3. Untuk mengisi absensi, klik **Edit Details.**
+3. To record attendance, click **Edit Details**.
 
-   ![](/img/offline-skills_ins-indo-4.png)
+   ![](/img/offline-skills_ins-eng-4.png)
 
-4. Lalu pilih sesuai kehadiran peserta(Presence/Absence).
+4. Mark the participant's status as Present or Absent.
 
    ![](/img/offline-skills_instruktur-5.png)
 
-5. Apabila peserta Absence pada sesi tersebut, Anda dapat memberikan detail terkait kehadirannya seperti contoh pada gambar.
+5. If a student is marked as Absent, you can provide additional details about their absence, as shown in the example image.
 
    ![](/img/offline-skills_instruktur-6.png)
 
-6. Jika sudah diisi, klik **Save Changes.**
-7. Kemudian, Anda juga dapat mengunduh absensi tersebut dengan cara klik tombol **Download.**
+6. Once completed, click **Save Changes.**
+7. You can also download the attendance record by clicking the **Download** button.
 
    ![](/img/offline-skills_instruktur-7.png)

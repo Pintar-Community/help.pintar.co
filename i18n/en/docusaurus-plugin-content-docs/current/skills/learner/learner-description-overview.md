@@ -2,18 +2,18 @@
 title: (Learner) Description & Overview
 sidebar_position: 17
 ---
-Untuk melihat materi di dalam kursus, pada laman **Program Saya** klik **Kursus** lalu **Mulai Belajar.**
+To view the course materials, go to the **My Program** page, click Course, and then select **Start Learning.**
 
-![](/img/description-skills_indo-1.png)
+![](/img/description-eng-1.png)
 
-Klik **Ringkasan.**
+Click **Summary**.
 
-![](/img/description-skills_indo-2.png)
+![](/img/description-skills_eng-2.png)
 
-Tampilannya akan seperti berikut, **Ringkasan** berisi:
+The display will look as follows. The **Summary** contains:
 
-![](/img/description-skills_indo-3.png)
+![](/img/description-skills_eng-3.png)
 
-1. Deskripsi			        : Informasi terkait kursus.
-2. Penyedia Pembelajaran	: Lembaga penyelenggara yang menyediakan kursus.
-3. Instruktur			: Instruktur yang akan mengajar pada kourse tersebut.
+1. Deskripsi			: Information related to the course.
+2. Learning Provider	: The institution that offers the course.
+3. Instructor			: The instructor who will be teaching the course.

@@ -1,29 +1,28 @@
 ---
-title: "Live Session (Other)"
+title: Live Session (Other)
 sidebar_position: 46
 ---
+![](/img/ls-other-skills_eng-1.png)
 
-![](/img/ls-other-skills_indo-1.png)
+In this Live Session, you as the instructor and all participants will conduct a live session using platforms such as Zoom or Google Meet.
 
-Pada Live Session ini, Anda sebagai Instruktur dan seluruh peserta akan melaksanakan sesi langsung menggunakan platform seperti Zoom/Google Meet.
+You can click **Live Session (Other)** under the Session in Course Content, and the interface will appear as follows:
 
-Anda dapat Klik **Live Session (Other)** pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
+![](/img/ls-other-skills_eng-2.png)
 
-![](/img/ls-other-skills_indo-2.png)
+On the Live Session interface, the following information will be displayed:
 
-Pada tampilan Live Session, akan ada beberapa informasi seperti :
+1. Live Session Title
+2. Time of Live Session Implementation
+3. Live Session Duration
+4. Start Session Button: You can click the "Start Session" button to enter the Live Session room. You can join the Live Session according to the scheduled time.
 
-1. Judul Live Session
-2. Waktu pelaksanaan Live Session
-3. Durasi pelaksanaan Live Session
-4. Tombol Start Session : Anda dapat klik tombol Start Session untuk masuk ke room Live Session. Anda dapat join Live Session sesuai waktu pelaksanaan.
-
-Apabila Anda sudah join menggunakan tombol Start Session, maka akan muncul tampilan Zoom/Google Meet seperti gambar.
+If you have already joined using the "Start Session" button, the Zoom/Google Meet interface will appear as shown in the example.
 
 ![](/img/ls-other-skills_3.png)
 
-Untuk peserta yang hadir pada Live Session, secara otomatis statusnya akan menjadi **Present**. Sementara untuk peserta yang tidak hadir, instruktur dapat mengisi status peserta menjadi **Absence**.
+For participants attending the Live Session, their status will automatically be marked as **Present.** Meanwhile, for those who are absent, the instructor can update their status to **Absence.**
 
-Setelah tersisi semua absennya, klik **Save Change.**
+Once all attendance statuses have been recorded, click **Save Changes.**
 
-![](/img/ls-other-skills_indo-4.png)
+![](/img/ls-other-skills_eng-4.png)

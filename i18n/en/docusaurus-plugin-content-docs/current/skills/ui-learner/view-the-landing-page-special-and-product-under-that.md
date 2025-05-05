@@ -2,42 +2,42 @@
 title: View the Landing Page Special and Product Under That
 sidebar_position: 13
 ---
-Setelah anda mengunjungi laman **Semua Produk Skills**, anda dapat memilih kursus yang ada inginkan. Lalu klik **Selengkapnya.**
+After visiting the All Skills Products page, you can choose the course you want and click **More Detail.**
 
-![](/img/landing-page-indo_1.png)
+![](/img/landing-page-eng_1.png)
 
-Berikut adalah tampilan Landing Page dari Kursus yang telah anda pilih. Terdapat informasi tipe kursus, judul kursus, ulasan kursus dan juga anda dapat klik Hubungi Kami yang akan diarahkan langsung kepada customer service Pintar.
+Here is the Landing Page view of the selected course. It includes information about the course type, course title, course reviews, and an option to click Contact Us, which will direct you to Pintar's customer service.
 
-![](/img/landing-page-indo_2.png)
+![](/img/landing-page-eng_2.png)
 
-Geser ke bawah, terdapat informasi lebih mendetail dari kursus yang anda pilih.
+Scroll down to find more detailed information about the selected course:
 
 1. Program
 
-Pada bagian ini, berisi deskripsi umum terkait dengan kursus.
+This section provides a general description of the course.
 
-![](/img/landing-page-indo_3.png)
+![](/img/landing-page-eng_3.png)
 
-2. Keuntungan
+2. Benefit
 
-Pada bagian ini, berisi keuntungan yang akan anda peroleh dari mengikuti kursus dan skills yang akan didapatkan dari kursus.
+This section outlines the benefits of taking the course and the skills you will gain.
 
-![](/img/landing-page-indo_4.png)
+![](/img/landing-page-eng_4.png)
 
-3. Konten
+3. Content
 
-Pada bagian ini, berisi materi apa saja yang akan dipelajari dari kursus yang telah anda pilih. 
+This section lists the materials covered in the course.
 
-![](/img/landing-page-indo_5.png)
+![](/img/landing-page-eng_5.png)
 
-4. Penyelenggara
+4. Organizer
 
-Bagian ini berisi informasi terkait penyelenggara kurus.
+This section contains information about the course provider.
 
-![](/img/landing-page-indo_6.png)
+![](/img/landing-page-eng_6.png)
 
 5. Review dan Rating
 
-Pada bagian ini, berisi review dan rating yang akan diberikan oleh peserta setelah menyelesaikan kursus.
+This section displays reviews and ratings given by participants after completing the course.
 
-![](/img/landing-page-indo_7.png)
+![](/img/landing-page-eng_7.png)

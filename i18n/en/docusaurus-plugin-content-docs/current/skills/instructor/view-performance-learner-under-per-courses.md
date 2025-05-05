@@ -2,23 +2,23 @@
 title: View Performance Learner Under per Courses
 sidebar_position: 36
 ---
-Untuk melihat **Performance Peserta** di masing-masing course, di bagian dashboard Instruktur dapat klik Lihat Detail.
+To **View the Performance of Participants** in each course, instructors can click View Details on the dashboard. 
 
-![](/img/performance-skills_indo-1.png)
+![](/img/performance-skills_eng-1.png)
 
-Lalu akan muncul tampilan berikut ini:
+The following information will be displayed:
 
-![](/img/performance-skills_indo-2.png)
+![](/img/performance-skills_eng-2.png)
 
-1. Judul kursus
-2. Jumlah peserta dalam kursus tersebut
-3. Nama pelajar dalam kursus
-4. Durasi belajar peserta dalam mengakses materi pada kursus tersebut
-5. Jumlah quiz yang sudah dikerjakan oleh peserta dari keseluruhan tugas pada kursus
-6. Jumlah diskusi yang sudah diakses oleh peserta dari keseluruhan diskusi pada kursus
-7. Instruktur dapat mencari berdasarkan nama peserta 
-8. Jumlah tugas yang sudah dikerjakan oleh peserta dari keseluruhan tugas pada kursus
+1. Course title.
+2. Number of students enrolled in the course.
+3. Name of student in course.
+4. Duration of participants' study time in accessing the course materials.
+5. Number of quizzes completed by participants out of the total tasks in the course.
+6. The number of discussions accessed by participants out of the total discussions in the course.
+7. Instructors can search by participant name.
+8. Number of assignments completed by participants out of the total tasks in the course.
 
-Pada bagian Quiz, Instruktur dapat klik kuis di bagian bawah untuk melihat detail nilai yang diperoleh peserta dalam mengerjakan quiznya.
+In the Quiz section, instructors can click on a quiz at the bottom to see detailed scores obtained by participants for their quizzes.
 
-![](/img/performance-skills_indo-3.png)
+![](/img/performance-skills_eng-3.png)

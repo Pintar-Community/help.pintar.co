@@ -2,16 +2,16 @@
 title: Today's Event
 sidebar_position: 33
 ---
-Pada bagian ini berisi Today’s Event/Acara Hari Ini yang berupa Live Session. Pelaksanaan Live Session yang akan muncul pada Today’s Event/Acara Hari ini adalah Live Session yang akan dilaksanakan pada saat Instruktur mengakses LMS.
+This section contains Today’s Event, which includes Live Sessions. The Live Sessions displayed in Today’s Event are those scheduled to take place when the Instructor accesses the LMS.
 
-![](/img/today_s-skills-indo_1.png)
+![](/img/today_s-skills-eng_1.png)
 
-## Cara mengakses Live Session dari menu Today’s Event :
+## How to Access Live Sessions from the Today’s Event Menu:
 
-1. Untuk menampilkan secara keseluruhan, Anda dapat klik button Lihat Semua pada pojok kanan atas, kemudian akan muncul tampilan seperti gambar.
+1. To view all events, click the View All button in the top-right corner. A screen like the example image will be displayed.
 
-   ![](/img/today_s-skills-indo_2.png)
-2. Untuk membuka tampilan Live Sessionnya, Anda dapat klik judul Live Sessionnya, maka akan diarahkan pada Live Session pada kelas tersebut.
+   ![](/img/today_s-skills-eng_2.png)
+2. To open the Live Session, click on the title of the session, and you will be directed to the Live Session for that class.
 
-   ![](/img/today_s-skills-indo_3.png)
-3. Anda dapat join Live Session dengan cara klik button Masuk. Seluruh user sudah dapat join Live Session 10 menit sebelum Live Session berlangsung.
+   ![](/img/today_s-skills-eng_3.png)
+3. You can join the Live Session by clicking the Join button. All users can join the Live Session 10 minutes before it starts.

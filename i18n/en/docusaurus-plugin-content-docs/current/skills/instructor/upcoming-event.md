@@ -2,16 +2,16 @@
 title: Upcoming Event
 sidebar_position: 34
 ---
-![](/img/upcoming-skills_indo-1.png)
+![](/img/upcoming-skills_eng-1.png)
 
-Pada bagian ini berisi Upcoming Event/Acara Akan Datang berupa Live Session. Pelaksanaan Live Session yang akan muncul pada Upcoming Event/Acara Akan Datang adalah Live Session yang akan dilaksanakan pada hari yang akan datang saat Instruktur mengakses LMS.
+This section contains Upcoming Events in the form of Live Sessions. The Live Sessions that appear in the Upcoming Events are those scheduled for future dates when the Instructor accesses the LMS.
 
-## **Cara untuk melihat jadwal Live Session yang akan datang :**
+## How to view the schedule for upcoming Live Sessions:
 
-1. Untuk menampilkan secara keseluruhan, Anda dapat klik button Lihat Semua pada pojok kanan atas, kemudian akan muncul tampilan seperti gambar.
+1. To display the full list, click the View All button in the top right corner. A page will then appear as shown in the image.
 
-   ![](/img/upcoming-skills_indo-2.png)
-2. Untuk membuka tampilan Live Session, Anda dapat klik judul Live Sessionnya maka akan diarahkan pada Live Session di kelas tersebut.
+   ![](/img/upcoming-skills_eng-2.png)
+2. To open a specific Live Session, click on its title, and you will be directed to the Live Session in that class.
 
-   ![](/img/upcoming-skills_indo-3.png)
-3. Anda dapat join Live Session sesuai waktu yang telah ditentukan.
+   ![](/img/upcoming-skills_eng-3.png)
+3. You can join the Live Session at the scheduled time.

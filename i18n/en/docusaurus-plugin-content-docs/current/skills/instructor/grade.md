@@ -2,12 +2,12 @@
 title: Grade
 sidebar_position: 50
 ---
-Menu ini berisi seluruh Nilai peserta pada kelas tersebut. 
+This menu contains all participants' scores in the course.
 
-![](/img/grade-skills_indo-1.png)
+![](/img/grade-skills_eng-1.png)
 
-Pada tampilan ini, Anda dapat melihat total peserta dan mencari nama peserta dengan klik **Cari Berdasarkan Nama**. Anda juga dapat memfilter tampilan Peringkat berdasarkan tampilan Default, Tertinggi, ataupun Terendah.
+In this view, you can see the total students and search for participants' names by clicking **Search by Name**. You can also filter the Grade view based on the Default, Highest, or Lowest view.
 
-![](/img/grade-skills_indo-2.png)
+![](/img/grade-skills_eng-2.png)
 
-![](/img/grade-skills_indo-3.png)
+![](/img/grade-skills_eng-3.png)

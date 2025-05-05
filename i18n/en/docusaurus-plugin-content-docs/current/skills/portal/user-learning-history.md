@@ -2,15 +2,16 @@
 title: User Learning History
 sidebar_position: 5
 ---
+To view the **User Learning History** feature, you can click on the **Reports** menu.
+
 ![](/img/learning-history_skills-1.png)
 
-Untuk melihat fitur **User Learning History,** anda dapat klik menu **Reports**.
+You can view and download participants' learning history.
 
-Anda dapat melihat dan juga mendownload learning history peserta. 
-Anda dapat klik tombol **Export History** atau gunakan button **Filter** jika ingin mendownload data secara spesifik berdasarkan email, nama produk, learning provider, schedule name dan lain-lain.
+Click the **Export History** button or use the **Filter** button if you want to download specific data based on email, product name, learning provider, schedule name, and more.
 
 ![](/img/learning-history_skills-2.png)
 
-Klik **Apply** jika data yang di inginkan sudah di isi.
+Click **Apply** once the desired data has been entered.
 
 ![](/img/learning-history_skills-3.png)

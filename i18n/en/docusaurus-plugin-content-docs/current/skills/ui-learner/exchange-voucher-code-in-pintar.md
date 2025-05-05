@@ -2,28 +2,29 @@
 title: Exchange Voucher Code in PINTAR
 sidebar_position: 15
 ---
-Setelah anda mendaftarkan akun di https://skills.pintar.co
-Anda akan mendapatkan voucher code yang akan dikirimkan melalui email. 
+After registering an account at https://skills.pintar.co
+You will receive a voucher code via email.
 
-Untuk menukarkan voucher code pada kursus yang anda inginkan, anda dapat mencari kursus pada laman **Pencarian Keterampilan.** Selanjutnya klik **Selengkapnya.**
+To redeem the voucher code for your desired course, search for the course on the **Skill Search** page. Then, click **More Details**.
 
-![](/img/exchange-skills_indo-1.png)
+![](/img/exchange-skills_eng-1.png)
 
-Klik **Daftar Sekarang.**
+Click **Enroll Now**.
 
-![](/img/exchange-skills_indo-2.png)
+![](/img/exchange-skills_eng-2.png)
 
-Anda akan diarahkan ke halaman detail pembelian untuk memastikan data yang di beli sesuai, **checklist checkbox saya setuju** lalu klik **Pilih Pembayaran.**
+You will be directed to the purchase details page to verify that the selected product is correct. Check the **I agree** checkbox, then click **Choose Payment**.
 
-![](/img/exchange-skills_indo-3.png)
+![](/img/exchange-skills_eng-3.png)
 
-Setelah itu akan muncul pop up Metode Pembayaran, masukkan voucher code yang telah anda terima melalui email. Lalu klik **Pakai.**
+A **Payment Method** pop-up will appear. Enter the voucher code you received via email, then click **Apply**.
 
-![](/img/exchange-skills_indo-4.png)
+![](/img/exchange-skills_eng-4.png)
 
-Selanjutnya anda akan diarahkan pada laman **Program Saya.**
+Next, you will be directed to the **My Program** page.
 
-Klik **Kursus,** maka akan muncul kursus yang telah anda beli menggunakan voucher. 
-Anda dapat memulai kursus dengan klik **Mulai Belajar.**
+Click **Courses**, and the course you purchased using the voucher will appear.
 
-![](/img/exchange-skills_indo-5.png)
+You can start the course by clicking **Start Learning**.
+
+![](/img/exchange-skills_eng-5.png)

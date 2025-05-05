@@ -2,8 +2,8 @@
 title: List Courses Skills
 sidebar_position: 35
 ---
-Pada bagian dashboard, terdapat **Daftar Kursus** yang akan dilatih oleh instruktur. 
+On the dashboard section, there is a **Course List** that will be conducted by the instructor.
 
-Terdapat informasi judul pelatihan dan jumlah peserta yang ada pada pelatihan tersebut.
+It includes information about the training title and the number of participants in the training.
 
-![](/img/list-course-skills_indo-1.png)
+![](/img/list-course-skills_eng-1.png)

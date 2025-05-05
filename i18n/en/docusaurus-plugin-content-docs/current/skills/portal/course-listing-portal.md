@@ -2,61 +2,61 @@
 title: (Portal) Course Listing
 sidebar_position: 1
 ---
-Fitur **Course Listing** terdapat dalam menu Courses.
+The **Course Listing** feature is available in the Courses menu.
 
 ![](/img/course-skills_1.png)
 
-Course Listing berisikan Kursus yang sudah berjalan, untuk mempermudah dalam mencari Kursus, Klik **Filter**.
+The Course Listing contains ongoing courses. To make searching for a course easier, click **Filter**.
 
 ![](/img/course-skills_2.png)
 
-Isi Kursus yang ingin dicari lalu Klik **Apply**.
+Enter the course you are looking for, then click **Apply**.
 
 ![](/img/course-skills_3.png)
 
-Apabila ingin membuat course baru, klik **+ NEW.**
+If you want to create a new course, click **+ NEW**.
 
 ![](/img/course-skills_4.png)
 
-Isi beberapa hal seperti pada gambar berikut ini:
+Fill in the required details as shown in the image below:
 
 ![](/img/course-skills_5.png)
 
 ![](/img/course-skills_6.png)
 
-1. Course code : Berisi nama kursus yang ingin dibuat
-2. Code : Berisi kode kursus
-3. Learning Provider : Anda dapat pilih learning provider yang ingin membuat kursus
-4. Category : Anda dapat pilih kategori kursus sesuai yang ingin dibuat
-5. Classification : Anda dapat pilih klasifikasi kursus sesuai dengan kursus yang ingin dibuat
-6. Upload Cover : Upload cover kursus, jika semuanya sudah diisi Anda bisa klik **save.**
+1. Course code : Enter the name of the course you want to create.
+2. Code : Enter the course code.
+3. Learning Provider : Select the learning provider for the course.
+4. Category : Choose the appropriate course category.
+5. Classification : Select the course classification according to the course type.
+6. Upload Cover : Upload a course cover. Once all fields are filled, click **Save**.
 
-   ![](/img/course-skills_7.png)
 
-   ![](/img/course-skills_8.png)
+Once the course is created, to add materials to the course, click **Material**.
 
-   ![](/img/course-skills_9.png)
+![](/img/course-skills_7.png)
 
-Setelah kursus terbuat, untuk menambahkan Materi pada kursus Klik **Material.**
+![](/img/course-skills_8.png)
 
-1. Description	: Klik Ikon Pensil lalu tuliskan deskripsi dari kursus yang dibuat.
-2. Course Features	: Klik Ikon Pensil, lalu pilih bahasa dan Klik **Save**
+![](/img/course-skills_9.png)
+
+1. Description	: Click the pencil icon and write the course description.
+2. Course Features	: Click the pencil icon, select the language, and click **Save**.
 
 ![](/img/course-skills_10.png)
 
-
-Setelah itu dapat menambahkan Sesi untuk kursus dengan cara Klik **+ADD SECTION** yang berada di kiri bawah.
+Next, you can add sessions to the course by clicking **+Add Section** at the bottom left.
 
 ![](/img/course-skills_11.png)
 
 ![](/img/course-skills_12.png)
 
-Tuliskan Judul Sesi Materi lalu Klik Save dan dapat menambahkan Materi dengan Klik **+Add Content.**
+Enter the session title, click Save, then add content by clicking **+Add Content.**
 
 ![](/img/course-skills_13.png)
 
-Pilih Content materi yang akan di upload pada kursus tersebut.
+Select the content you want to upload for the course.
 
 ![](/img/course-skiils_14.png)
 
-Begitu pun seterusnya, dapat membuat beberapa Sesi sesuai dengan materi kursus tersebut.
+You can create multiple sessions as needed according to the course material.

@@ -4,24 +4,24 @@ sidebar_position: 9
 ---
 ![](/img/survey-report_skills-1.png)
 
-**Cara export Survey Report :**
+**How to Export the Survey Report:**
 
-* Klik menu Survey Reporting.
-* Kemudian pilih **Partner** dan **Course.**
+* Click on the **Survey Reporting** menu
+* Then, select **Partner** and **Course**
 
-  ![](/img/survey-report_skills2.png)
-* Kemudian akan muncul data survey (Data Results).
+  ![](/img/photo_7_2025-03-03_12-56-04.jpg)
+* The survey data (**Data Results**) will then appear
 
-  ![](/img/survey-report_skills3.png)
-* Anda juga dapat melihat report data secara Individual.
+  ![](/img/photo_4_2025-03-03_12-56-04.jpg)
+* You can also view the report data individually
 
-  ![](/img/survey-report_skills4.png)
-* Klik button “View” untuk melihat data secara individual.
+  ![](/img/photo_5_2025-03-03_12-56-04.jpg)
+* Click the **"View"** button to see individual data
 
-  ![](/img/survey-report_skills5.png)
-* Kemudian akan muncul tampilan seperti di gambar.
+  ![](/img/photo_3_2025-03-03_12-56-04.jpg)
+* A display will appear as shown in the image
 
-  ![](/img/survey-report_skills6.png)
-* Untuk mengambil data survey secara Individual, Anda dapat klik icon **Download** seperti di gambar.
+  ![](/img/photo_2_2025-03-03_12-56-04.jpg)
+* To download individual survey data, click the **Download** icon as shown in the image
 
-  ![](/img/survey-report_skills7.png)
+  ![](/img/photo_6_2025-03-03_12-56-04.jpg)

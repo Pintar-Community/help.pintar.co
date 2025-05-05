@@ -2,38 +2,38 @@
 title: Submitted Assignment
 sidebar_position: 55
 ---
-Menu **Submitted Assignment** merupakan menu untuk melihat  jawaban Tugas peserta. Menu ini berguna berguna untuk melihat jawaban Tugas dari peserta. Anda juga dapat menilai Tugas Peserta pada menu ini. 
+The **Submitted Assignment** menu is used to view participants' task answers. This menu is useful for checking participants' task submissions. You can also grade participants' tasks in this menu.
 
-![](/img/submitted_instructor-skills-indo-1.png)
+![](/img/submitted_instructor-skills-eng-1.png)
 
-## Cara menilai Tugas :
+## **How to assess assignments:**
 
-1. Klik Review pada menu Submitted Assignment.
+1. Click Review on the Submitted Assignment menu.
 
-![](/img/submitted_instructor-skills-indo-2.png)
+![](/img/submitted_instructor-skills-eng-2.png)
 
-2. Kemudian akan muncul tampilan seperti di berikut:
+2. Then a display will appear as shown below:
 
-![](/img/submitted_instructor-skills-indo-3.png)
+![](/img/submitted_instructor-skills-eng-3.png)
 
-a. Jumlah Peserta yang mengumpulkan.
+a. Number of participants who submitted.
 
-b. Status submission (Sudah dikerjakan/ Belum dikerjakan),
+b. Submission status (Worked on/Not yet worked on).
 
-c. Tanggal Penyerahan sesuai dengan waktu Peserta submit.
+c. Submission date is according to the time participants submit.
 
-d. Waktu peninjauan sesuai dengan waktu Anda menilai jawaban Peserta.
+d. Review time corresponds to the time you assess participants' answers.
 
-e. Bagian ini berguna untuk meninjau jawaban tugas Peserta.
+e. This section is useful for reviewing participants' assignment answers.
 
-3. Setelah Anda meninjau jawaban peserta, kemudian Klik button **Beri Nilai** untuk memberikan nilai.
+3. After reviewing the participant's answer, click the **Edit Score** button to assign a grade.
 
-![](/img/submitted_instructor-skills-indo-4.png)
+![](/img/submitted_instructor-skills-eng-4.png)
 
-4. Setelah mengisi nilai, klik button **Save** untuk menyimpan.
+4. After filling in the score, click the **Save** button to save.
 
-![](/img/submitted_instructor-skills-indo-5.png)
+![](/img/submitted_instructor-skills-eng-5.png)
 
-5. Apabila sudah diberikan nilai, maka status pada submission Peserta akan berubah menjadi **Sudah Dinilai.**
+5. If a grade has been given, the status of the participants' submission will change to **Reviewed.**
 
-![](/img/submitted_instructor-skills-indo-6.png)
+![](/img/submitted_instructor-skills-eng-6.png)

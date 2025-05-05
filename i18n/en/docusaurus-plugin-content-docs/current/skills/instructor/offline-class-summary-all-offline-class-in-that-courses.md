@@ -2,8 +2,8 @@
 title: Offline Class (summary all offline class in that courses)
 sidebar_position: 54
 ---
-Menu ini berisi seluruh kursus yang dilaksanakan secara Offline atau Tatap Muka.
+This menu contains all courses conducted offline or in-person.
 
-Untuk melihat detail absensi dari masing-masing kursus offline, anda dapat klik **See Detail.**
+To view the attendance details for each offline course, you can click **See Detail.**
 
-![](/img/offline-summary-skills_indo.png)
+![](/img/offline-summary-skills_eng.png)

@@ -4,16 +4,16 @@ sidebar_position: 10
 ---
 ![](/img/rec-1.png)
 
-Pada fitur R**ecordings** ini Admin dapat mengunduh rekaman Live Session dari semua kursus.
+In the **Recordings** feature, the Admin can download Live Session recordings from all courses.
 
 ![](/img/rec-2.png)
 
-Pilih **Partner** dan **Course** yang akan di download recordingnya.
+Select the **Partner** and **Course** for which you want to download the recording.
 
-Maka akan muncul seperti ini:
+The screen will then appear as follows:
 
 ![](/img/rec-3.png)
 
-Pilih Sesi yang akan Admin unduh rekamannya, lalu Klik **Download**, maka akan langsung terunduh rekamannya.
+Select the Session that the Admin wants to download, then click **Download**, and the recording will be downloaded immediately.
 
 ![](/img/rec-4.png)

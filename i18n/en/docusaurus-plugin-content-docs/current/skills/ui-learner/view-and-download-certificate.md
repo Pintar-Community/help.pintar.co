@@ -2,36 +2,36 @@
 title: View and Download Certificate
 sidebar_position: 16
 ---
-**Untuk melihat dan mendownload sertifikat:**
+**To view and download your certificate:**
 
-1. Peserta dapat login melalui https://skills.pintar.co/id
+1. Participants can log in at https://skills.pintar.co/en
 
-2. Klik **Kursus.**
+2. Click **Course.**
 
-3. Anda dapat mencari kursus melalui:
+3. You can find your course through:
 
-a. Kolom Kursus Pencarian
+a. The Search Courses column.
 
-b. Status Kursus
+b. Course status.
 
-![](/img/certificate-skills_indo-1.png)
+![](/img/certificate-skills_eng-1.png)
 
-4. Klik Lihat Sertifikat
+4. Click See Certificate
 
-![](/img/certificate-skills_indo-2.png)
+![](/img/certificate-skills_eng-2.png)
 
-5. Selanjutnya anda diminta untuk mengisi ulasan dan penilaian dari kursus yang telah anda ikuti. Anda juga dapat mengirimkan ulasan dan penilaian anda secara anonim.
+5. Next, you are asked to provide a review and rating for the course you have attended.
+You can also submit your review and rating anonymously.
+Then, click **Submit**.
 
-Lalu klik **Kirim**.
+![](/img/certificate-skills_eng-3.png)
 
-![](/img/certificate-skills_indo-3.png)
+6. The certificate display will appear as follows:
 
-6. Maka tampilan sertifikat akan seperti berikut ini.
+**Download Certificate**: To download the certificate, which will be saved directly to your device.
 
-**Download Certificate,** untuk mendownload sertifikat dan akan tersimpan langsung di perangkat anda.
+**Share On LinkedIn**: To share the certificate on your LinkedIn profile.
 
-**Share On LinkedIn,**  untuk membagikan sertifikat di LinkedIn anda.
-
-**Copy link,** jika anda ingin mendownload sertifikat tanpa login ke dalam LMS.
+**Copy the link,** if you want to download the certificate without logging into the LMS.
 
 ![](/img/certificate-skills_4.png)

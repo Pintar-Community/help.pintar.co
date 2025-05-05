@@ -1,397 +1,396 @@
 ---
-title: User Manual untuk Menu Skills
+title: User Manual for Skills Menu
 sidebar_position: 2
 tags: []
 ---
-
 ## **Login**
 
-Untuk Login ke website PINTAR, lakukan cara berikut:
+To Login to the PINTAR website, do the following:
 
-1. Masuk ke URL [https://skills.pintar.co/id](https://skills.pintar.co/id)
-2. Klik tombol Login pada navbar.
+1. Enter the URL ([https://skills.pintar.co/id).](https://skills.pintar.co/id)
+2. Click the Login button on the navbar.
 
 ![](/img/login_1.png)
 
-3. Masukan email pada kolom Email.
-4. Masukan kata sandi pada kolom Password.
-5. Klik tombol Masuk.
+3. Enter your email in the Email column.
+4. Enter your password in the Password column.
+5. Click the Login button.
 
 ![](/img/login_1.2.png)
 
-## **Memasuki Menu PINTAR Skills**
+## **Entering PINTAR Skills**
 
 ![](/img/dashboard_1.1.png)
 
-1. Klik dropdown menu **Untuk Individu** untuk memunculkan menu skills.
-2. Klik menu **Pintar Skills**
-3. Klik **Jelajahi Program** untuk melihat berbagai pilihan skills yang ada.
+1. Click the "For Individuals" dropdown menu to display the skills menu.
+2. Click the "PINTAR Skills" menu
+3. Click "Explore Programs" to see the various skills options available.
 
 ![](/img/dashboard_1.2.png)
 
-4. Terdapat beberapa kategori Skills yang bisa dipilih sesuai minat dan kebutuhan.
-5. Klik button **Selengkapnya** jika ingin membeli Skill tersebut.
-6. Jika ingin melihat semua program skills yang ada, bisa klik **Jelajahi Semua Program**.
+4. There are several categories of Skills that can be selected according to interests and needs.
+5. Click the "More Detail" button if you want to buy the Skill.
+6. If you want to see all the available skill programs, you can click "Browse All Programs".
 
-![](/img/dashboard_1.3.png)
+![](/img/dashboard_1.3_eng.png)
 
-## **Memasuki Menu Mencari Skills/Keterampilan**
+## **Entering the Browse Skills Menu**
 
-1. Pada halaman Cari Keterampilan, terdapat bilah pencarian agar memudahkan dalam mencari kursus yang diinginkan
-2. Terdapat beberapa kategori yang dapat difilter sesuai dengan minat dan keinginan.
-3. Pengguna dapat mengurutkan skill sesuai yang diinginkan
-4. Klik button **Selengkapnya** jika ingin membeli Skill tersebut.
+1. On the Browse Skills menu, there is a search bar to make it easier to find the desired course.
+2. Several categories can be filtered based on the user’s interests and preferences.
+3. Users can sort skills as desired.
+4. Click the "More Detail" button if you want to buy the Skill.
 
-![](/img/browse-skills.png)
+![](/img/browse-skills_eng.png)
 
-## **Memasuki Menu Detail Skill**
+## **Entering Detail Skills Menu**
 
-1. Pada halaman detail, terdapat judul skill, penjelasan singkat, dan juga rating dari skill tersebut.
-2. Terdapat button **Hubungin Kami** yang jika di klik maka akan mengarah ke WhatsApp
+1. On the detail page, there is a skill title, a brief explanation, and also a rating for the skill.
+2. There is a "Contact Us" button that if clicked will lead to WhatsApp.
 
-![](/img/skill_detail.png)
+![](/img/skill_detail_eng.png)
 
-Terdapat penjelasan lebih detail mengenai skill tersebut.
+There is a more detailed explanation of the skill.
 
-3. Klik **Daftar Sekarang** jika ingin membeli skill tersebut.
+3. Click "Enroll Now" if you want to buy the skill.
 
-![](/img/skill_detail_1.png)
+![](/img/skill_eng.png)
 
-## **Memasuki Halaman Detail Pembelian**
+## **Entering Purchase Detail Menu**
 
-1. Terdapat detail mengenai produk yang akan dibeli.
-2. Pengguna harus menceklis kolom yang tersedia.
-3. Jika ingin melanjutkan pembelian, klik button **Pilih Pembayaran**.
+1. There are details about the product to be purchased.
+2. Users must click the checklist button.
+3. If you want to continue the purchase, click the "Choose Payment" button.
 
-![](/img/detail_pembelian.png)
+![](/img/purchase_detail_eng.png)
 
-4. Masukkan **Kode Promo** jika memiliki kode promo.
-5. Jika tidak ada kode promo, maka langsung saja klik **Lanjutkan**.
+4. Enter "Promo Code" if you have a promo code.
+5. If there is no promo code, then just click "Continue".
 
-![](/img/detail_pembelian_1.png)
+![](/img/purchase_detail_eng_1.png)
 
-Terdapat beberapa pilihan metode pembayaran yang dapat disesuaikan dengan pengguna dan juga ringkasan pesanan sampai dengan total pembelian. Pengguna cukup memilih salah satu metode pembayaran.
+There are several payment method options that can be adjusted to the user and also a summary of the order up to the total purchase. Users simply choose one of the payment methods.
 
-![](/img/detail_pembelian_2.png)
+![](/img/purchase_detail_eng_2.png)
 
-Jika pembayaran sudah berhasil, maka akan muncul informasi bahwa pembellian telah berhasil.
+If the payment is successful, information will appear that the purchase was successful.
 
-![](/img/payment_success.png)
+![](/img/payment_success_eng.png)
 
-## **Memasuki Kursus**
+## **Entering the Course**
 
-1. Setelah login ke skills.pintar.co, klik profil untuk menuju program yang Anda ikuti.
-2. Klik **Program Saya** untuk melihat program yang Anda ikuti.
+1. After logging in to skills.pintar.co, click on the profile to go to the program you are enrolling in.
+2. Click "My Programs" to see the programs you are enrolling in.
 
-![](/img/my-programs_id.png)
+   ![](/img/my-programs_1.png)
+3. On the My Program menu, there are several tabs that can be selected according to the product you want to view.
+4. There is a “Start Learning” button that can be clicked to view and start learning the course or “Continue Learning” button to continue learning the course.
 
-3. Pada menu Program Saya, terdapat beberapa tab yang bisa dipilih sesuai dengan produk yang ingin dilihat.
+![](/img/myprogram_eng.png)
 
-4. Terdapat tombol “Mulai Belajar” yang dapat diklik untuk melihat dan memulai kursus atau tombol “Lanjutkan Belajar” untuk melanjutkan kursus.
+## **Understanding the Course (Overview)**
 
-![](/img/myprogram_id.png)
+![](/img/course_detail_eng.png)
 
-## **Memahami Kursus (Overview)**
+This Overview's menu provides an overview of the course, with several key elements:
 
-![](/img/course_detail_id.png)
+* Description: A brief summary or explanation of the course content.
+* Course Feature: Displays the features of the course, such as duration, accessibility, language used, and information about the completion certificate.
+* Skill Covered: Lists the skills that will be learned or mastered after completing the course.
+* Learning Provider: Shows the provider or institution offering the course.
+* Instructors: Lists the instructors involved in the course, including their names and a brief description.
 
-Menu Overview ini menyediakan gambaran umum tentang kursus, sepertii:
+## **Understanding the Course (Course Content)**
 
-- **Deskripsi**: Ringkasan singkat atau penjelasan mengenai isi kursus.
-- **Fitur Kursus**: Menampilkan fitur-fitur kursus, seperti durasi, aksesibilitas, bahasa yang digunakan, dan informasi tentang sertifikat penyelesaian.
-- **Cakupan Keterampilan**: Daftar keterampilan yang akan dipelajari atau dikuasai setelah menyelesaikan kursus.
-- **Penyedia Pembelajaran**: Menunjukkan penyedia atau institusi yang menawarkan kursus.
-- **Instruktur**: Daftar instruktur yang terlibat dalam kursus, termasuk nama dan deskripsi singkat.
+This Course Content's menu contains a list of the course materials or modules. There is also a menu tab for writing notes and comments.
 
-## **Memahami Kursus (Course Content)**
+![](/img/course_content.eng.png)
 
-Menu Konten Kursus ini berisi daftar materi atau modul kursus. Ada juga tab menu untuk menulis catatan dan komentar.
+### **Understanding the Course (Article Subcontent)**
 
-![](/img/course_content.id.png)
+An article like "Jurnal 1" provides written content for students to read and learn from. The platform allows users to take notes, add comments, and engage with the material for better understanding.
 
-### **Memahami Kursus (Subkonten Artikel)**
+**Notes**:
 
-Artikel seperti **Jurnal 1** menyediakan konten tulisan untuk dibaca dan dipelajari oleh pengguna. Platform ini memungkinkan pengguna membuat catatan, menambahkan komentar, dan berinteraksi dengan materi untuk pemahaman yang lebih baik.
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
 
-**Catatan**:
+1. Click "Notes" to add notes. The results of the notes can only be seen by the user.
+2. Notes that have been created can be edited.
+3. Notes that have been created can be deleted.
 
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting.
+![](/img/course_detail_1eng.png)
 
-1. Klik **Catatan** untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna.
-2. Catatan yang telah dibuat dapat diedit.
-3. Catatan yang telah dibuat dapat dihapus.
+**Comments**:
 
-![](/img/course-article-notes_id.png)
+This Comments menu allows users to comment on the course they are taking.
 
-**Komentar**:
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
 
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti.
+![](/img/course-article-comments_eng.png)
 
-1. Klik **Kirim** untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer.
-3. Komentar yang telah dibuat dapat dihapus.
+a. You can reply to other people's comments by clicking the Reply.
 
-![](/img/course-article-comments_id.png)
+b. Comments can also be liked.
 
-a. Anda dapat membalas komentar orang lain dengan mengklik Balas.
+c. To post a comment, click the Reply button in the bottom right corner.
 
-b. Komentar juga bisa disukai.
+### **Understanding the Course (Assignment Subcontent)**
 
-c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
+Click "Assignment" to see an example of a document subcontent.
 
-### **Memahami Kursus (Subkonten Tugas)**
+1. **Course Content Overview :** Displays the course materials and activities, allowing users to navigate and access assignments, discussions, and documents.
+2. **Answer Input Field:** A text box for typing assignment answers with formatting options and a 20,000 character limit.
+3. **File Upload Area:** Allows uploading up to 10 files (max 10MB each) in formats like .docx, .pdf, .jpg, and .mp4 to support the assignment.
+4. **Submit Button:** Click the "Submit" button to finalize and submit the assignment or "Cancel" to discard it.
 
-Klik **Tugas** untuk melihat contoh subkonten dokumen.
+![](/img/course_assignment_eng.png)
 
-1. **Ringkasan Konten Kursus**: Menampilkan materi kursus dan aktivitas, memungkinkan pengguna menavigasi dan mengakses tugas, diskusi, dan dokumen.
-2. **Kolom Input Jawaban**: Kotak teks untuk mengetik jawaban tugas dengan opsi pemformatan dan batas 20.000 karakter.
-3. **Area Unggah File**: Memungkinkan pengunggahan hingga 10 file (maksimal 10MB per file) dalam format seperti .docx, .pdf, .jpg, dan .mp4 untuk mendukung tugas.
-4. **Tombol Kirim**: Klik tombol **Kirim** untuk menyelesaikan dan mengirim tugas atau **Batal** untuk membatalkannya.
+### **Understanding the Course (Discussion Subcontent)**
 
-![](/img/course_assignment_id.png)
+The Discussion Menu is a feature that enables students to engage in conversations and discussions about course topics.
 
-### **Memahami Kursus (Subkonten Diskusi)**
-
-Menu Diskusi adalah fitur yang memungkinkan pengguna terlibat dalam percakapan dan diskusi tentang topik kursus.
-
-1. Ini adalah tempat di mana pengguna dapat mengetik tanggapan mereka terhadap diskusi. Terdapat opsi pemformatan seperti cetak tebal, miring, daftar, dll., dengan batas 2000 karakter untuk setiap tanggapan.
-2. Setelah menulis tanggapan, pengguna dapat mengklik tombol **Posting** untuk mengirim jawaban mereka ke diskusi.
-3. Menu dropdown memungkinkan pengguna menyortir komentar atau jawaban berdasarkan kriteria seperti terbaru, terlama, atau paling populer, memudahkan navigasi melalui tanggapan.
-4. Pengguna dapat menghapus kiriman mereka sendiri dengan mengklik ikon tempat sampah di sebelah komentar.
+1. This is where users can type their responses to the discussion. It includes formatting options like bold, italic, lists, etc., with a 2000 character limit for each response.
+2. After writing a response, users can click the “Post” button to submit their answer to the discussion.
+3. The dropdown allows users to sort comments or answers based on criteria such as newest, oldest, or most popular, making it easier to navigate through responses.
+4. Users can delete their own posts by clicking the trash bin icon next to the comment.
 
 ![](/img/course-discussion-comments_eng.png)
 
-a. Anda dapat membalas komentar orang lain dengan mengklik Balas.
+a. You can reply to other people's comments by clicking the Reply.
 
-b. Komentar juga bisa disukai.
+b. Comments can also be liked.
 
-c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
+c. To post a comment, click the Reply button in the bottom right corner.
 
-### **Memahami Kursus (Subkonten Dokumen)**
+### **Understanding the Course (Document Subcontent)**
 
-Dalam jenis Dokumen, pengguna dapat melihat dan membaca dokumen yang diunggah serta memberikan Catatan dan Komentar. Namun, pengguna harus membaca dokumen sepenuhnya sebelum diizinkan melanjutkan ke tugas berikutnya.
+In the Document type, users can view and read uploaded documents and provide Notes and Comments. However, users must read the document entirely before they are allowed to proceed to the next task.
 
-1. Klik **Lihat layar penuh** untuk melihat dokumen dalam tampilan layar penuh. Klik ikon `<` untuk keluar dari tampilan layar penuh dokumen.
+1. Click "View full screen" to see the document in full screen view. Click the "<" icon to exit the full screen view of the document.
 
-![](/img/course-document_id.png)
+![](/img/course-document_eng.png)
 
-**a. Catatan**:
+**a. Notes**:
 
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting.
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
 
-1. Klik **Catatan** untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna.
-2. Catatan yang telah dibuat dapat diedit.
-3. Catatan yang telah dibuat dapat dihapus.
+* Click "Notes" to add notes. The results of the notes can only be seen by the user.
+* Notes that have been created can be edited.
+* Notes that have been created can be deleted.
 
-![](/img/course-document-commentnotes_id.png)
+![](/img/course-document-commentnotes_eng.png)
 
-**b. Komentar**:
+**b. Comments**:
 
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti.
+This Comments menu allows users to comment on the course they are taking.
 
-1. Klik **Kirim** untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Ada filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer.
-3. Komentar yang telah dibuat dapat dihapus.
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
 
-**c. Balas Komentar**:
+**c. Reply Comments**:
 
-Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti.
+This Reply Comments section allows users to reply other comment on the course they are taking.
 
-1. Klik teks **Balas** untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Klik tombol **Balas** untuk menambahkan komentar pada dokumen.
-3. Komentar yang telah dibuat dapat dihapus.
+1. Click "Reply" text to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. Click "Reply" button to add a comment on document.
+3. Comments that have been created can be deleted.
 
-### **Memahami Kursus (Subkonten Video Practice (YouTube))**
+### **Understanding the Course (Video Practice (YouTube) Subcontent)**
 
-Bagian Video Praktik menawarkan akses ke video terkait kursus, memungkinkan pengguna menonton dan membuat catatan serta komentar langsung di platform untuk meningkatkan pemahaman.
+The Video Practice section offers access to course-related videos, allowing students to watch and take notes and comments directly on the platform to enhance understanding.
 
-![](/img/course-video_id.png)
+1. Click the "Play Video" button to start watching the practice video.
 
-**a. Catatan**:
+![](/img/course-video_eng.png)
 
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting.
+**a. Notes**:
 
-1. Klik **Catatan** untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna.
-2. Catatan yang telah dibuat dapat diedit.
-3. Catatan yang telah dibuat dapat dihapus.
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
 
-![](/img/course-video-commentnotes_id.png)
+* Click "Notes" to add notes. The results of the notes can only be seen by the user.
+* Notes that have been created can be edited.
+* Notes that have been created can be deleted.
 
-**b. Komentar**:
+![](/img/course-video-commentnotes_eng.png)
 
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti.
+**b. Comments**:
 
-1. Klik **Kirim** untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Terdapat filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer.
-3. Komentar yang telah dibuat dapat dihapus.
+This Comments menu allows users to comment on the course they are taking.
 
-**c. Balas Komentar**:
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
 
-Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti.
+**c. Reply Comments**:
 
-1. Klik teks **Balas** untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Klik tombol **Balas** untuk menambahkan komentar pada dokumen.
-3. Komentar yang telah dibuat dapat dihapus.
+This Reply Comments section allows users to reply other comment on the course they are taking.
 
-### **Memahami Kursus (Subkonten Offline Class)**
+1. Click "Reply" text to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. Click "Reply" button to add a comment on document.
+3. Comments that have been created can be deleted.
 
-Di menu Offline Class, pengguna dapat melihat detail sesi kelas offline seperti:
+### **Understanding the Course (Offline Class Subcontent)**
 
-- Judul.
-- Waktu yang dijadwalkan.
-- Deskripsi.
-- Lokasi.
-- URL untuk informasi lebih lanjut.
+In the Offline Class menu, users can view the details of an offline class session such as:
 
-![](/img/offline-class_id.png)
+* Title.
+* Scheduled time.
+* Description.
+* Location.
+* URL for more information.
 
-### **Memahami Kursus (Subkonten Live Sessioin (Other))**
+![](/img/offline-class_eng.png)
 
-1. Klik **Live Session** untuk melihat contoh subkonten sesi langsung.
-2. Setelah memastikan judul, tanggal, waktu, durasi, dan deskripsi sesi langsung benar, klik **Mulai Sesi** untuk bergabung dengan sesi langsung.
+### **Understanding the Course (Live Session (other) Subcontent)**
 
-![](/img/live-session_id.png)
+1. Click "Live Session" to see an example of live session subcontent.
+2. After ensuring the title, date, time, duration, and description of the live session are correct, click "Start Session" to join the live session.
 
-### **Memahami Kursus (Subkonten Video)**
+![](/img/live-session_eng.png)
 
-Bagian Video Praktik menawarkan akses ke video terkait kursus, memungkinkan siswa menonton dan membuat catatan serta komentar langsung di platform untuk meningkatkan pemahaman.
+### **Understanding the Course (Video Subcontent)**
 
-![](/img/video_id.png)
+The Video Practice section offers access to course-related videos, allowing students to watch and take notes and comments directly on the platform to enhance understanding.
 
-**a. Catatan**:
+![](/img/video_eng1.png)
 
-Menu Catatan ini memungkinkan pengguna untuk membuat atau mengakses catatan yang mungkin mereka buat saat mengikuti kursus. Catatan ini membantu pengguna melacak poin-poin penting.
+**a. Notes**:
 
-1. Klik **Catatan** untuk menambahkan catatan. Hasil catatan hanya dapat dilihat oleh pengguna.
-2. Catatan yang telah dibuat dapat diedit.
-3. Catatan yang telah dibuat dapat dihapus.
+This Notes's menu allows users to create or access notes they may have taken while following the course. These notes help users keep track of important points.
+
+* Click "Notes" to add notes. The results of the notes can only be seen by the user.
+* Notes that have been created can be edited.
+* Notes that have been created can be deleted.
 
 ![](/img/course-video-commentnotes_eng1.png)
 
-**b. Komentar**:
+**b. Comments**:
 
-Menu Komentar ini memungkinkan pengguna untuk mengomentari kursus yang mereka ikuti.
+This Comments menu allows users to comment on the course they are taking.
 
-1. Klik **Kirim** untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Terdapat filter untuk menyortir komentar berdasarkan Terbaru, Terlama, atau Paling Populer.
-3. Komentar yang telah dibuat dapat dihapus.
+1. Click "Submit" to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. There are filters to sort comments by Newest, Oldest, or Most Popular.
+3. Comments that have been created can be deleted.
 
-**c. Balas Komentar**:
+**c. Reply Comments**:
 
-Bagian Balas Komentar ini memungkinkan pengguna membalas komentar lain pada kursus yang mereka ikuti.
+This Reply Comments section allows users to reply other comment on the course they are taking.
 
-1. Klik teks **Balas** untuk menambahkan komentar. Hasil komentar dapat dilihat oleh pengguna, instruktur, dan pengguna lain yang mengikuti kursus yang sama.
-2. Klik tombol **Balas** untuk menambahkan komentar pada dokumen.
-3. Komentar yang telah dibuat dapat dihapus.
+1. Click "Reply" text to add a comment. The results of the comments can be seen by users, instructors, and users taking the same course.
+2. Click "Reply" button to add a comment on document.
+3. Comments that have been created can be deleted.
 
-### **Memahami Kursus (Subkonten Quiz)**
+### **Understanding the Course (Quiz Subcontent)**
 
-Di bagian Quiz, pengguna dapat melihat detail kuis seperti judul, durasi, pertanyaan, tenggat waktu, metode penilaian, dan nilai minimal. Halaman subkonten kuis akan menampilkan jumlah pertanyaan, metode penilaian, jumlah percobaan yang diizinkan, nilai minimum, dan durasi kuis.
+In the Quiz section, users can view quiz details like title, duration, questions, deadline, grading method, and minimum score. The quiz sub-content page will show the number of questions, assessment method, permitted attempts, minimum score, and quiz duration.
 
-![](/img/quiz_id.png)
+![](/img/quiz_eng.png)
 
-1. Klik **Quiz** untuk melihat contoh subkonten kuis.
-2. Klik **MULAI QUIZ** untuk mulai mengerjakan kuis.
+1. Click "Quiz" to see an example of a quiz subcontent.
+2. Click "TAKE QUIZ" to start taking the quiz.
 
-Sebelum diarahkan ke halaman kuis, sebuah pop-up akan muncul mengingatkan jumlah percobaan, mengingatkan Anda untuk selalu berhati-hati saat mengerjakan soal, selalu berada di halaman kuis, dan mengklik **SUBMIT** di akhir proses agar jawaban tercatat.
+Before being directed to the quiz page, a pop-up will appear reminding you of the number of attempts, reminding you constantly to be careful when working on the questions, reminding you to always be on the quiz page, and clicking "Submit" at the end of the process so that the answers are recorded.
 
-![](/img/quiz_id2.png)
+![](/img/quiz_eng1.png)
 
-Halaman kuis akan menampilkan judul kuis di bagian atas dan jumlah pertanyaan di bawahnya.
+The quiz page will show the quiz title at the top and the number of questions below it. 
 
-![](/img/quiz_id3.png)
+![](/img/quiz_eng2.png)
 
-1. Durasi kuis ditampilkan di pojok kanan atas.
-2. Terdapat tombol **Berikutnya** untuk melihat pertanyaan berikutnya.
-3. Terdapat tombol **Keluar** untuk keluar dari halaman kuis.
+1. The quiz duration is listed in the upper right corner.
+2. There is a "Next" button to see the next question.
+3. There is a "Leave" button to exit the quiz page.
 
-Jika Anda mengklik tombol **Keluar**, sebuah notifikasi pop-up akan muncul yang menyatakan bahwa nilai akan menjadi 0 jika Anda keluar di tengah kuis.
+If you click the "Leave" button, a pop-up notification will appear stating that the score will be 0 if you exit in the middle of the quiz.
 
-![](/img/quiz_id3_leave.png)
+![](/img/quiz_eng2_leave.png)
 
-4. Untuk kembali ke halaman sebelumnya, klik tombol **Sebelumnya**.
-5. Angka berwarna abu-abu berarti jawaban belum diisi, sedangkan angka berwarna merah berarti jawaban sudah diisi.
+4. To return to the previous page, click the "Previous" button.
+5. Numbers in gray mean that the answer has not been filled in, while numbers in red mean that the answer has been filled in.
 
-![](/img/quiz_id4.png)
+![](/img/quiz_eng3.png)
 
-6. Ada notifikasi **You Skipped a Question** yang menunjukkan bahwa ada pertanyaan yang belum diisi dan dilewati.
-7. Ada tombol **PREVIEW & SUBMIT** jika Anda telah selesai mengerjakan kuis.
+6. There is a notification "You Skipped A Question" which indicates that there is a question that has not been filled in and is immediately skipped.
+7. There is a "Preview & Submit" button if you have finished working on the quiz.
 
-![](/img/quiz_id5.png)
+![](/img/quiz_eng4.png)
 
-Gambar menunjukkan Ringkasan Kuis dengan daftar pertanyaan yang telah dijawab dan yang belum dijawab.
+The image shows a Quiz Summary with a list of answered and unanswered questions.
 
-8. Klik tombol **KIRIM** jika sudah menyelesaikan kuis, sementara **KEMBALI KE QUIZ ** memungkinkan pengguna untuk meninjau atau menyelesaikan pertanyaan yang belum dijawab.
+8. The "Submit" button finalizes the quiz, while "Return to Quiz" lets the user review or complete unanswered questions.
 
-![](/img/quiz_id6.png)
+![](/img/quiz_eng5.png)
 
-a. Jika masih ada kuis yang belum diisi, teks **Anda masih memiliki 7 pertanyaan yang belum dijawab** akan muncul.
+a. If there are still unfilled quizzes, the text "You still have 29 questions unanswered" will appear.
 
-b. Jika semua sudah diisi, teks **Anda telah menjawab semua pertanyaan** akan muncul.
+b. If all have been filled, the text "You've answered all the questions" will appear.
 
-Klik tombol **Kirim** jika Anda ingin mengumpulkan kuis.
+Click the "Submit" button if you want to collect the quiz.
 
-![](/img/quiz_id6_submit.png)
+![](/img/quiz_eng5_submit.png)
 
-Setelah mengklik **Kirim**, pop-up selesai kuis akan muncul yang menjelaskan bahwa semua kuis telah diselesaikan dan hasil kuis dapat diperiksa.
+After clicking "Submit", a quiz finished pop-up will appear explaining that all the quizzes have been completed and the quiz results can be checked.
 
-![](/img/quiz_id7_finished.png)
+![](/img/quiz_eng6_finished.png)
 
-Setelah menyelesaikan kuis, halaman subkonten kuis akan menampilkan status progres.
+After completing the quiz, the quiz subcontent page will show the progress status. 
 
-- Status **Lulus** berarti berhasil dan skor yang diperoleh telah melampaui nilai minimal.
-- Skor yang diperoleh dapat dilihat di bawah **Nilai Anda**.
-- Klik **Periksa Jawaban** untuk melihat kuis yang telah diselesaikan sebelumnya.
+* The status "Passed" means passing and the score obtained has exceeded the minimum score.
+* The score obtained can be seen under "Your Score".
+* Click "Review" to see previously completed quizzes.
 
-![](/img/quiz_id8.png)
+![](/img/quiz_eng7.png)
 
-Halaman kuis yang selesai akan menampilkan status setiap pertanyaan yang sudah dijawab.
+The completed quiz page will show the status of each completed question.
 
-![](/img/quiz_id9.png)
+![](/img/quiz_eng8.png)
 
-a. Status **Benar** di bagian atas halaman berarti jawabannya benar.
+a. The "Correct" status at the top of the page means the answer is correct.
 
-b. Status **Salah** berarti pertanyaan memiliki jawaban yang salah. Pilihan jawaban yang di-highlight dengan warna hijau menunjukkan jawaban yang sebenarnya.
+b. The "Incorrect" status means the question has the wrong answer. The answer option highlighted in green represents the right answer.
 
-## **Memahami Kursus (Notes)**
+## **Understanding the Course (Notes)**
 
-Klik **Catatan** untuk melihat catatan yang ditulis selama studi kursus.
+Click "Notes" to view notes written during course study.
 
-Halaman **Catatan** akan menampilkan catatan yang diambil selama kursus berdasarkan konten, subkonten, dan menit/halaman di mana catatan tersebut ditulis.
+The "Notes" page will show notes taken throughout the course based on its course content, subcontent, and the minute/page that notes were written.
 
-![](/img/course_notes_id.png)
+![](/img/course_detail_notes_eng.png)
 
-## **Memahami Kursus (Forum)**
+## **Understanding the Course (Forum)**
 
-1. Klik **Forum** untuk mengakses halaman forum dari kursus yang Anda ikuti.
-2. Halaman **Forum** akan terbagi menjadi forum terbaru dan forum populer.
-3. Klik **Terbaru** atau **Populer** untuk mengakses salah satunya.
-4. Klik **+ TAMBAHKAN UTAS** untuk menambahkan diskusi ke forum.
+1. Click "Forum" to access the forum page of the course you are taking.
+2. The "Forum" page will be divided into recent forums and popular forums.
+3. Click "Recent" or "Popular" to access one of them.
+4. Click "+ ADD THREAD" to add discussion to the forum.
 
-![](/img/course_forum3_id.png)
+![](/img/course_detail_forum_eng.png)
 
-1. Ketik judul diskusi di **Judul Utas**.
-2. Ketik isi diskusi di **Deskripsi Judul**.
-3. Jika diskusi yang ingin Anda kirim ke forum sudah sesuai, klik button **KIRIM**.
+1. Type the discussion title in "Title Discussion".
+2. Type the contents of the discussion in the "Description Title".
+3. If the discussion you want to submit to the forum is satisfactory, click "POST".
 
-![](/img/course_forum2_id.png)
+![](/img/course_detail_forum2_eng.png)
 
-## **Menghubungi Helpline**
+## **Contacting Helpline**
 
-1. Menuju pada URL [https://skills.pintar.co/](https://skills.pintar.co/).
-2. Klik icon PINTAR pada bagian pojok kanan bawah untuk menghubungi customer service jika ada masalah pada saat mengakses kursus.
+1. go to URL ([https://skills.pintar.co/)](https://skills.pintar.co/) 
+2. Click the PINTAR's icon in the bottom right corner to contact customer service if you have problems accessing the course.[](https://skills.pintar.co/)
 
 ![](/img/course_help.png)
 
-3. Terdapat langkah-langkah untuk menggunakan fitur Live Chat.
-4. Klik icon PINTAR lagi untuk langsung diarahkan pada sesi Live Chat.
+3. There are procedures for using Live Chat. 
+4. Click the PINTAR's icon again to conduct a Live Chat session
 
 ![](/img/course_help2.png)
 
-5. Masukkan data pribadi seperti Nama, Email, dan juga Nomer Telepon. Kemudian klik tombol **STart Chatting**.
+5. Enter personal data such as name, email, and phone number then click "Start Chatting"
 
 ![](/img/course_help3.png)
 
-6. Setelah itu Anda akan diarahkan langsung ke ruang obrolan.
+6. After that you will be directed straight to the chat room.
 
 ![](/img/course_help4.png)

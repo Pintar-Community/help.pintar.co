@@ -4,40 +4,40 @@ sidebar_position: 8
 ---
 ![](/img/survey-skills_1.png)
 
-**Cara membuat Survey :**
+**How to Create a Survey :**
 
-* Klik menu Survey Listing.
-* Klik button **+New.**
+* Click on the **Survey Listing** menu.
+* Click the **+New** button.
 
   ![](/img/survey-skills_2.png)
-* Isi Nama **Survey** dan **Deskripsi**, lalu klik **Next.**
+* Fill in the **Survey Name** and **Description** fields, then click **Next**.
 
   ![](/img/survey-skills_3.png)
-* Kemudian klik Next, lalu akan muncul tampilan seperti gambar berikut:
+* Click **Next** to proceed, and a new screen will appear as shown below : 
 
   ![](/img/survey-skills_4.png)
-* Isi Judul Section dan Deskripsi Section.
+* Fill the Title and Description section.
 
   ![](/img/survey-skills_5.png)
-* Kemudian isi pertanyaan survey.
+* Add your survey questions.
 
   ![](/img/survey-skills_6.png)
 
-Anda dapat memilih jenis pertanyaan (Likert, Essay, Dropdown, Single Choice atau Multi Choice).
+You can select the question type (Likert, Essay, Dropdown, Single Choice, or Multi Choice).
 
 ![](/img/survey-skills_7.png)
 
-Untuk menambahkan section berikutnya Anda dapat klik button **Add Section** atau apabila Anda ingin menambahkan pertanyaan pada section tersebut, Anda dapat klik **Add Question**
+* To add a new section, click the **Add Section** button or if you want to add more questions to a section, click **Add Question**.
 
-![](/img/survey-skills_8.png)
+  ![](/img/survey-skills_8.png)
 
-Apabila Anda ingin duplicate atau menghapus suatu section, Anda dapat klik **three dot button** pada pojok kanan atas section.
+To duplicate or delete a section, click the **three-dot button** in the top-right corner of the section.
 
 ![](/img/survey-skills_9.png)
 
-* Jika sudah, klik button **Save & Preview**
+* Once completed, click **Save & Preview**
 
   ![](/img/survey-skills_10.png)
-* Kemudian Anda dapat melihat **Tampilan Preview**
+* You can review the survey in **Preview Mode**
 
   ![](/img/survey-skills_11.png)

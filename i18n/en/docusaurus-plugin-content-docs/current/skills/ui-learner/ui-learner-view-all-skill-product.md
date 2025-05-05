@@ -2,25 +2,26 @@
 title: (UI Learner) View All Skill Product
 sidebar_position: 12
 ---
-Masuk ke URL https://skills.pintar.co/id untuk **Melihat Semua Produk Skill.**
+Go to the URL https://skills.pintar.co/id to **View all Skills Products.**
 
-![](/img/view-all-indo-1.png)
+![](/img/view-all-eng-1.png)
 
-Klik Produk, lalu pilih **Pintar Skills.**
+Click Products, then select **Pintar Skills.**
 
-![](/img/view-all-indo-2.png)
+![](/img/view-all-eng-2.png)
 
-Klik **Jelajahi Program** untuk melihat program Skills.
+Click **Explore Programs** to view available Skills programs.
 
-![](/img/view-all-indo-3.png)
+![](/img/view-all-eng-3.png)
 
-Berikut adalah beberapa Program Skills. 
-Untuk melihat semua Program, klik **Jelajahi Semua Program.** 
+Here are some Skills programs.
 
-![](/img/view-all-indo-4.png)
+To view all programs, click **Browse All Programs.**
 
-![](/img/view-all-indo-5.png)
+![](/img/view-all-eng-4.png)
 
-Anda juga dapat mencari kursus berdasarkan Program, Tipe Kursus, Kategori dan Short by sesuai dengan menu yang tersedia.
+![](/img/view-all-eng-5.png)
 
-![](/img/view-all-indo-6.png)
+You can also search for courses based on Program, Course Type, Category, and Sort By using the available menu options.
+
+![](/img/view-all-eng-6.png)

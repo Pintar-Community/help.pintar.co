@@ -2,21 +2,21 @@
 title: Forum
 sidebar_position: 53
 ---
-Pada menu ini, berfungsi sebagai tempat untuk Instruktur dan Peserta dapat berdiskusi mengenai kelas tersebut. 
+In this menu, it serves as a place for Instructors and Participants to discuss the class. 
 
-![](/img/forum-instructor-skills_indo-1.png)
+![](/img/forum-instructor-skills_eng-1.png)
 
-## **Cara membuat Forum :**
+## How to Create a Forum Thread **:**
 
-1. Anda dapat kilk **+ Add Thread** pada pojok kanan atas.
+1. Click **+ Add Thread** in the top-right corner.
 
-   ![](/img/forum-instructor-skills_indo-2.png)
-2. Kemudian akan muncul tampilan seperti gambar.
-3. Tambahkan Judul Utas dan Deskripsi Utas.
-4. Kemudian klik tombol Kirim pada pojok kanan bawah.
+   ![](/img/forum-instructor-skills_eng-2.png)
+2. A new interface will appear as shown in the example.
+3. Add a Thread Title and Thread Description.
+4. Click the Submit button in the bottom-right corner.
 
-   ![](/img/forum-instructor-skills_indo-3.png)
+   ![](/img/forum-instructor-skills_eng-3.png)
 
-Apabila sudah klik **kirim**, maka Utas yang Anda buat akan muncul pada menu forum seperti gambar di bawah ini. Utas yang Anda buat dapat dikomentari oleh peserta dan begitupun sebaliknya.
+Once you click **Submit**, the thread you created will appear in the forum menu, as shown in the example. The thread you created can be commented on by participants, and vice versa.
 
-![](/img/forum-instructor-skills_indo-4.png)
+![](/img/forum-instructor-skills_eng-4.png)

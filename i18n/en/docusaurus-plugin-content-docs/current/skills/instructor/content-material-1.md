@@ -2,17 +2,17 @@
 title: Content Material
 sidebar_position: 39
 ---
-![](/img/content-skills_indo.png)
+![](/img/content-skills_eng.png)
 
-Bagian ini berisi Topik-topik yang akan dipelajari, terdiri dari materi pembelajaran dengan beberapa sesi. Pada bagian ini akan terdiri dari beberapa konten berupa :
+This section contains the topics to be covered, comprising learning materials across multiple sessions. It includes the following types of content:
 
-1. Artikel
-2. Dokumen
-3. Video
-4. Live Session
+1. Articles
+2. Documents
+3. Videos
+4. Live Sessions
 
-Serta berisi tugas-tugas berupa :
+It also includes assignments such as:
 
-1. Diskusi
-2. Quiz
-3. Tugas
+1. Discussions
+2. Quizzes
+3. Individual Assignments

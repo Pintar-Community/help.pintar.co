@@ -2,14 +2,14 @@
 title: User Transaction
 sidebar_position: 4
 ---
-Anda dapat melihat Fitur **User Transaction** pada menu Reports.
+You can find the **User Transaction** feature in the **Reports** menu.
 
 ![](/img/user-transaction_skills-1.png)
 
-**User Transaction** berisikan data transaksi pembelian kursus, untuk mempermudah dalam mencari data transaksi berdasarkan kebutuhan, Klik **Filter**.
+**ser Transaction** contains data on course purchase transactions. To make it easier to find transaction data based on your needs, click **Filter**.
 
 ![](/img/user-transaction_skills-2.png)
 
-Isi data yang ingin dicari, lalu klik **Apply.**
+Enter the required data, then click **Apply**.
 
 ![](/img/user-transaction_skills-3.png)

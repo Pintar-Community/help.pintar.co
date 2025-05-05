@@ -2,23 +2,23 @@
 title: Payment the Product
 sidebar_position: 14
 ---
-Login pada https://skills.pintar.co untuk melakukan Pembayaran Produk Prakerja. 
+Log in to https://skills.pintar.co to proceed with the **Prakerja Product Payment**.
 
-1. Pilih kursus yang ingin di beli, lalu klik **Selengkapnya**.
+1. Select the desired course and click Learn More.
 
    ![](/img/payment-skills_indo-1.png)
-2. Klik **Daftar Sekarang.**
+2. Click **Enroll Now.**
 
-   ![](/img/payment-skills_indo-2.png)
-3. Anda akan diarahkan ke halaman detail pembelian untuk memastikan data yang di beli sesuai, **checklist checkbox saya setuju** lalu klik **Pilih Pembayaran.**
+   ![](/img/payment-skills_eng-2.png)
+3. You will be directed to the purchase details page to verify that the selected product is correct. Check the **I agree** **checkbox**, then click **Choose Payment**.
 
-   ![](/img/payment-skills_indo-3.png)
-4. Setelah itu akan muncul pop up Metode Pembayaran, klik **Lanjutkan.**
+   ![](/img/payment-skills_eng-3.png)
+4. A **Payment Method** pop-up will appear. Click **Continue**.
 
-   ![](/img/payment-skills_indo-4.png)
-5. Selanjutnya anda akan diarahkan pada **Ringkasan Pesanan.** Terdapat informasi total harga, metode pembayaran  yang dapat anda pilih, dan juga informasi batas waktu yang anda miliki untuk melakukan penyelesaian pembayaran.
+   ![](/img/payment-skills_eng-4.png)
+5. Next, you will be directed to the **Order Summary** page. This page contains information about the total price, available payment methods, and the deadline to complete your payment.
 
    ![](/img/payment-skills-4.png)
-6. Setelah anda memilih akan menggunakan metode pembayaran yang anda inginkan. Anda dapat segera melakukan pembayaran sesuai dengan nominal yang tertera. 
+6. After selecting your preferred payment method, you can proceed with the payment according to the stated amount.
 
    ![](/img/payment-skills-5.png)

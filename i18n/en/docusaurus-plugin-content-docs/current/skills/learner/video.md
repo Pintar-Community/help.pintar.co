@@ -2,23 +2,23 @@
 title: Video
 sidebar_position: 27
 ---
-Untuk mengakses Video yang berisi Video Materi di LMS, Anda dapat Klik Video pada Sesi di Konten Kursus.
+To access the Video containing the Course Materials in the LMS, you can click on the Video in the Session under the Course Content.
 
-![](/img/vid-skills-indo_1.png)
+![](/img/vid-skills-eng_1.png)
 
-Terdapat beberapa fitur yang dapat digunakan dalam mengakses Video sebagai berikut:
+There are several features available for accessing the Video, as listed below:
 
-![](/img/vid-skills-indo_2.png)
+![](/img/vid-skills-eng_2.png)
 
-1. Play untuk memulai dan menghentikan video.
-2. Mute/Unmute audio video.
-3. Untuk mengatur volume video.
-4. Untuk mengatur Resolusi penampilan video. 
+1. Play to start and pause the video.
+2. Mute/Unmute to control the video audio.
+3. To adjust the video volume.
+4. To set the video resolution.
 
-   ![](/img/vid-skills-indo_3.png)
-5. Untuk mempercepat atau memperlambat kecepatan video.
+   ![](/img/vid-skills-eng_3.png)
+5. To speed up or slow down the video playback.
 
    ![](/img/vid-skills-eng_4.png)
-6. Untuk mengatur tampilan Video layar penuh ataupun tidak layar penuh.
+6. To adjust the video display to full screen or exit full screen mode.
 
-   ![](/img/vid-skills-indo_5.png)
+   ![](/img/vid-skills-eng_5.png)

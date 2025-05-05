@@ -2,26 +2,26 @@
 title: Discussion
 sidebar_position: 43
 ---
-Pada bagian ini, Anda dapat memberikan pertanyaan berupa diskusi pada setiap sesi yang nanti akan dijawab oleh peserta dan dapat diberikan nilai.
+In this section, you can create discussion questions for each session, which students will answer and may receive grades for.
 
-![](/img/discussion-skills_indo-1.png)
+![](/img/discussion-skills_eng-1.png)
 
-1. Berisi soal diskusi
-2. Anda juga dapat memberikan jawaban berupa kesimpulan dari pertanyaan diskusi tersebut pada kolom “Add your answer”
-3. Apabila telah dijawab, anda dapat submit jawaban dengan klik button “Post”
+1. Contains discussion questions.
+2. You can provide a summary or conclusion of the discussion question in the “Add your answer” field.
+3. Once you’ve entered your response, click the “Post” button to submit it.
 
-Berikut adalah contoh jawaban diskusi yang telah disubmit oleh peserta.
+Example of a Student’s Submitted Answer.
 
-![](/img/discussion-skills_indo-2.png)
+![](/img/discussion-skills_eng-2.png)
 
-Anda sebagai instruktur juga dapat memberikan nilai pada jawaban diskusi peserta dengan beberapa ketentuan seperti gambar di bawah ini:
+As an instructor, you can also grade student answers based on the criteria shown in the image below:
 
-![](/img/discussion-skills_indo-3.png)
+![](/img/discussion-skills_eng-3.png)
 
-1. **Thumb Up/Ikon Jempol** : Hanya sebagai apresiasi dari jawaban peserta dan tidak mendapatkan nilai. Apabila Anda hanya memberikan Thumb Up/Ikon Jempol pada jawaban peserta, maka peserta tersebut tidak mendapatkan nilai
-2. **Reply** : pada bagian ini Anda dapat mengomentari jawaban peserta
-3. Bagian ini menampilkan waktu peserta mensubmit jawaban diskusi tersebut
+1. **Thumb Up/Like Icon**: This serves only as appreciation for the student's answer and does not contribute to their grade. If you only give a **Thumb Up**, the student will not receive any points.
+2. **Reply**: Use this feature to leave comments on the student's answer.
+3. Displays the timestamp of when the student submitted their answer.
 
-Berikut contoh jawaban yang sudah diberikan nilai dan dikomentari oleh Instruktur.
+Example of Graded and Commented Answers.
 
-![](/img/discussion-skills_indo-4.png)
+![](/img/discussion-skills_eng-4.png)
