@@ -13,7 +13,7 @@ sidebar_position: 3
 3. Instruktur berhasil masuk ke dashboard. Klik "Lihat detail" untuk memeriksa peserta yang terdaftar dalam kursus.
 
    ![](/img/1-3.png)
-4. Klik ikon "<" untuk kembali ke halaman dashboard.
+4. Klik ikon `<` untuk kembali ke halaman dashboard.
 
    ![](/img/1-4.png)
 5. Klik "Cara membuat sambal" atau nama kursus yang akan dikerjakan.

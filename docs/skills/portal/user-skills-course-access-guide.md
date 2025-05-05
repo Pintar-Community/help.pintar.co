@@ -170,7 +170,7 @@ c. Untuk memposting komentar, klik tombol Balas di pojok kanan bawah.
 
 Dalam jenis Dokumen, pengguna dapat melihat dan membaca dokumen yang diunggah serta memberikan Catatan dan Komentar. Namun, pengguna harus membaca dokumen sepenuhnya sebelum diizinkan melanjutkan ke tugas berikutnya. 
 
-1. Klik "Lihat layar penuh" untuk melihat dokumen dalam tampilan layar penuh. Klik ikon "<" untuk keluar dari tampilan layar penuh dokumen.
+1. Klik "Lihat layar penuh" untuk melihat dokumen dalam tampilan layar penuh. Klik ikon `<` untuk keluar dari tampilan layar penuh dokumen.
 
 ![](/img/course-document_id.png)
 
@@ -377,7 +377,7 @@ Halaman "Catatan" akan menampilkan catatan yang diambil selama kursus berdasarka
 
 ## **Menghubungi Helpline**
 
-1. Menuju pada URL (<https://skills.pintar.co/>).
+1. Menuju pada URL [https://skills.pintar.co/](https://skills.pintar.co/).
 2. Klik icon PINTAR pada bagian pojok kanan bawah untuk menghubungi customer service jika ada masalah pada saat mengakses kursus.
 
 ![](/img/course_help.png)

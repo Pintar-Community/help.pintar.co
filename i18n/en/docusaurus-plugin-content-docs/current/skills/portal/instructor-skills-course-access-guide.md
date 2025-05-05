@@ -14,7 +14,7 @@ sidebar_position: 3
 3. The instructor has successfully logged into the dashboard. Click **See details** to check students enrolled in the course.
 
    ![](/img/1-3.png)
-4. Click the **<** icon to return to the dashboard page.
+4. Click the `<` icon to return to the dashboard page.
 
    ![](/img/1-4.png)
 5. Click **How to make chili sauce** or the name of the course you want to work on.

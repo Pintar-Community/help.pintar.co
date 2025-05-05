@@ -168,7 +168,7 @@ c. To post a comment, click the Reply button in the bottom right corner.
 
 In the Document type, users can view and read uploaded documents and provide Notes and Comments. However, users must read the document entirely before they are allowed to proceed to the next task.
 
-1. Click **View full screen** to see the document in full screen view. Click the **<** icon to exit the full screen view of the document.
+1. Click **View full screen** to see the document in full screen view. Click the `<` icon to exit the full screen view of the document.
 
 ![](/img/course-document_eng.png)
 
