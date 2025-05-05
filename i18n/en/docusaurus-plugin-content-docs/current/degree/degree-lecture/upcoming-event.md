@@ -1,19 +1,19 @@
 ---
-title: Acara Akan Datang
+title: Upcoming Event
 sidebar_position: 4
 ---
-![](/img/degree-lecture-upcoming-event.jpg)
+![](/img/degree-lecture-upcoming-event-4.jpg)
 
-Pada bagian ini berisi Acara Akan Datang berupa Live Session. Pelaksanaan Live Session yang akan muncul pada Acara Akan Datang adalah Live Session yang akan dilaksanakan pada hari yang akan datang saat Instruktur mengakses LMS.
+This section contains Upcoming Events, which include Live Sessions. The Live Sessions displayed in Upcoming Events are those scheduled for future dates when the Instructor accesses the LMS.
 
-#### **Cara untuk melihat jadwal Live Session yang akan datang :**
+#### **How to View the Schedule for Upcoming Live Sessions :**
 
-1. Untuk menampilkan secara keseluruhan, Anda dapat klik button Lihat Semua pada pojok kanan atas, kemudian akan muncul tampilan seperti gambar.
+1. To display all scheduled sessions, click the See More button in the top-right corner. A screen similar to the example image will be displayed.
 
-![](/img/degree-lecture-upcoming-event-2.jpg)
+![](/img/degree-lecture-upcoming-event-5.jpg)
 
-2. Untuk membuka tampilan Live Session, Anda dapat klik judul Live Sessionnya maka akan diarahkan pada Live Session di kelas tersebut.
+2. To open the Live Session details, click on the title of the session, and you will be directed to the Live Session for that class.
 
-![](/img/degree-lecture-upcoming-event-3.jpg)
+![](/img/degree-lecture-today-s-event-4.jpg)
 
-3. Anda dapat join Live Session sesuai waktu yang telah ditentukan.
+3. You can join the Live Session at the scheduled time.

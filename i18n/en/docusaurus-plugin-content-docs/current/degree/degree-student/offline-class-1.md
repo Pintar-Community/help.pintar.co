@@ -2,72 +2,72 @@
 title: Offline Class
 sidebar_position: 16
 ---
-![](/img/offlineclass_.jpg)
+![](/img/degree-lecture-offline-class-9.jpg)
 
-Offline Class merupakan fitur yang digunakan sebagai absensi untuk pembelajaran yang dilaksanakan secara Offline atau Tatap Muka.
+The Offline Class feature is used for attendance tracking in offline or face-to-face learning sessions.
 
-#### **Cara mengisi Absensi pada menu Offline Class :**
+#### **Steps to Record Attendance in the Offline Class Menu :**
 
-1. Klik sesi yang berisi Offline Class.
+1. Select the session that includes the Offline Class.
 
-![](/img/degree-lecture-offline-class.jpg)
+![](/img/degree-lecture-offline-class-10.jpg)
 
-2. Kemudian akan muncul tampilan seperti gambar.
+2. A screen will appear as shown in the example image.
 
 ![](/img/degree-lecture-offline-class-2.jpg)
 
-3. Untuk mengisi absensi, klik Edit Details.
+3. To record attendance, click Edit Details.
 
 ![](/img/degree-lecture-offline-class-3.jpg)
 
-4. Lalu pilih sesuai kehadiran student (Presence/Absence).
+4. Mark the student's status as Present or Absent.
 
 ![](/img/degree-lecture-offline-class-4.jpg)
 
-5. Apabila student Absence pada sesi tersebut, Anda dapat memberikan detail terkait kehadirannya seperti contoh pada gambar.
+5. If a student is marked as Absent, you can provide additional details about their absence, as shown in the example image.
 
 ![](/img/degree-lecture-offline-class-5.jpg)
 
-6. Jika sudah diisi, klik Save Changes.
+6. Once completed, click Save Changes.
 
-7. Kemudian, Anda juga dapat mengunduh absensi tersebut dengan cara klik button Download.
+7. You can also download the attendance record by clicking the Download button.
 
 ![](/img/degree-lecture-offline-class-6.jpg)
 
-#### **Cara Menambahkan Offline Class :**
+#### **Steps to Add an Offline Class :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/degree-lecture-manage-class.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/degree-lecture-manage-class-2.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Choose the class you want to edit, then click Manage.
 
 ![](/img/degree-lecture-manage-class-3.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
+4. After selecting the class, a new screen will appear. Click Material.
 
 ![](/img/degree-lecture-manage-class-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Offline Class, kemudian klik + Add Content.
+5. Select the session where you want to add an Offline Class, then click + Add Content.
 
 ![](/img/articlee-5.jpg)
 
-6. Kemudian pilih content Offline Class.
+6. Choose the Offline Class content type.
 
 ![](/img/degree-lecture-offline-class-7.jpg)
 
-7. Kemudian isi semua informasi terkait Offline Class (*Title, Description, Location, Start Date, Duration*).
+7. Fill in all required information about the Offline Class (*Title, Description, Location, Start Date, Duration*).
 
 ![](/img/degree-lecture-offline-class-8.jpg)
 
-Pada menu Offline Class terdapat tombol Enable Scoring. Fitur ini dapat digunakan apabila Anda ingin memberikan nilai pada sesi tersebut.
+In the Offline Class menu, there is an Enable Scoring button. This feature allows you to assign grades for the session if necessary.
 
-8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
+8. Once completed, click Save in the bottom-right corner.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
+9. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

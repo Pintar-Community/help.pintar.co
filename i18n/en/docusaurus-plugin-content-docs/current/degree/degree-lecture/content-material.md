@@ -1,19 +1,19 @@
 ---
-title: Konten Kursus
+title: Content Material
 sidebar_position: 10
 ---
-![](/img/degree-lecture-content-material-indo.jpg)
+![](/img/degree-lecture-content-material.jpg)
 
-Bagian ini berisi Topik-topik yang akan dipelajari yang terdiri dari materi pembelajaran dengan beberapa sesi. Pada bagian ini akan terdiri dari beberapa konten berupa :
+This section contains the topics to be covered, comprising learning materials across multiple sessions. It includes the following types of content :
 
-1. Artikel
-2. Dokumen
+1. Article
+2. Document
 3. Video
 4. Live Session
 
-Serta berisi tugas-tugas berupa :
+It also includes assignments such as:
 
-1. Diskusi
+1. Discussion
 2. Quiz
-3. Tugas Individu
-4. Ujian
+3. Individual Assignment
+4. Exam

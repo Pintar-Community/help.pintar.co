@@ -1,21 +1,21 @@
 ---
-title: Daftar Kelas per Tahun Ajaran
+title: View All Class per Academic Year
 sidebar_position: 34
 ---
-Setelah Anda berhasil Login maka tampilannya akan seperti ini
+After you have successfully logged in, the display will look like this
 
-![](/img/view-all-class-per-academic-year-1.ind.png)
+![](/img/view-all-class-per-academic-year-1.eng.png)
 
-Pilih program sesuai dengan Program yang Anda ambil
+Choose the course according to the program you are taking
 
-![](/img/view-all-class-per-academic-year-2.ind.png)
+![](/img/view-all-class-per-academic-year-2.eng.png)
 
-Untuk melihat Mata Kuliah sesuai dengan Tahun Ajaran, Anda dapat klik Tahun Ajaran untuk memilih Tahun Ajaran yang akan ada lihat.
+To see courses based on the academic year, click Academic Year to select the academic year you want to see.
 
-![](/img/view-all-class-per-academic-year-3.ind.png)
+![](/img/view-all-class-per-academic-year-3.eng.png)
 
-![](/img/view-all-class-per-academic-year-4.ind.png)
+![](/img/view-all-class-per-academic-year-4.eng.png)
 
-Setelah Anda pilih Tahun Ajaran, maka akan muncul Mata Kuliah sesuai dengan Tahun Ajaran yang anda pilih seperti berikut:
+After you select the Academic Year, the Courses corresponding to the selected Academic Year will appear as follows:
 
-![](/img/view-all-class-per-academic-year-5.ind.png)
+![](/img/view-all-class-per-academic-year-5.eng.png)

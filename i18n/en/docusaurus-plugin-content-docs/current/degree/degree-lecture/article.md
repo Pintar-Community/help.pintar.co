@@ -1,43 +1,43 @@
 ---
-title: Artikel
+title: Article
 sidebar_position: 11
 ---
 ![](/img/degree-lecture-article.jpg)
 
-Pada konten ini berisi materi berupa Artikel. Apabila Anda sebagai instruktur ingin memberikan bacaan berupa artikel kepada students, dapat diupload pada konten Artikel ini.
+This content contains materials in the form of articles. If you, as an instructor, want to provide reading materials for students, you can upload them in the Article section.
 
-#### **Cara Menambahkan Artikel :**
+#### **Steps to Add an Article :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/articlee-1.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/articlee-2.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Choose the class you want to edit, then click Manage.
 
 ![](/img/articlee-3.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
+4. After selecting the class, a new screen will appear. Click Material.
 
 ![](/img/articlee-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Artikel, kemudian klik + Add Content.
+5. Select the session where you want to add an article, then click + Add Content.
 
 ![](/img/articlee-5.jpg)
 
-6. Kemudian pilih content Artikel.
+6. Choose the Article content type.
 
 ![](/img/articlee-6.jpg)
 
-7. Anda dapat membuat judul artikel dan isi artikel pada kolom yang tersedia
+7. Enter the article title and content in the fields provided.
 
 ![](/img/articlee-7.jpg)
 
-8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
+8. Once completed, click Save in the bottom-right corner.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
+9. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

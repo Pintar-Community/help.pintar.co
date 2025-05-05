@@ -2,69 +2,67 @@
 title: Live Session (Pintar)
 sidebar_position: 18
 ---
-![](/img/live-session-pintar-1.jpg)
+![](/img/degree-lecture-ls-pintar-3.jpg)
 
-Pada Live Session ini, Anda sebagai Instruktur dan seluruh student akan melaksanakan sesi
-langsung menggunakan Jitsi. Pelaksanaan Live Session sesuai dengan jadwal kelas
-yang sudah disepakati oleh Instruktur dan Student. 
+In the Live Session, you as the instructor and all students will participate in a real-time session using Jitsi. The session will be conducted based on the schedule agreed upon by the instructor and students. 
 
-![](/img/live-session-pintar-2.jpg)
+![](/img/degree-lecture-ls-pintar-4.jpg)
 
-Pada tampilan Live Session, akan ada beberapa informasi seperti :
+The Live Session interface will display the following information:
 
-1. Judul Live Session
-2. Jadwal pelaksanaan Live Session
-3. Durasi pelaksanaan Live Session
-4. Tombol Join : Anda dapat klik button join untuk masuk ke room Live Session. Anda sudah dapat join Live Session 10 menit sebelum pelaksanaan Live Session.
+1. Live Session Title
+2. Scheduled Date and Time of the Live Session
+3. Duration of the Live Session
+4. Join Button: Click the Join button to enter the Live Session room. You can join the session 10 minutes before the scheduled start time
 
-Apabila Anda sudah join ke room Live Session, maka akan muncul tampilan Live Session pada Jitsi seperti gambar.
+Once you enter the Live Session room, the Jitsi interface will appear as shown in the example image.
 
 ![](/img/live-session-pintar-3.png)
 
-**Contoh apabila Anda hadir saat Live Session**
+**Attendance Examples If You Join the Live Session :**
 
-Apabila Anda hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Bergabung.
+If you attend the session, your Live Session attendance status will change to Joined.
 
-![](/img/degree-lecture-ls-pintar-6.jpg)
+![](/img/live-session-pintar-4.jpg)
 
-**Contoh apabila Anda tidak hadir saat Live Session**
+**Attendance Examples If You Do Not Attend the Live Session :**
 
-Apabila Anda tidak hadir saat Live Session, status kehadiran Live Session Anda akan berubah dengan keterangan Dilewati.
+If you miss the session, your attendance status will change to Skipped.
 
-![](/img/degree-lecture-ls-pintar-5.jpg)
+![](/img/live-session-pintar-5.jpg)
 
-##### **Cara Menambahkan Live Session (Pintar) :**
+##### **Steps to Add a Live Session (Pintar) :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/articlee-1.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/articlee-2.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Choose the class you want to edit, then click Manage.
 
 ![](/img/articlee-3.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
+4. After selecting the class, a new screen will appear. Click Material.
 
 ![](/img/articlee-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Live Session (Pintar), kemudian klik + Add Content.
+5. Select the session where you want to add a Live Session (Pintar), then click + Add Content.
 
 ![](/img/articlee-5.jpg)
 
-6. Kemudian pilih content Live Session (Pintar).
+6. Choose the Live Session (Pintar) content type.
 
 ![](/img/live-session-pintar-6.jpg)
 
-7. Kemudian isi semua informasi terkait Live Session (*Title, Description, Start time, Duration).*
+7. Fill in all the required information for the Live Session (Title, Description, Start Time, Duration).
 
 ![](/img/live-session-pintar-7.jpg)
 
-8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
+8. Once completed, click Save in the bottom-right corner.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
+9. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

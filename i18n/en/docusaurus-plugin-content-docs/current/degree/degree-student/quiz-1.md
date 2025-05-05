@@ -2,56 +2,55 @@
 title: Quiz
 sidebar_position: 49
 ---
-Dalam Sesi Konten Kursus biasanya terdapat Quiz yang harus Anda kerjakan, Quiz terdiri dari 3 jenis, yaitu:
+In the Course Content Session, there are quizzes that you need to complete. The quizzes consist of three types:
 
-1. **Pre Quiz**	: Quiz yang dikerjakan sebelum Anda mengakses Materi.
-2. **Practice Quiz**	: Quiz yang dikerjakan setelah Anda mengakses Materi, Practice Quiz ini adalah Quiz latihan sebelum Anda mengerjakan Post Quiz.
-3. **Post Quiz**	: Quiz yang dikerjakan setelah Anda mengakses Materi.
+1. **Pre-Quiz**: A quiz that must be completed before accessing the material.
+2. **Practice Quiz**: A quiz that is completed after accessing the material, serving as practice before taking the Post-Quiz.
+3. **Post-Quiz**: A quiz that must be completed after accessing the material.
 
-Untuk mengerjakan Quiz, Anda dapat Klik **Pre Quiz** pada Sesi di Konten Kursus
+To start a quiz, you can click on the **Pre-Quiz** in the Course Content Session.
 
-![](/img/quiz-1.ind.png)
+![](/img/quiz-1.eng.png)
 
-![](/img/quiz-2.ind.png)
+![](/img/quiz-2.eng.png)
 
-Sebelum Anda mulai mengerjakan Quiz ada beberapa yang harus Anda perhatikan:
+Before starting a quiz, please note the following:
 
-1. Jumlah pertanyaan dalam Quiz yang akan Anda kerjakan.
-2. Deadline/Batas Waktu Anda dapat mengerjakan Quiz tersebut, jika sudah melewati Batas Waktu maka Anda tidak dapat mengerjakan Quiz.
-3. Sisa Pengulangan, Anda dapat mengerjakan kembali Quiz jika perlu dikerjakan kembali, namun untuk Pre Quiz dan Post Quiz hanya dapat dikerjakan 1(satu) kali saja.
-4. Metode Penilaian adalah Nilai Quiz yang Anda kerjakan secara berulang (Seperti Practice Quiz, Anda dapat mengerjakan Practice Quiz sebanyak 3(tiga) kali pengulangan) maka yang akan digunakan adalah Nilai Tertinggi dari ke-3 nilai Quiz.
-5. Durasi pengerjaan Quiz, jika Anda melewati durasi yang sudah disediakan dalam mengerjakan Quiz, maka Quiz akan langsung berakhir dan Anda tidak dapat melanjutkan menjawab Quiz.
-6. Nilai Minimum dalam pengerjaan Quiz.
+1. Number of Questions on the Quizzes
+2. Deadline: Ensure you complete the quiz within the specified time frame. If the deadline is missed, you will no longer be able to attempt the quiz.
+3. Remaining Attempts: You can retake the quiz if allowed, but Pre-Quizzes and Post-Quizzes can only be attempted once.
+4. Grading Method: For quizzes with multiple attempts (e.g., Practice Quizzes, which allow up to three attempts), the highest score among all attempts will be recorded as your final grade.
+5. Quiz Duration: Each quiz has a designated duration. If you exceed the allotted time, the quiz will automatically end, and you will not be able to continue answering.
+6. Minimum Passing Score.
 
-Untuk memulai mengerjakan Quiz, Anda dapat Klik **Mulai Quiz**.
+To start the quiz, click on **Take Quiz**.
 
-![](/img/quiz-3.ind.png)
+![](/img/quiz-3.eng.png)
 
-Lalu Klik **Lanjut** untuk lanjut mengerjakan Quiz
+Then click **Continue** to continue working on the Quiz.
 
-![](/img/quiz-4.ind.png)
+![](/img/quiz-4.eng.png)
 
-Setelah Anda memilih jawaban Quiz, Anda dapat Klik **Selanjutnya** untuk melanjutkan ke soal Quiz selanjutnya.
+Once you have selected your answer, you can click **Next** to proceed to the next question.
 
-![](/img/quiz-5.ind.png)
+![](/img/quiz-5.eng.png)
 
-Pada soal kedua dan seterusnya Anda dapat melihat kembali soal dan jawaban Anda di soal sebelumnya dengan Klik **Sebelumnya**.
+Starting from the second question, you can review the previous questions and your answers by clicking **Previous**.
 
-![](/img/quiz-6.ind.png)
+![](/img/quiz-6.eng.png)
 
-Pada soal Quiz terakhir Anda dapat Klik **Lihat dan Kirim**, lalu akan muncul Ringkasan Quiz dan Anda dapat Klik **Kirim**.
+On the final quiz question, you can click **Preview & Submit**, which will display a Quiz Summary. 
 
-![](/img/quiz-7.ind.png)
+![](/img/quiz-7.eng.png)
 
-Lalu Anda Klik **Kirim** untuk Submit jawaban Quiz
+Then, click **Submit** to finalize your quiz answers.
 
+![](/img/quiz-8.eng.png)
 
-![](/img/quiz-8.ind.png)
+After clicking **Submit**, a summary of your quiz results, including your score, will be displayed as follows:
 
-Setelah Anda Klik Kirim, maka akan muncul Keterangan dan Nilai dari Quiz yang sudah Anda kerjakan, seperti berikut:
+![](/img/quiz-9.eng.png)
 
-![](/img/quiz-9.ind.png)
+If you exceed the time allotted when answering a quiz, you will not be able to continue working on the quiz. The quiz will be automatically marked as completed, and the results screen will appear below : 
 
-Jika dalam pengerjaan soal Quiz Anda melebihi dari durasi yang ditentukan, maka Anda tidak dapat melanjutkan menjawab soal Quiz, Quiz dianggap selesai dan akan muncul tampilan seperti berikut:
-
-![](/img/quiz-10.eng.png)
+![](/img/quiz-eng.png)

@@ -1,19 +1,19 @@
 ---
-title: (Degree Lecture) Kalender Acara
+title: (Degree Lecture) Event Calendar
 sidebar_position: 1
 ---
-![](/img/degree-lecture-event-calendar-2.jpg)
+![](/img/degree-lecture-event-calendar-3.jpg)
 
-Pada Event Calendar ini berisi tugas-tugas dan kegiatan pembelajaran yang harus Instruktur laksanakan pada kelas tersebut. Menu ini terdapat pada Dashboard LMS di sebelah kanan.
+In this Event Calendar, you will find tasks and learning activities that instructors need to carry out in the respective class. This menu is located on the LMS Dashboard, on the right side.
 
-#### **1. Penilaian Belum Selesai**
+#### **1. Unfinished Grading**
 
-Pada bagian ini berisi penilaian pada tugas maupun ujian students yang belum dinilai. Anda dapat melihat kewajiban yang harus dipenuhi pada menu ini.
+This section contains assessments of assignments or exams that have not yet been graded. You can view the pending tasks in this menu.
 
-#### **2. Acara Hari Ini**
+#### **2. Today's Event**
 
-Bagian ini berisi informasi terkait Live Session atau kelas yang dilaksanakan pada hari Anda sedang mengakses LMS.
+This section provides information about Live Sessions or classes being conducted on the day you access the LMS.
 
-#### **3. Acara Akan Datang**
+#### **3. Upcoming Events**
 
-Bagian ini beirisi informasi terkait adanya Live session atau kelas yang akan dilaksanakan pada tanggal mendekati dari saat Anda sedang menggunakan LMS.
+This section provides information about upcoming Live Sessions or classes scheduled for dates close to when you are using the LMS.

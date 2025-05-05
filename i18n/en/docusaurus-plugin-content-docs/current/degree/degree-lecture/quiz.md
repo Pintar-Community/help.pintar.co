@@ -2,136 +2,136 @@
 title: Quiz
 sidebar_position: 20
 ---
-![](/img/degree-lecture-quiz.jpg)
+![](/img/degree-lecture-quiz-16.jpg)
 
-Pada konten Quiz ini, terdiri atas 3 jenis Quiz (*Pre Quiz, Practice Quiz, dan Post Quiz*). Pada tampilan Quiz ini,  Anda juga dapat melihat informasi berupa jumlah pertanyaan quiz, durasi quiz, nilai minimum quiz, dan metode penilaian yang diambil.
+In this Quiz content, there are 3 types of Quiz (*Pre Quiz, Practice Quiz, and Post Quiz)*. In this Quiz display, you can also see information in the form of the number of quiz questions, quiz duration, minimum quiz score, and the assessment method taken.
 
-![](/img/degree-lecture-quiz-2.jpg)
+![](/img/degree-lecture-quiz-17.jpg)
 
-Untuk melihat status pengerjaan quiz oleh students, Anda dapat melihat detailnya pada menu Performance pada Dashboard. 
+To see the status of students completing the quiz, you can see the details in the Performance menu on the Dashboard.
 
-#### **Cara menambahkan Quiz :**
+#### **How to add a Quiz :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile logo in the top right corner of the Dashboard
 
 ![](/img/degree-lecture-manage-class.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/degree-lecture-manage-class-2.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Select the class to be edited, then click Manage.
 
 ![](/img/degree-lecture-manage-class-3.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
+4. After selecting the class, the following display will appear, then click Material.
 
 ![](/img/degree-lecture-manage-class-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Quiz, kemudian klik + Add Content.
+5. Select the session you want to add the Quiz to , then click + Add Content.
 
 ![](/img/articlee-5.jpg)
 
-6. Kemudian pilih content Quiz.
+6. Then select the Quiz content.
 
 ![](/img/degree-lecture-quiz-3.jpg)
 
-7. Pada content Quiz, terdiri dari 2 bagian (Quiz Settings dan Quiz Material).
+7. In the Quiz content, it consists of 2 parts (Quiz Settings and Quiz Material).
 
 #### **\- Quiz Settings**
 
-Anda dapat mengisi semua informasi yang terdapat pada Quiz Settings.
+You can fill in all the information in Quiz Settings.
 
 ![](/img/degree-lecture-quiz-4.jpg)
 
-a. Title : Judul Quiz
+a. Title : Quiz Title
 
-b. Description : Deskripsi Quiz
+b. Description : Quiz Description
 
-c. Deadline : Tenggat waktu pengerjaan Quiz
+c. Deadline: Deadline for completing the quiz
 
-d. Time Limit : Batas atau durasi pengerjaan Quiz
+d. Time Limit: Limit or duration of completing the Quiz
 
-e. Grading method : Metode penilaian (Last score/Highest score)
+e. Grading method: Assessment method (Last score/Highest score)
 
-f. Question Limit : Batas jumlah soal pada Quiz
+f. Question Limit: Limit on the number of questions on a Quiz
 
-g. Attempt Limit : Batas pengulangan untuk students mengerjakan Quiz
+g. Attempt Limit: Repetition limit for students to work on the quiz.
 
-h. Minimun Score Result : Nilai minimum untuk Quiz tersebut
+h. Minimum Score Result : Minimum score for the Quiz
 
-i. Review Quiz Result : Review pada quiz dapat disetting menjadi aktif/nonaktif
+i. Review Quiz Result: Review on quizzes can be set to active/inactive.
 
-j. Shuffle Question & Option Order : Pertanyaan pada Quiz dapat dimunculkan secara acak ataupun berurutan
+j. Shuffle Question & Option Order: Questions on the Quiz can appear randomly or sequentially.
 
 #### **\- Quiz Material**
 
-Untuk menambahkan soal Quiz, Anda dapat melakukannya pada section Quiz Material ini.
+To add a Quiz question, you can do so in the Quiz Material section.
 
 ![](/img/degree-lecture-quiz-5.jpg)
 
-#### **Tipe Quiz yang dapat Anda tambahkan :**
+#### **Types of Quizzes you can add :**
 
-**a. Single Choice (Pilihan Tunggal)**
+**a. Single Choice**
 
-\- Klik Add Question, kemudian pilih Add Manually
+\- Click Add Question, then select Add Manually
 
 ![](/img/degree-lecture-quiz-6.jpg)
 
-\- Pilih quiz type (Single Choice)
+\- Select quiz type (Single Choice)
 
 ![](/img/degree-lecture-quiz-7.jpg)
 
-\- Tambahkan pertanyaan Quiz dan jawaban yang benar
+\- Add Quiz questions and correct answers
 
 ![](/img/degree-lecture-quiz-9.jpg)
 
-\- Isi keyword dan feedback (*Optional*)
+\- Fill in keywords and feedback (*Optional*)
 
 ![](/img/degree-lecture-quiz-13.jpg)
 
-\- Kemudian klik Save untuk menyimpan
+\- Then click Save
 
-**b. Multiple Choice (Pilihan Ganda)**
+**b. Multiple Choice**
 
-\- Klik Add Question, kemudian pilih Add Manually
+\- Click Add Question, then select Add Manually
 
 ![](/img/degree-lecture-quiz-6.jpg)
 
-\- Pilih quiz type (Multiple Choice)
+\- Select quiz type (Multiple Choice)
 
 ![](/img/degree-lecture-quiz-14.jpg)
 
-\- Tambahkan pertanyaan Quiz dan jawaban yang benar
+\- Add Quiz questions and correct answers
 
 ![](/img/degree-lecture-quiz-11.jpg)
 
-\- Isi keyword dan feedback (*Optional*)
+\- Fill in keywords and feedback (*Optional*)
 
 ![](/img/degree-lecture-quiz-13.jpg)
 
-\- Kemudian klik Save untuk menyimpan
+\- Then click Save
 
-**c. True or False (Benar atau Salah)**
+**c. True or False**
 
-\- Klik Add Question, kemudian pilih Add Manually
+\- Click Add Question, then select Add Manually
 
 ![](/img/degree-lecture-quiz-6.jpg)
 
-\- Pilih quiz type (True or False)
+\- Select quiz type (True or False)
 
 ![](/img/degree-lecture-quiz-15.jpg)
 
-\- Tambahkan pertanyaan Quiz dan jawaban yang benar
+\- Add Quiz questions and correct answers
 
 ![](/img/degree-lecture-quiz-12.jpg)
 
-\- Isi keyword dan feedback (*Optional*)
+\- Fill in keywords and feedback (*Optional*)
 
 ![](/img/degree-lecture-quiz-13.jpg)
 
-\- Kemudian klik Save untuk menyimpan
+\- Then click Save
 
-8. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
+8. Select the Publish menu in the top right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

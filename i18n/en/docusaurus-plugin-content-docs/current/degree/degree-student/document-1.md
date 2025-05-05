@@ -1,7 +1,7 @@
 ---
-title: Dokumen
+title: Document
 sidebar_position: 43
 ---
-Untuk mengakses Dokumen yang biasanya berisi Materi Presentasi, Anda dapat Klik Dokumen pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
+To access the Document containing the Presentation Material, you can Click on the Document in the Course Content Session and the display will appear like this :
 
-![](/img/dokumen-1.ind.png)
+![](/img/document-1.eng.png)

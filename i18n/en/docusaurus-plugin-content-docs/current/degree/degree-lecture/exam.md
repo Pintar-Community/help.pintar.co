@@ -1,53 +1,53 @@
 ---
-title: Ujian
+title: Exam
 sidebar_position: 21
 ---
-Bagian ini akan menampilkan Ujian yang harus dikerjakan oleh students. Pada bagian ini akan menampilkan soal ujian beserta Tanggal mulai dan Batas waktu.
+This section will display the exams that students must complete. This section will display the exam questions along with the Start date and Due date.
 
-![](/img/degree-lecture-exam-7.jpg)
+![](/img/degree-lecture-exam-8.jpg)
 
-![](/img/degree-lecture-exam-5.jpg)
+![](/img/degree-lecture-exam-6.jpg)
 
-#### **Cara menambahkan soal Exam :**
+#### **How to add Exam questions :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile logo in the top right corner of the Dashboard.
 
 ![](/img/degree-lecture-manage-class.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/degree-lecture-manage-class-2.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Select the class to be edited, then click Manage.
 
 ![](/img/degree-lecture-manage-class-3.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
+4. After selecting the class, the following display will appear, then click Material.
 
 ![](/img/degree-lecture-manage-class-4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Exam, kemudian klik + Add Content.
+5. Select the session to add Exam to , then click + Add Content.
 
 ![](/img/articlee-5.jpg)
 
-6. Kemudian pilih content Exam.
+6. Then select the Exam content.
 
 ![](/img/degree-lecture-exam-3.jpg)
 
-7. Isikan informasi terkait Exam.
+7. Fill in the information related to the Exam.
 
 ![](/img/degree-lecture-exam-4.jpg)
 
-a. Title : Tambahkan judul exam (con : Ujian Tengah Semester/ Ujian Akhir Semester)
+a. Title : Add exam title (ex: Mid Semester Exam/ Final Semester Exam)
 
-b. Exam Type : Pilih exam type sesuai dengan jenis ujiannya
+b. Exam Type: Select the exam type according to the type of exam.
 
-c. Exam Method : Pilih metode exam (Quiz/Assignment)
+c. Exam Method: Select the exam method (Quiz/Assignment)
 
-d. Exam Period : Tambahkan start date dan due date
+d. Exam Period : Add start date and due date
 
-8. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
+8. When it has been filled in, then click Save in the bottom right corner.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
+9. Select the Publish menu in the top right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

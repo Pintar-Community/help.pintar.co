@@ -2,6 +2,6 @@
 title: Youtube
 sidebar_position: 44
 ---
-Untuk mengakses Youtube yang biasanya berisi Video Materi, Anda dapat Klik **Youtube** pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
+To access Youtube videos containing Video Material, you can Click **Youtube** on the Course Content Session and the display will be as follows:
 
-![](/img/youtube.ind.png)
+![](/img/youtube.eng.png)

@@ -1,15 +1,15 @@
 ---
-title: Catatan
+title: Notes
 sidebar_position: 50
 ---
-Notes atau catatan dapat digunakan untuk penanda saat Anda mengakses materi, Anda dapat menambahkan Catatan pada setiap Materi yang tersedia dengan cara beri catatan Anda pada kolom **Tambahkan Catatan** lalu Klik **Simpan Catatan.**
+Notes can be used as bookmarks when you access materials. You can add notes to each available material by adding your notes in the **Add a note** column and then click **Add Note**.
 
-![](/img/catatan-1.png)
+![](/img/notes-1.eng.png)
 
-Maka Catatan Anda akan muncul pada Materi tersebut.
+Then your Notes will appear in the Material.
 
-![](/img/catatan-2.png)
+![](/img/notes-2.eng.png)
 
-Untuk melihat keseluruhan dari Catatan yang Anda buat, Anda dapat Klik Menu **Catatan**
+To view all the notes you have created, you can click the Menu **Notes**.
 
-![](/img/catatan-3.png)
+![](/img/notes-3.eng.png)

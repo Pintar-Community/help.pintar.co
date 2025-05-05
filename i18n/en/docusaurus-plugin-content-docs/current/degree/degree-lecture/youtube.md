@@ -4,56 +4,56 @@ sidebar_position: 15
 ---
 ![](/img/youtube-1.jpg)
 
-Pada bagian ini berisi konten berupa Video dari Youtube. Anda juga dapat membuka video tesebut dari youtubenya langsung dengan cara klik Salin Link pada pojok kanan atas video tersebut *(seperti gambar)*. 
+This section contains content in the form of YouTube videos. You can also open the video directly on YouTube by clicking the Copy Link in the top-right corner of the video (*as shown in the image*).
 
 ![](/img/degree-lecture-youtube-6.jpg)
 
-Anda juga dapat membuka tampilan video dengan cara full screen dan juga dapat mengatur speed/kecepatan video yang ditampilkan. 
+You can view the video in full-screen mode and adjust the playback speed as needed.
 
-* **Kecepatan Video**
+* **Video Playback Speed**
 
-Fitur ini berguna untuk settingan kecepatan Video. Anda dapat mempercepat maupun memperlambat kecepatan video dengan fungsi fitur ini.
+This feature allows you to adjust the video speed. You can speed up or slow down the video using this function.
 
 ![](/img/degree-lecture-youtube-4.jpg)
 
 * **Full Screen**
 
-Fitur ini berguna untuk memperbesar layar video. Anda dapat lebih jelas melihat video dengan fungsi fitur ini.
+This feature allows you to enlarge the video display for a clearer view.
 
 ![](/img/degree-lecture-youtube-5.jpg)
 
-#### **Cara mengupload Video berupa Youtube :**
+#### **Steps to Upload a YouTube Video :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/diskusi_4.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/diskusi_5.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Choose the class you want to edit, then click Manage.
 
 ![](/img/diskusi_6.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
+4. After selecting the class, a new screen will appear. Click Material.
 
 ![](/img/diskusi_7.jpg)
 
-5. Pilih sesi yang akan ditambahkan Youtube, kemudian klik + Add Content.
+5. Select the session where you want to add a youtube, then click + Add Content.
 
 ![](/img/diskusi_8.jpg)
 
-6. Kemudian pilih content Youtube.
+6. Choose the YouTube content type.
 
 ![](/img/degree-lecture-youtube-2.jpg)
 
-7. Tuliskan judul dan input link Youtube.
+7. Enter the video title and paste the YouTube link.
 
 ![](/img/degree-lecture-youtube.jpg)
 
-8. Apabila sudah diisi, kemudian klik Save.
+8. Once completed, click Save.
 
-9. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
+9. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

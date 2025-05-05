@@ -1,21 +1,21 @@
 ---
-title: Nilai
+title: Grade
 sidebar_position: 26
 ---
-Menu ini berisi seluruh Nilai students pada kelas tersebut. Semua komponen nilai, nilai akhir, rincian nilai dapat dilihat pada menu ini.
+This menu contains all the students' grades in the class. All grade components, final grades, grade details can be seen in this menu.
 
-![](/img/degree-lecture-nilai.jpg)
+![](/img/degree-lecture-grade.jpg)
 
-Pada tampilan ini, Anda dapat melihat total students dan mencari nama students dengan klik “Cari berdasarkan Nama". Anda juga dapat memfilter tampilan Grade berdasarkan tampilan Default, Tertinggi, ataupun Terendah.
+In this view, you can see the total students and search for students' names by clicking "Search by Name". You can also filter the Grade view based on the Default, Highest, or Lowest view.
 
-![](/img/degree-lecture-nilai-2.jpg)
+![](/img/degree-lecture-grade-2.jpg)
 
-![](/img/degree-lecture-nilai-3.jpg)
+![](/img/degree-lecture-grade-3.jpg)
 
-Untuk melihat detail nilai students, Anda dapat melihat dengan cara klik "Lihat Details" pada kolom Score Detail. Kemudian akan muncul tampilan seperti gambar di bawah ini.
+To see the details of students' scores, you can see by clicking See Details in the Score Detail column. Then a display will appear as shown in the image below.
 
-![](/img/degree-lecture-nilai-4.jpg)
+![](/img/degree-lecture-grade-4.jpg)
 
-Apabila Anda ingin mengubah nilai student, Anda dapat klik “Edit Nilai” pada pojok kanan atas kemudian Anda dapat menyimpannya kembali dengan cara klik “Simpan Perubahan”.
+If you want to change a student's score, you can click "Edit Score" in the top right corner then you can save it again by clicking "Save Changes".
 
-![](/img/degree-lecture-nilai-5.jpg)
+![](/img/degree-lecture-degree-grade-5.jpg)

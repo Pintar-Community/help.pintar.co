@@ -1,17 +1,17 @@
 ---
-title: Deskripsi & Ringkasan
+title: Description & Overview
 sidebar_position: 38
 ---
-Untuk melihat Materi di dalam Kelas Anda bisa klik Nama Kelas.
+Click Class Name to see the content in your class
 
-![](/img/description-overview-1.ind.png)
+![](/img/description-overview-1.eng.png)
 
-Tampilannya akan seperti berikut
+The display will look like this
 
-![](/img/description-overview-2.ind.png)
+![](/img/description-overview-2.eng.png)
 
-Ringkasan berisi:
+It will contain :
 
-1. Deskripsi		               : Informasi terkait Mata Kuliah dan Hasil Pembelajarannya.
-2. Penyedia Pembelajaran  : Universitas yang menyediakan pembelajaran
-3. Supporting Documents  : Silabus Mata Kuliah
+1. Description			: Information related to Courses and Learning Outcomes.
+2. Learning Provider		: Universities that provide learning
+3. Supporting Documents	: Course Syllabus

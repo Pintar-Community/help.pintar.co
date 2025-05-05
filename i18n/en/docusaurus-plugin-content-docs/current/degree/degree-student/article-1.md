@@ -1,7 +1,7 @@
 ---
-title: Artikel
+title: Article
 sidebar_position: 40
 ---
-Untuk mengakses Article pada Sesi di Konten Kursus Anda dapat Klik **Artikel**, maka Artikel akan langsung muncul, seperti berikut:
+To access the Article in the Course Content Session. You can click on the **Article**, then the article will appear, as follows : 
 
-![](/img/artikel-ind.png)
+![](/img/article-eng.png)

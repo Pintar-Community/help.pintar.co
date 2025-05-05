@@ -1,13 +1,13 @@
 ---
-title: Materi Konten
+title: Content Material
 sidebar_position: 39
 ---
-Untuk melihat Materi dalam Kelas Anda dapat Klik **Konten Kursus**
+Click **Course Content** to view the material in your class.
 
-![](/img/content-material-1.ind.png)
+![](/img/course-content-1.eng.png)
 
-Lalu Klik Sesi yang ingin Anda akses, maka akan muncul **Materi Konten** dari Sesi tersebut.
+Then click on the session you want to access, the **Content Material** from that session will appear.
 
-![](/img/content-material-2.ind.png)
+![](/img/course-content-2.eng.png)
 
-![](/img/content-material-3.ind.png)
+![](/img/course-content-3.eng.png)

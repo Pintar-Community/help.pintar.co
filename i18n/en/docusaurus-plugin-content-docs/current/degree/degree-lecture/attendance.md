@@ -1,27 +1,27 @@
 ---
-title: Kehadiran
+title: Attendance
 sidebar_position: 27
 ---
-![](/img/degree-lecture-kehadiran-2.jpg)
+![](/img/degree-lecture-attendance-menu.jpg)
 
-Pada menu Attendance/Kehadiran ini, Anda sebagai Intsruktur dapat melihat kehadiran di setiap pertemuan.
+In this Attendance menu, you as an instructor can see attendance at each meeting.
 
-Pada menu ini ada 3 kategori Kehadiran untuk Instruktur yaitu; Not Started Yet, In Progress, dan Completed.
+In this menu there are 3 categories of Attendance for Instructors, namely; Not Started Yet, In Progress, and Completed.
 
 ##### 1. Not Started Yet
 
-Apabila status kehadiran Anda pada suatu pertemuan adalah Not Started Yet, berarti pertemuan tersebut masih belum dimulai.
+If your attendance status for a session is Not Started Yet, it means the session has not begun.
 
-![](/img/degree-lecture-attendance-menu-5.jpg)
+![](/img/degree-lecture-attendance-menu-2.jpg)
 
 ##### 2. In Progress
 
-Apabila status kehadiran Anda pada suatu pertemuan adalah In Progress, berarti pada pertemuan tersebut ada beberapa kewajiban yang belum Anda lengkapi (seperti contoh).
+If your attendance status at a meeting is In Progress, it means that at that meeting there are several obligations that you have not completed (such as the example) .
 
 ![](/img/degree-lecture-attendance-menu-3.jpg)
 
 ##### 3. Completed
 
-Apabila status kehadiran Anda pada suatu pertemuan adalah Completed, berarti Anda sudah melengkapi seluruh kewajiban pada pertemuan tersebut (seperti contoh).
+If your attendance status at a meeting is Completed, it means that you have completed all obligations at that meeting (as in the example).
 
 ![](/img/degree-lecture-attendance-menu-4.jpg)

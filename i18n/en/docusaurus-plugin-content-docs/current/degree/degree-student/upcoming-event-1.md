@@ -1,15 +1,15 @@
 ---
-title: Acara yang Akan Datang
+title: Upcoming Event
 sidebar_position: 33
 ---
-Acara yang Akan Datang berisi Jadwal Live Session yang diadakan satu sampai dua hari ke depan dari Hari Anda akses LMS.
+Upcoming Event contain the Live Session Schedule that will be held 1-2 days forward from the day you access the LMS
 
-![](/img/upcoming-event-1.ind.png)
+![](/img/upcoming-event-1.eng.png)
 
-Klik **Lihat Semua** untuk melihat lebih detail Agenda di Hari ini
+Click **View All** to see more details about Upcoming Event
 
-![](/img/upcoming-event-2.ind.png)
+![](/img/upcoming-event-2.eng.png)
 
-Maka akan muncul tampilan seperti ini
+The display will appear like this
 
-![](/img/upcoming-event-3.ind.png)
+![](/img/upcoming-event-3.eng.png)

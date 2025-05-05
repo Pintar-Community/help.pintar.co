@@ -1,19 +1,19 @@
 ---
-title: (Degree Student) Kalender Acara
+title: (Degree Student) Event Calendar
 sidebar_position: 30
 ---
-Setelah Anda masuk ke program yang Anda pilih, Anda akan masuk ke Menu Dashboard.
+Once you have logged into your chosen program, you will enter the Dashboard Menu.
 
-![](/img/event-calendar-1.ind.png)
+![](/img/event-calendar-1.eng.png)
 
-Pada sebelah kanan Menu Dashboard Anda akan menemukan Daftar Kegiatan yang berisi:
+On the right side of the Dashboard Menu, you will find the Activities List which contains:
 
-1. Tugas yang belum dikerjakan
-2. Acara Hari ini
-3. Acara akan datang
+1. Unfinished Assignment
+2. Today's Session
+3. Upcoming events
 
-![](/img/event-calendar-2.ind.png)
+![](/img/event-calendar-2.eng.png)
 
-Anda bisa klik **Lihat Semua** untuk melihat lebih detail
+You can click **View All** to see more details.
 
-![](/img/event-calendar-3.ind.png)
+![](/img/event-calendar-3.eng.png)

@@ -1,23 +1,23 @@
 ---
-title: Survei
+title: Surveys
 sidebar_position: 53
 ---
-Fitur ini berisikan survey yang dapat Anda isi. Survey ini berguna untuk menampung masukan Anda sebagai pengguna LMS. Untuk mengisi Survey Anda dapat Klik **Survei**.
+This feature contains surveys that you can complete. These surveys are designed to gather your feedback as an LMS user. To fill out a survey you can click **Surveys**.
 
-![](/img/survei-1.png)
+![](/img/surveys-1.png)
 
-Lalu Klik **Mulai**
+Click **Start Survey**.
 
-![](/img/survei-2.png)
+![](/img/surveys-2.png)
 
-Setelah Anda Klik Mulai, Anda dapat mengisi survey dan memberikan saran Anda.
+Once you click **Start Survey**, you can fill out the survey and give your suggestions.
 
 ![](/img/surveys-3.png)
 
-Lalu Klik **Kirim.**
+Click **Submit**.
 
-![](/img/survei-4.png)
+![](/img/surveys-4.png)
 
-Maka Survey sudah terinput di Sistem LMS.
+Your survey responses will be recorded in the LMS system.
 
-![](/img/survei-5.png)
+![](/img/surveys-5.png)

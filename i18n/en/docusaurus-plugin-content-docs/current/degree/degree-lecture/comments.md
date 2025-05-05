@@ -1,11 +1,11 @@
 ---
-title: Komentar
+title: Comments
 sidebar_position: 23
 ---
-Berbeda dengan fitur notes yang hanya untuk tiap masing-masing user, dalam fitur ini komentar digunakan untuk seluruh user mengomentari Video yang ditampilkan dalam sesi belajar.
+Unlike the Notes feature, which is specific to each individual user, the Comments feature allows all users to leave feedback on the video displayed in the learning session.
 
-![](/img/comment_1.1.png)
+![](/img/comment.jpg)
 
-Seperti layaknya menulis komentar di kanal media social, Anda dapat saling mengomentari Video tersebut. Anda juga dapat memberikan like dan komen pada postingan student di kolom komentar.
+Similar to writing comments on social media platforms, users can interact by commenting on the video. You can also like and respond to other students' posts in the comment section.
 
-![](/img/comment_1.2.png)
+![](/img/comment-2.jpg)

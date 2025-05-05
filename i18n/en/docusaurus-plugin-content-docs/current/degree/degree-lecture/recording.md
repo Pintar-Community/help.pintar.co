@@ -1,11 +1,11 @@
 ---
-title: Rekaman
+title: Recording
 sidebar_position: 56
 ---
-Pada Menu ini Anda dapat mendownload Rekaman Live Session yang sudah dilaksanakan.
+In this menu, you can download recordings of completed Live Sessions.
 
-![](/img/rekaman.png)
+![](/img/recordings.png)
 
-Klik **Live Session** yang akan Anda unduh lalu Klik **Download.**
+Click on the **Live Session** you want to download, then click **Download**.
 
 ![](/img/download-recording.png)

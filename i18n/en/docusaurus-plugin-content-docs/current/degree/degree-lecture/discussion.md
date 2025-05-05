@@ -1,67 +1,67 @@
 ---
-title: Diskusi
+title: Discussion
 sidebar_position: 13
 ---
-Pada bagian ini, Anda dapat memberikan pertanyaan berupa diskusi pada setiap sesi yang nanti akan dijawab oleh students dan dapat diberikan nilai.
+In this section, you can create discussion questions for each session, which students will answer and may receive grades for.
 
-![](/img/degree-lecture-diskusi.jpg)
+![](/img/diskusi_.jpg)
 
-1. Berisi soal diskusi
-2. Terdapat Due Date/Tenggat Waktu untuk menjawab diskusi oleh students
-3. Anda juga dapat memberikan jawaban berupa kesimpulan dari pertanyaan diskusi tersebut pada kolom “Add your answer”
-4. Apabila telah dijawab, anda dapat submit jawaban dengan klik button “Post”
+1. Contains discussion questions.
+2. Includes a Due Date for students to submit their answers.
+3. You can provide a summary or conclusion of the discussion question in the “Add your answer” field.
+4. Once you’ve entered your response, click the “Post” button to submit it.
 
-Berikut adalah contoh jawaban diskusi yang telah disubmit oleh student.
+Example of a Student’s Submitted Answer.
 
-![](/img/degree-lecture-diskusi-2.jpg)
+![](/img/diskusi_1.jpg)
 
-Anda sebagai instruktur juga dapat memberikan nilai pada jawaban diskusi student dengan beberapa ketentuan seperti gambar di bawah ini.
+As an instructor, you can also grade student answers based on the criteria shown in the image below.
 
-![](/img/degree-lecture-diskusi-3.jpg)
+![](/img/diskusi_2.jpg)
 
-1. Thumb Up/Ikon Jempol : Hanya sebagai apresiasi dari jawaban student dan tidak mendapatkan nilai. Apabila Anda hanya memberikan Thumb Up/Ikon Jempol pada jawaban student, maka student tersebut tidak mendapatkan nilai
-2. Reply : pada bagian ini Anda dapat mengomentari jawaban student
-3. Mark as check : mendapatkan nilai 1 poin. Apabila Anda mengklik “Mark as check” pada jawaban student, maka student tersebut akan mendapatkan nilai 1 pada diskusi tersebut
-4. Bagian ini menampilkan waktu student mensubmit jawaban diskusi tersebut
+1. Thumb Up/Like Icon: This serves only as appreciation for the student's answer and does not contribute to their grade. If you only give a Thumb Up, the student will not receive any points.
+2. Reply: Use this feature to leave comments on the student's answer.
+3. Mark as Check: This assigns 1 point to the student’s answer. If you click Mark as Check, the student will earn 1 point for the discussion.
+4. Displays the timestamp of when the student submitted their answer.
 
-Berikut contoh jawaban yang sudah diberikan nilai dan dikomentari oleh Instruktur.
+Example of Graded and Commented Answers.
 
-![](/img/degree-lecture-diskusi-4.jpg)
+![](/img/diskusi_3.jpg)
 
-#### Cara mengupload Soal Diskusi :
+#### Steps to Upload a Discussion Question :
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/diskusi_4.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/diskusi_5.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Choose the class you want to edit, then click Manage.
 
 ![](/img/diskusi_6.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti ini, kemudian klik Material.
+4. After selecting the class, a new screen will appear. Click Material.
 
 ![](/img/diskusi_7.jpg)
 
-5. Pilih sesi yang akan ditambahkan diskusi, kemudian klik + Add Content.
+5. Select the session where you want to add a discussion, then click + Add Content.
 
 ![](/img/diskusi_8.jpg)
 
-6. Kemudian pilih content Discussion.
+6. Choose the Discussion content type.
 
 ![](/img/diskusi_9.jpg)
 
-7.  Anda dapat membuat judul Discussion dan tuliskan soal pada kolom yang tersedia.
+7. Enter the discussion title and question in the fields provided.
 
 ![](/img/diskusi_10.jpg)
 
-8. Setting Deadline.
+8. Set the deadline.
 
-9. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah.
+9. Once completed, click Save in the bottom-right corner.
 
-10. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish.
+10. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

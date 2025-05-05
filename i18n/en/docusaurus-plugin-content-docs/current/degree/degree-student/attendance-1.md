@@ -1,7 +1,7 @@
 ---
-title: Kehadiran
+title: Attendance
 sidebar_position: 55
 ---
-Pada Menu ini Anda dapat melihat apa saja yang sudah Anda akses pada sesi Materi.
+In this menu, you can view all the content you have accessed in the Material session.
 
-![](/img/kehadiran.png)
+![](/img/attendance.png)

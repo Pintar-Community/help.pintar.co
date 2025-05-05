@@ -1,15 +1,14 @@
 ---
-title: Diskusi
+title: Discussion
 sidebar_position: 42
 ---
-Untuk mengakses **Diskusi** Anda dapat Klik Diskusi pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
+To access **Discussion** you can Click Discussion in the Course Content Session and the display will be as follows:
 
+![](/img/discussion-1.eng.png)
 
-![](/img/diskusi-1.ind.png)
+![](/img/discussion-2.eng.png)
 
-![](/img/diskusi-2.ind.png)
-
-1. Soal diskusi yang harus Anda jawab
-2. Batas waktu pengerjaan Diskusi
-3. Kolom untuk Anda menjawab Diskusi
-4. Klik **Kirim** untuk Submit jawaban Diskusi
+1. Discussion questions you must answer.
+2. Deadline for the Discussion.
+3. Column to answer Discussion.
+4. Click **Post** to submit your answer.

@@ -1,37 +1,37 @@
 ---
-title: Penilaian Tugas
+title: Submitted Assignment
 sidebar_position: 28
 ---
-Menu **Penilaian Tugas** sama dengan menu **Exam** yang merupakan menu untuk melihat  jawaban Ujian atau Tugas Students. Menu Exam berguna untuk melihat jawaban Ujian sedangkan Submitted Assignment berguna untuk melihat jawaban Tugas. Anda juga dapat menilai Tugas Students pada menu ini. 
+The **Submitted Assignment** menu is similar to the **Exam** menu, as both are used to view students' answers. The Exam menu is specifically for viewing exam answers, while the Submitted Assignment menu is for reviewing assignment submissions. You can also grade students' assignments directly from this menu.
 
-![](/img/degree-lecture-penilaian-belum-selesai-7.jpg)
+![](/img/degree-lecture-submitted-assignment.jpg)
 
-#### **Cara menilai Tugas :**
+#### **How to assess assignments :**
 
-1. Klik Lihat Detail pada menu Submitted Assignment.
+1. Click Review on the Submitted Assignment menu.
 
-![](/img/degree-lecture-penilaian-belum-selesai-8.jpg)
+![](/img/degree-lecture-submitted-assignment-2.jpg)
 
-2. Kemudian akan muncul tampilan seperti di berikut
+2. Then a display will appear as shown below
 
-![](/img/degree-lecture-submitted-assignment-6.jpg)
+![](/img/degree-lecture-submitted-assignment-eng.jpg)
 
-a. Jumlah students yg submit
+a. Number of students who submitted
 
-b. Status submission (Sudah dikerjakakan/ Belum dikerjakan)
+b. Submission status (Worked on/Not yet worked on)
 
-c. Tanggal Penyerahan sesuai dengan waktu students submit
+c. Submission date is according to the time students submit
 
-d. Waktu peninjauan sesuai dengan waktu Anda menilai jawaban Students
+d. Review time corresponds to the time you assess Students' answers
 
-e. Bagian ini berguna untuk meninjau jawaban tugas Students 
+e. This section is useful for reviewing Students' assignment answers
 
-3. Setelah Anda meninjau jawaban Students, kemudian Klik button Beri Nilai untuk memberikan nilai.
+3. After you review the students' answers, then click the Rate button to give a grade.
 
-![](/img/degree-lecture-submitted-assignment-indo.jpg)
+![](/img/degree-lecture-submitted-assignment-4.jpg)
 
-4. Setelah mengisis nilai, klik button Save untuk menyimpan.
+4. After filling in the values, click the Save button to save.
 
-5. Apabila sudah diberikan nilai, maka status pada submission students akan berubah menjadi “Sudah Dinilai”.
+5. If a grade has been given, the status of the students' submission will change to "Reviewed".
 
-![](/img/degree-lecture-submitted-assignment-indo-2.jpg)
+![](/img/degree-lecture-submitted-assignment-eng-2.jpg)

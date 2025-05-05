@@ -1,16 +1,15 @@
 ---
-title: Daftar Kegiatan
+title: To Do List
 sidebar_position: 31
 ---
-**To Do List** atau Tugas Yang Belum Dikerjakan menu yang berisi Tugas yang belum Anda kerjakan beserta Batas Waktu pengerjaannya.
+The **To-Do List** menu displays tasks you have not yet completed along with their deadlines.
 
-![](/img/to-do-list-1.ind.png)
+![](/img/to-do-list-1.eng.png)
 
-Klik **Lihat Semua** untuk melihat lebih detail Tugas yang Belum Dikerjakan
+Click **View All** to see more details about Unfinished Assignment.
 
-![](/img/to-do-list-2.ind.png)
+![](/img/to-do-list-2.eng.png)
 
-Maka akan muncul tampilan seperti ini:
+The following screen will appear:
 
-
-![](/img/to-do-list-3.ind.png)
+![](/img/to-do-list-3.eng.png)

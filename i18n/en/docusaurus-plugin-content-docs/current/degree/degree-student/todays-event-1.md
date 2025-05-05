@@ -1,15 +1,15 @@
 ---
-title: Acara Hari Ini
+title: Today's Event
 sidebar_position: 32
 ---
-Today’s Event atau Acara Hari Ini menu yang berisi jadwal Live Session atau jadwal Offline Class yang akan diadakan pada Hari Ini.
+The Today’s Session menu displays the schedule for Live Sessions or Offline Classes happening today.
 
-![](/img/today-s-event-1.ind.png)
+![](/img/today-s-event-1.eng.png)
 
-Klik **Lihat Semua** untuk melihat lebih detail Agenda di Hari ini
+Click **View All** to see more details about today's session.
 
-![](/img/today-s-event-2.ind.png)
+![](/img/today-s-event-2.eng.png)
 
-Maka akan muncul tampilan seperti ini dan Anda dapat Klik Gabung untuk masuk ke Live Session jika sudah waktunya.
+The following screen will appear, and you can click Join to enter the Live Session if the time has come.
 
-![](/img/today-s-event-3.ind.png)
+![](/img/today-s-event-3.eng.png)

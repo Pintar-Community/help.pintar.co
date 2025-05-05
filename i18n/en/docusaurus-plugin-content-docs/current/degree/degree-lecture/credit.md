@@ -1,7 +1,7 @@
 ---
-title: SKS
+title: Credit
 sidebar_position: 6
 ---
-![](/img/degree-lecture-sks.jpg)
+![](/img/degree-lecture-credit.jpg)
 
-Pada dashboard terdapat Credit/SKS pada setiap kelas. Jumlah Credit/SKS tersebut dapat dilihat pada kolom Credit/SKS di samping judul kelas yang terdapat pada Dashboard.
+On the dashboard, each class displays its Credit/SKS. The number of Credit/SKS can be seen in the Credit/SKS column next to the class title on the dashboard.

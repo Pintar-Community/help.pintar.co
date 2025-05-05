@@ -1,49 +1,49 @@
 ---
-title: Tugas
+title: Assignment
 sidebar_position: 12
 ---
-![](/img/degree-lecture-tugas.jpg)
+![](/img/assignment_.jpg)
 
-Bagian ini akan menampilkan Assignment/Tugas yang harus dikerjakan oleh students. Pada bagian ini akan menampilkan soal Tugas beserta Start date dan Due date.
+This section displays the assignments that students need to complete. It includes the assignment details, along with the Start Date and Due Date.
 
-#### **Cara Menambahkan Assignment :**
+#### **Steps to Add an Assignment :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/assignment_1.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/assignment_2.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Choose the class you want to edit, then click Manage.
 
 ![](/img/assignment_3.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti berikut, kemudian klik Material.
+4. After selecting the class, a new screen will appear. Click Material.
 
 ![](/img/assignment_4.jpg)
 
-5. Pilih sesi yang akan ditambahkan Assignment, kemudian klik + Add Content.
+5. Select the session where you want to add an assignment, then click + Add Content.
 
 ![](/img/assignment_5.jpg)
 
-6. Kemudian pilih content Assignment.
+6. Choose the Assignment content type.
 
 ![](/img/assignment_6.jpg)
 
-7. Anda dapat membuat judul Assignment dan tuliskan soal pada kolom yang tersedia, Anda juga dapat menambahkan soal berupa dokumen.
+7. Enter the assignment title and questions in the fields provided. You can also upload the questions as a document.
 
 ![](/img/assignment_7.jpg)
 
 ![](/img/assignment_8.jpg)
 
-8. Setting schedule (Start Time & End Time).
+8. Set the schedule (Start Time & End Time).
 
 ![](/img/assignment_9.jpg)
 
-9. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+9. Once completed, click Save in the bottom-right corner.
 
-10. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+10. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

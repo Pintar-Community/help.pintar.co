@@ -2,10 +2,10 @@
 title: Recordings
 sidebar_position: 29
 ---
-Recordings merupakan menu yang berisi rekaman Live Session pada kelas tersebut.
+The Recordings menu contains the recordings of Live Sessions for the class.
 
 ![](/img/degree-lecture-recordings.jpg)
 
-Anda dapat mendownload Recordings tersebut dengan cara klik tombol Download.
+You can download these recordings by clicking the Download button.
 
 ![](/img/degree-lecture-degree-recordings-2.jpg)

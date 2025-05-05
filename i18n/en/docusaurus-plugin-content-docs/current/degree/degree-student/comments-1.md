@@ -1,9 +1,9 @@
 ---
-title: Komentar
+title: Comments
 sidebar_position: 51
 ---
-Anda dapat memberikan Komentar pada Materi yang Anda akses, pada fitur Komentar ini, komentar Anda dapat dilihat oleh seluruh User/Teman Kelas. Untuk memberi komentar Anda dapat Klik **Komentar** pada Materi yang Anda akses lalu ketik komentar Anda pada kolom **Tambahkan Komentar** lalu Klik **Kirim**.
+You can give comments on the material you access. In this Comment feature, your comments can be seen by all Users/Classmates. To give a comment, you can Click **Comments** on the Material you access, then type your comment in the **Add a comment** column. Click **Submit** when it’s done.
 
-![](/img/komentar.png)
+![](/img/comments.png)
 
-Seperti pada Komentar di Sosial Media, Anda dapat saling memberikan like dan membalas komentar dari Rekan Anda pada Materi yang Anda akses.
+Same as Comments on Social Media, you can like and reply to each other comments from your friends on the Material you access.

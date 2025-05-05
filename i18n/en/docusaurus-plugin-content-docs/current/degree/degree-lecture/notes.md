@@ -1,14 +1,14 @@
 ---
-title: Catatan
+title: Notes
 sidebar_position: 22
 ---
-![](/img/notes_1.2.png)
+![](/img/notes-comment.jpg)
 
-Fitur Catatan ini terdapat pada konten Video dan Dokumen. Setiap LMS user mempunyai fitur ini yang berguna untuk membantu Anda mencatat hal-hal yang penting saat sedang melakukan pemutaran video ataupun sedang membaca dokumen. Agar lebih mudah untuk dibaca kembali dan dapat tersimpan rapi.
+The Notes feature is available in both the Video and Document content sections. Every LMS user has access to this feature, which is designed to help you jot down important points while watching videos or reading documents. This makes it easier to review and keeps your notes neatly organized.
 
-![](/img/notes_1.4.png)
+![](/img/degree-lecture-notes.jpg)
 
-1. Tambah Catatan : Anda dapat menambahkan catatan penting pada kolom ini. Anda dapat menambahkan catatan sebanyak yang diinginkan.
-2. Edit dan Delete Notes : Anda dapat mengedit dan menghapus catatan yang sudah disimpan. Dalam fitur notes ini, hanya diperuntukkan dan dapat dilihat oleh user itu sendiri, tidak akan bisa terlihat oleh user lainnya.
-3. Jumlah Notes : Pada poin nomor 3, Anda dapat melihat jumlah catatan yang telah di input
-4. Durasi Notes : Pada poin nomor 4, Anda dapat melihat durasi waktu catatan dirilis
+1. Add Notes : You can add important notes in this section. There is no limit, so you can add as many notes as you need.
+2. Edit and Delete Notes : You can edit And delete notes that have been saved. In This notes feature, only intended for, and can be seen by that user alone, no will can be seen by other users.
+3. Amount Notes : On points number 3, you can see amount notes that have been input
+4. Duration Notes : On point in number 4, you can see duration time notes released

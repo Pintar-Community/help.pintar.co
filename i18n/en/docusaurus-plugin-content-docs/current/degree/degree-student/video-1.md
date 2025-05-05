@@ -2,23 +2,23 @@
 title: Video
 sidebar_position: 48
 ---
-Untuk mengakses Video yang berisi Video Materi di LMS, Anda dapat Klik **Video** pada Sesi di Konten Kursus dan tampilannya akan seperti berikut:
+To access the Video containing the Video Material in the LMS, you can Click **Video** in the Course Content Session and the display will be appear like this:
 
-![](/img/video.ind.png)
+![](/img/video.eng.png)
 
-Ada beberapa fitur yang dapat digunakan dalam Akses Video
+There are several features that can be used in Video Access
 
 ![](/img/video......png)
 
-1. Play untuk memulai dan menghentikan video.
+1. Play to start and stop the video.
 2. Mute/Unmute audio video.
-3. Untuk mengatur volume video.
-4. Untuk mengatur Resolusi penampilan video 
+3. Adjust audio volume.
+4. To set the video display resolution.
 
    ![](/img/video-4.png)
 
-   5. Untuk mempercepat atau memperlambat kecepatan video
+   5. To speed up or slow down the video speed.
 
    ![](/img/video-5.png)
 
-   6. Untuk mengatur tampilan Video layar penuh ataupun tidak layar penuh.
+   6. To set the video display to full screen or not full screen.

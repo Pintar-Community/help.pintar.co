@@ -2,10 +2,10 @@
 title: Survey
 sidebar_position: 25
 ---
-Bagian ini berisi Survey yang dapat Anda isi. Survey berguna untuk menampung masukan Anda sebagai user dalam perbaikan pembelajaran.
+This section contains a Survey that you can complete. Surveys are useful for collecting your feedback as a user to improve the learning experience.
 
-![](/img/degree-lecture-survey.jpg)
+![](/img/degree-lecture-survey-eng.jpg)
 
-Anda dapat klik Mulai untuk masuk ke tampilan Survey.
+Click Start to access the survey.
 
-![](/img/degree-lecture-survey-2.jpg)
+![](/img/degree-lecture-survey-eng-2.jpg)

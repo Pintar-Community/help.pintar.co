@@ -1,53 +1,53 @@
 ---
-title: Deskripsi & Ringkasan
+title: Description & Overview
 sidebar_position: 9
 ---
-![](/img/degree-lecture-deskripsi.jpg)
+![](/img/degree-lecture-description.jpg)
 
-![](/img/degree-lecture-deskripsi-2.jpg)
+![](/img/degree-lecture-description-2.jpg)
 
-Bagian ini berisi informasi terkait deskripsi kelas dan informasi penyedia pembelajaran. Pada menu ini, Instruktur dapat menambahkan supporting dokumen seperti silabus dan dokumen lainnya.
+This section contains information about the class description and details of the learning provider. In this menu, instructors can add supporting documents such as syllabi and other materials.
 
-#### **Cara Menambahkan Deskripsi :**
+#### **Steps to Add a Description :**
 
-1. Klik logo Profile pada pojok kanan atas pada Dashboard.
+1. Click the Profile icon in the top-right corner of the Dashboard.
 
 ![](/img/d-o-1.jpg)
 
-2. Pilih Manage Class.
+2. Select Manage Class.
 
 ![](/img/d-o-2.jpg)
 
-3. Pilih kelas yang akan diedit, kemudian klik Manage.
+3. Choose the class you wish to edit, then click Manage.
 
 ![](/img/d-o-3.jpg)
 
-4. Setelah memilih kelas akan muncul tampilan seperti ini, kemudian klik Material.
+4. After selecting the class, a new screen will appear, click Material.
 
 ![](/img/d-o-4.jpg)
 
-5. Anda dapat mengisi Deskripsi pada menu Course Overview dengan klik ikon pensil.
+5. In the Course Overview menu, click the pencil icon to edit the description.
 
 ![](/img/d-o-5.jpg)
 
-6. Isi deskripsi kelas tersebut, kemudian klik Save.
+6. Fill in the class description, then click Save.
 
 ![](/img/d-o-6.jpg)
 
-7. Anda juga dapat menambahkan Dokumen pendukung, dengan cara klik Upload Dokumen pada bagian bawah. 
+7. You can also add supporting documents by clicking Upload Document at the bottom of the page.
 
 ![](/img/d-o-7.jpg)
 
-8. Pilih dokumen yang akan diupload.
+8. Select the document you want to upload.
 
 ![](/img/d-o-8.jpg)
 
-9. Deskripsi dan Dokumen Anda sudah selesai diupload.
+9. Your description and documents will now be successfully uploaded.
 
 ![](/img/d-o-9.jpg)
 
-10. Apabila sudah diisi, kemudian klik Save pada pojok kanan bawah
+10. Once completed, click Save in the bottom-right corner.
 
-11. Pilih menu Publish pada pojok kanan atas, kemudian klik tombol Publish
+11. Select the Publish menu in the top-right corner, then click the Publish button.
 
 ![](/img/degree-lecture-publish.jpg)

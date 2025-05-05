@@ -1,11 +1,11 @@
 ---
-title: Nilai
+title: Grade
 sidebar_position: 54
 ---
-Menu **Nilai** ini untuk Anda melihat nilai Anda dalam suatu Kelas.
+Click **Grade** on the Menu to see your grades in a Class.
 
-![](/img/nilai.png)
+![](/img/grade-1.png)
 
-Untuk melihat lebih detail Anda dapat Klik icon ⌄
+To see more details you can click the icon ⌄
 
-![](/img/nilai-2.png)
+![](/img/grade-2.png)
