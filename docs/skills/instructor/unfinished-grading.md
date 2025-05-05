@@ -1,5 +1,5 @@
 ---
-title: Unfinished Grading
+title: Unfinished Grading (Instruktur)
 sidebar_position: 32
 ---
 ![](/img/unfinish-instructor-skills_indo-1.png)
