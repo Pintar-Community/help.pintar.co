@@ -153,6 +153,12 @@ const config = {
             label: "Skills",
           },
           {
+            type: "docSidebar",
+            sidebarId: "opportunity",
+            position: "left",
+            label: "Opportunity",
+          },
+          {
             label: "Pintar Website",
             position: "right",
             href: "https://pintar.co",
