@@ -234,10 +234,10 @@ const config = {
                 label: "Kursus",
                 href: "https://skills.pintar.co/",
               },
-              {
-                label: "Prakerja",
-                href: "https://skills.pintar.co/prakerja",
-              },
+              // {
+              //   label: "Prakerja",
+              //   href: "https://skills.pintar.co/prakerja",
+              // },
             ],
           },
           {
